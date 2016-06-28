@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="187.200,604.500,424.800,628.296">
+<textline bbox="205.200,618.180,406.800,628.296">
+<text font="KKBPHT+Courier-Bold" bbox="205.200,618.180,212.400,628.296" size="10.116">U</text>
+<text font="KKBPHT+Courier-Bold" bbox="212.400,618.180,219.600,628.296" size="10.116">N</text>
+<text font="KKBPHT+Courier-Bold" bbox="219.600,618.180,226.800,628.296" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="226.800,618.180,234.000,628.296" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="234.000,618.180,241.200,628.296" size="10.116">E</text>
+<text font="KKBPHT+Courier-Bold" bbox="241.200,618.180,248.400,628.296" size="10.116">D</text>
+<text font="KKBPHT+Courier-Bold" bbox="248.400,618.180,255.600,628.296" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="255.600,618.180,262.800,628.296" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="262.800,618.180,270.000,628.296" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="270.000,618.180,277.200,628.296" size="10.116">A</text>
+<text font="KKBPHT+Courier-Bold" bbox="277.200,618.180,284.400,628.296" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="284.400,618.180,291.600,628.296" size="10.116">E</text>
+<text font="KKBPHT+Courier-Bold" bbox="291.600,618.180,298.800,628.296" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="298.800,618.180,306.000,628.296" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="306.000,618.180,313.200,628.296" size="10.116">D</text>
+<text font="KKBPHT+Courier-Bold" bbox="313.200,618.180,320.400,628.296" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="320.400,618.180,327.600,628.296" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="327.600,618.180,334.800,628.296" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="334.800,618.180,342.000,628.296" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="342.000,618.180,349.200,628.296" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="349.200,618.180,356.400,628.296" size="10.116">C</text>
+<text font="KKBPHT+Courier-Bold" bbox="356.400,618.180,363.600,628.296" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="363.600,618.180,370.800,628.296" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="370.800,618.180,378.000,628.296" size="10.116">C</text>
+<text font="KKBPHT+Courier-Bold" bbox="378.000,618.180,385.200,628.296" size="10.116">O</text>
+<text font="KKBPHT+Courier-Bold" bbox="385.200,618.180,392.400,628.296" size="10.116">U</text>
+<text font="KKBPHT+Courier-Bold" bbox="392.400,618.180,399.600,628.296" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="399.600,618.180,406.800,628.296" size="10.116">T</text>
+<text>
+</text>
+</textline>
+<textline bbox="187.200,604.500,424.800,614.616">
+<text font="KKBPHT+Courier-Bold" bbox="187.200,604.500,194.400,614.616" size="10.116">F</text>
+<text font="KKBPHT+Courier-Bold" bbox="194.400,604.500,201.600,614.616" size="10.116">O</text>
+<text font="KKBPHT+Courier-Bold" bbox="201.600,604.500,208.800,614.616" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="208.800,604.500,216.000,614.616" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="216.000,604.500,223.200,614.616" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="223.200,604.500,230.400,614.616" size="10.116">H</text>
+<text font="KKBPHT+Courier-Bold" bbox="230.400,604.500,237.600,614.616" size="10.116">E</text>
+<text font="KKBPHT+Courier-Bold" bbox="237.600,604.500,244.800,614.616" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="244.800,604.500,252.000,614.616" size="10.116">D</text>
+<text font="KKBPHT+Courier-Bold" bbox="252.000,604.500,259.200,614.616" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="259.200,604.500,266.400,614.616" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="266.400,604.500,273.600,614.616" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="273.600,604.500,280.800,614.616" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="280.800,604.500,288.000,614.616" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="288.000,604.500,295.200,614.616" size="10.116">C</text>
+<text font="KKBPHT+Courier-Bold" bbox="295.200,604.500,302.400,614.616" size="10.116">T</text>
+<text font="KKBPHT+Courier-Bold" bbox="302.400,604.500,309.600,614.616" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="309.600,604.500,316.800,614.616" size="10.116">O</text>
+<text font="KKBPHT+Courier-Bold" bbox="316.800,604.500,324.000,614.616" size="10.116">F</text>
+<text font="KKBPHT+Courier-Bold" bbox="324.000,604.500,331.200,614.616" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="331.200,604.500,338.400,614.616" size="10.116">N</text>
+<text font="KKBPHT+Courier-Bold" bbox="338.400,604.500,345.600,614.616" size="10.116">E</text>
+<text font="KKBPHT+Courier-Bold" bbox="345.600,604.500,352.800,614.616" size="10.116">W</text>
+<text font="KKBPHT+Courier-Bold" bbox="352.800,604.500,360.000,614.616" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="360.000,604.500,367.200,614.616" size="10.116">H</text>
+<text font="KKBPHT+Courier-Bold" bbox="367.200,604.500,374.400,614.616" size="10.116">A</text>
+<text font="KKBPHT+Courier-Bold" bbox="374.400,604.500,381.600,614.616" size="10.116">M</text>
+<text font="KKBPHT+Courier-Bold" bbox="381.600,604.500,388.800,614.616" size="10.116">P</text>
+<text font="KKBPHT+Courier-Bold" bbox="388.800,604.500,396.000,614.616" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="396.000,604.500,403.200,614.616" size="10.116">H</text>
+<text font="KKBPHT+Courier-Bold" bbox="403.200,604.500,410.400,614.616" size="10.116">I</text>
+<text font="KKBPHT+Courier-Bold" bbox="410.400,604.500,417.600,614.616" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="417.600,604.500,424.800,614.616" size="10.116">E</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="72.000,552.300,201.600,562.416">
+<textline bbox="72.000,552.300,201.600,562.416">
+<text font="KKBPHT+Courier-Bold" bbox="72.000,552.300,79.200,562.416" size="10.116">A</text>
+<text font="KKBPHT+Courier-Bold" bbox="79.200,552.300,86.400,562.416" size="10.116">l</text>
+<text font="KKBPHT+Courier-Bold" bbox="86.400,552.300,93.600,562.416" size="10.116">b</text>
+<text font="KKBPHT+Courier-Bold" bbox="93.600,552.300,100.800,562.416" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="100.800,552.300,108.000,562.416" size="10.116">r</text>
+<text font="KKBPHT+Courier-Bold" bbox="108.000,552.300,115.200,562.416" size="10.116">t</text>
+<text font="KKBPHT+Courier-Bold" bbox="115.200,552.300,122.400,562.416" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="122.400,552.300,129.600,562.416" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="129.600,552.300,136.800,562.416" size="10.116">.</text>
+<text font="KKBPHT+Courier-Bold" bbox="136.800,552.300,144.000,562.416" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="144.000,552.300,151.200,562.416" size="10.116">K</text>
+<text font="KKBPHT+Courier-Bold" bbox="151.200,552.300,158.400,562.416" size="10.116">u</text>
+<text font="KKBPHT+Courier-Bold" bbox="158.400,552.300,165.600,562.416" size="10.116">p</text>
+<text font="KKBPHT+Courier-Bold" bbox="165.600,552.300,172.800,562.416" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="172.800,552.300,180.000,562.416" size="10.116">r</text>
+<text font="KKBPHT+Courier-Bold" bbox="180.000,552.300,187.200,562.416" size="10.116">m</text>
+<text font="KKBPHT+Courier-Bold" bbox="187.200,552.300,194.400,562.416" size="10.116">a</text>
+<text font="KKBPHT+Courier-Bold" bbox="194.400,552.300,201.600,562.416" size="10.116">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="108.000,525.780,122.400,535.896">
+<textline bbox="108.000,525.780,122.400,535.896">
+<text font="KKBPHT+Courier-Bold" bbox="108.000,525.780,115.200,535.896" size="10.116">v</text>
+<text font="KKBPHT+Courier-Bold" bbox="115.200,525.780,122.400,535.896" size="10.116">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="360.000,525.780,518.400,535.896">
+<textline bbox="360.000,525.780,518.400,535.896">
+<text font="KKBPHT+Courier-Bold" bbox="360.000,525.780,367.200,535.896" size="10.116">C</text>
+<text font="KKBPHT+Courier-Bold" bbox="367.200,525.780,374.400,535.896" size="10.116">i</text>
+<text font="KKBPHT+Courier-Bold" bbox="374.400,525.780,381.600,535.896" size="10.116">v</text>
+<text font="KKBPHT+Courier-Bold" bbox="381.600,525.780,388.800,535.896" size="10.116">i</text>
+<text font="KKBPHT+Courier-Bold" bbox="388.800,525.780,396.000,535.896" size="10.116">l</text>
+<text font="KKBPHT+Courier-Bold" bbox="396.000,525.780,403.200,535.896" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="403.200,525.780,410.400,535.896" size="10.116">N</text>
+<text font="KKBPHT+Courier-Bold" bbox="410.400,525.780,417.600,535.896" size="10.116">o</text>
+<text font="KKBPHT+Courier-Bold" bbox="417.600,525.780,424.800,535.896" size="10.116">.</text>
+<text font="KKBPHT+Courier-Bold" bbox="424.800,525.780,432.000,535.896" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="432.000,525.780,439.200,535.896" size="10.116">0</text>
+<text font="KKBPHT+Courier-Bold" bbox="439.200,525.780,446.400,535.896" size="10.116">7</text>
+<text font="KKBPHT+Courier-Bold" bbox="446.400,525.780,453.600,535.896" size="10.116">-</text>
+<text font="KKBPHT+Courier-Bold" bbox="453.600,525.780,460.800,535.896" size="10.116">c</text>
+<text font="KKBPHT+Courier-Bold" bbox="460.800,525.780,468.000,535.896" size="10.116">v</text>
+<text font="KKBPHT+Courier-Bold" bbox="468.000,525.780,475.200,535.896" size="10.116">-</text>
+<text font="KKBPHT+Courier-Bold" bbox="475.200,525.780,482.400,535.896" size="10.116">2</text>
+<text font="KKBPHT+Courier-Bold" bbox="482.400,525.780,489.600,535.896" size="10.116">4</text>
+<text font="KKBPHT+Courier-Bold" bbox="489.600,525.780,496.800,535.896" size="10.116">5</text>
+<text font="KKBPHT+Courier-Bold" bbox="496.800,525.780,504.000,535.896" size="10.116">-</text>
+<text font="KKBPHT+Courier-Bold" bbox="504.000,525.780,511.200,535.896" size="10.116">P</text>
+<text font="KKBPHT+Courier-Bold" bbox="511.200,525.780,518.400,535.896" size="10.116">B</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="72.000,499.260,316.800,509.376">
+<textline bbox="72.000,499.260,316.800,509.376">
+<text font="KKBPHT+Courier-Bold" bbox="72.000,499.260,79.200,509.376" size="10.116">W</text>
+<text font="KKBPHT+Courier-Bold" bbox="79.200,499.260,86.400,509.376" size="10.116">a</text>
+<text font="KKBPHT+Courier-Bold" bbox="86.400,499.260,93.600,509.376" size="10.116">r</text>
+<text font="KKBPHT+Courier-Bold" bbox="93.600,499.260,100.800,509.376" size="10.116">d</text>
+<text font="KKBPHT+Courier-Bold" bbox="100.800,499.260,108.000,509.376" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="108.000,499.260,115.200,509.376" size="10.116">n</text>
+<text font="KKBPHT+Courier-Bold" bbox="115.200,499.260,122.400,509.376" size="10.116">,</text>
+<text font="KKBPHT+Courier-Bold" bbox="122.400,499.260,129.600,509.376" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="129.600,499.260,136.800,509.376" size="10.116">N</text>
+<text font="KKBPHT+Courier-Bold" bbox="136.800,499.260,144.000,509.376" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="144.000,499.260,151.200,509.376" size="10.116">w</text>
+<text font="KKBPHT+Courier-Bold" bbox="151.200,499.260,158.400,509.376" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="158.400,499.260,165.600,509.376" size="10.116">H</text>
+<text font="KKBPHT+Courier-Bold" bbox="165.600,499.260,172.800,509.376" size="10.116">a</text>
+<text font="KKBPHT+Courier-Bold" bbox="172.800,499.260,180.000,509.376" size="10.116">m</text>
+<text font="KKBPHT+Courier-Bold" bbox="180.000,499.260,187.200,509.376" size="10.116">p</text>
+<text font="KKBPHT+Courier-Bold" bbox="187.200,499.260,194.400,509.376" size="10.116">s</text>
+<text font="KKBPHT+Courier-Bold" bbox="194.400,499.260,201.600,509.376" size="10.116">h</text>
+<text font="KKBPHT+Courier-Bold" bbox="201.600,499.260,208.800,509.376" size="10.116">i</text>
+<text font="KKBPHT+Courier-Bold" bbox="208.800,499.260,216.000,509.376" size="10.116">r</text>
+<text font="KKBPHT+Courier-Bold" bbox="216.000,499.260,223.200,509.376" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="223.200,499.260,230.400,509.376" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="230.400,499.260,237.600,509.376" size="10.116">S</text>
+<text font="KKBPHT+Courier-Bold" bbox="237.600,499.260,244.800,509.376" size="10.116">t</text>
+<text font="KKBPHT+Courier-Bold" bbox="244.800,499.260,252.000,509.376" size="10.116">a</text>
+<text font="KKBPHT+Courier-Bold" bbox="252.000,499.260,259.200,509.376" size="10.116">t</text>
+<text font="KKBPHT+Courier-Bold" bbox="259.200,499.260,266.400,509.376" size="10.116">e</text>
+<text font="KKBPHT+Courier-Bold" bbox="266.400,499.260,273.600,509.376" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="273.600,499.260,280.800,509.376" size="10.116">P</text>
+<text font="KKBPHT+Courier-Bold" bbox="280.800,499.260,288.000,509.376" size="10.116">r</text>
+<text font="KKBPHT+Courier-Bold" bbox="288.000,499.260,295.200,509.376" size="10.116">i</text>
+<text font="KKBPHT+Courier-Bold" bbox="295.200,499.260,302.400,509.376" size="10.116">s</text>
+<text font="KKBPHT+Courier-Bold" bbox="302.400,499.260,309.600,509.376" size="10.116">o</text>
+<text font="KKBPHT+Courier-Bold" bbox="309.600,499.260,316.800,509.376" size="10.116">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="273.600,447.060,338.400,457.176">
+<textline bbox="273.600,447.060,338.400,457.176">
+<text font="KKBPHT+Courier-Bold" bbox="273.600,447.060,280.800,457.176" size="10.116">O</text>
+<text font="KKBPHT+Courier-Bold" bbox="280.800,447.060,288.000,457.176" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="288.000,447.060,295.200,457.176" size="10.116">R</text>
+<text font="KKBPHT+Courier-Bold" bbox="295.200,447.060,302.400,457.176" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="302.400,447.060,309.600,457.176" size="10.116">D</text>
+<text font="KKBPHT+Courier-Bold" bbox="309.600,447.060,316.800,457.176" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="316.800,447.060,324.000,457.176" size="10.116">E</text>
+<text font="KKBPHT+Courier-Bold" bbox="324.000,447.060,331.200,457.176" size="10.116"> </text>
+<text font="KKBPHT+Courier-Bold" bbox="331.200,447.060,338.400,457.176" size="10.116">R</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="108.000,421.248,518.400,431.484">
+<textline bbox="108.000,421.248,518.400,431.484">
+<text font="FAZVDJ+Courier" bbox="108.000,421.248,115.200,431.484" size="10.236">P</text>
+<text font="FAZVDJ+Courier" bbox="115.200,421.248,122.400,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="122.400,421.248,129.600,431.484" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="129.600,421.248,136.800,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="136.800,421.248,144.000,431.484" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="144.000,421.248,151.200,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="151.200,421.248,158.400,431.484" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="158.400,421.248,165.600,431.484" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="165.600,421.248,172.800,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="172.800,421.248,180.000,431.484" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="180.000,421.248,187.200,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="187.200,421.248,194.400,431.484" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="194.400,421.248,201.600,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="201.600,421.248,208.800,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="208.800,421.248,216.000,431.484" size="10.236">k</text>
+<text font="FAZVDJ+Courier" bbox="216.000,421.248,223.200,431.484" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="223.200,421.248,230.400,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="230.400,421.248,237.600,431.484" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="237.600,421.248,244.800,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="244.800,421.248,252.000,431.484" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="252.000,421.248,259.200,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="259.200,421.248,266.400,431.484" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="266.400,421.248,273.600,431.484" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="273.600,421.248,280.800,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="280.800,421.248,288.000,431.484" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="288.000,421.248,295.200,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="295.200,421.248,302.400,431.484" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="302.400,421.248,309.600,431.484" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="309.600,421.248,316.800,431.484" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="316.800,421.248,324.000,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="324.000,421.248,331.200,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="331.200,421.248,338.400,431.484" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="338.400,421.248,345.600,431.484" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="345.600,421.248,352.800,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="352.800,421.248,360.000,431.484" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="360.000,421.248,367.200,431.484" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="367.200,421.248,374.400,431.484" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="374.400,421.248,381.600,431.484" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="381.600,421.248,388.800,431.484" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="388.800,421.248,396.000,431.484" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="396.000,421.248,403.200,431.484" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="403.200,421.248,410.400,431.484" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="410.400,421.248,417.600,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="417.600,421.248,424.800,431.484" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="424.800,421.248,432.000,431.484" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="432.000,421.248,439.200,431.484" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="439.200,421.248,446.400,431.484" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="446.400,421.248,453.600,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="453.600,421.248,460.800,431.484" size="10.236">(</text>
+<text font="FAZVDJ+Courier" bbox="460.800,421.248,468.000,431.484" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="468.000,421.248,475.200,431.484" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="475.200,421.248,482.400,431.484" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="482.400,421.248,489.600,431.484" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="489.600,421.248,496.800,431.484" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,421.248,504.000,431.484" size="10.236">N</text>
+<text font="FAZVDJ+Courier" bbox="504.000,421.248,511.200,431.484" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="511.200,421.248,518.400,431.484" size="10.236">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="72.000,395.568,511.200,405.804">
+<textline bbox="72.000,395.568,511.200,405.804">
+<text font="FAZVDJ+Courier" bbox="72.000,395.568,79.200,405.804" size="10.236">5</text>
+<text font="FAZVDJ+Courier" bbox="79.200,395.568,86.400,405.804" size="10.236">9</text>
+<text font="FAZVDJ+Courier" bbox="86.400,395.568,93.600,405.804" size="10.236">)</text>
+<text font="FAZVDJ+Courier" bbox="93.600,395.568,100.800,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="100.800,395.568,108.000,405.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="108.000,395.568,115.200,405.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="115.200,395.568,122.400,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="122.400,395.568,129.600,405.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="129.600,395.568,136.800,405.804" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="136.800,395.568,144.000,405.804" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="144.000,395.568,151.200,405.804" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="151.200,395.568,158.400,405.804" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="158.400,395.568,165.600,405.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="165.600,395.568,172.800,405.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="172.800,395.568,180.000,405.804" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="180.000,395.568,187.200,405.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="187.200,395.568,194.400,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="194.400,395.568,201.600,405.804" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="201.600,395.568,208.800,405.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="208.800,395.568,216.000,405.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="216.000,395.568,223.200,405.804" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="223.200,395.568,230.400,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="230.400,395.568,237.600,405.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="237.600,395.568,244.800,405.804" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="244.800,395.568,252.000,405.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="252.000,395.568,259.200,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="259.200,395.568,266.400,405.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="266.400,395.568,273.600,405.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="273.600,395.568,280.800,405.804" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="280.800,395.568,288.000,405.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="288.000,395.568,295.200,405.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="295.200,395.568,302.400,405.804" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="302.400,395.568,309.600,405.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="309.600,395.568,316.800,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="316.800,395.568,324.000,405.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="324.000,395.568,331.200,405.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="331.200,395.568,338.400,405.804" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="338.400,395.568,345.600,405.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="345.600,395.568,352.800,405.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="352.800,395.568,360.000,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="360.000,395.568,367.200,405.804" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="367.200,395.568,374.400,405.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="374.400,395.568,381.600,405.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="381.600,395.568,388.800,405.804" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="388.800,395.568,396.000,405.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="396.000,395.568,403.200,405.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="403.200,395.568,410.400,405.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="410.400,395.568,417.600,405.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="417.600,395.568,424.800,405.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="424.800,395.568,432.000,405.804" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="432.000,395.568,439.200,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="439.200,395.568,446.400,405.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="446.400,395.568,453.600,405.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="453.600,395.568,460.800,405.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="460.800,395.568,468.000,405.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="468.000,395.568,475.200,405.804" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="475.200,395.568,482.400,405.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="482.400,395.568,489.600,405.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="489.600,395.568,496.800,405.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,395.568,504.000,405.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="504.000,395.568,511.200,405.804" size="10.236">f</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="72.000,369.888,525.600,380.124">
+<textline bbox="72.000,369.888,525.600,380.124">
+<text font="FAZVDJ+Courier" bbox="72.000,369.888,79.200,380.124" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="79.200,369.888,86.400,380.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="86.400,369.888,93.600,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="93.600,369.888,100.800,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="100.800,369.888,108.000,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="108.000,369.888,115.200,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="115.200,369.888,122.400,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="122.400,369.888,129.600,380.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="129.600,369.888,136.800,380.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="136.800,369.888,144.000,380.124" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="144.000,369.888,151.200,380.124" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="151.200,369.888,158.400,380.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="158.400,369.888,165.600,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="165.600,369.888,172.800,380.124" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="172.800,369.888,180.000,380.124" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="180.000,369.888,187.200,380.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="187.200,369.888,194.400,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="194.400,369.888,201.600,380.124" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="201.600,369.888,208.800,380.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="208.800,369.888,216.000,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="216.000,369.888,223.200,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="223.200,369.888,230.400,380.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="230.400,369.888,237.600,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="237.600,369.888,244.800,380.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="244.800,369.888,252.000,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="252.000,369.888,259.200,380.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="259.200,369.888,266.400,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="266.400,369.888,273.600,380.124" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="273.600,369.888,280.800,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="280.800,369.888,288.000,380.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="288.000,369.888,295.200,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="295.200,369.888,302.400,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="302.400,369.888,309.600,380.124" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="309.600,369.888,316.800,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="316.800,369.888,324.000,380.124" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="324.000,369.888,331.200,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="331.200,369.888,338.400,380.124" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="338.400,369.888,345.600,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="345.600,369.888,352.800,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="352.800,369.888,360.000,380.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="360.000,369.888,367.200,380.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="367.200,369.888,374.400,380.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="374.400,369.888,381.600,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="381.600,369.888,388.800,380.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="388.800,369.888,396.000,380.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="396.000,369.888,403.200,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="403.200,369.888,410.400,380.124" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="410.400,369.888,417.600,380.124" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="417.600,369.888,424.800,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="424.800,369.888,432.000,380.124" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="432.000,369.888,439.200,380.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="439.200,369.888,446.400,380.124" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="446.400,369.888,453.600,380.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="453.600,369.888,460.800,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="460.800,369.888,468.000,380.124" size="10.236">(</text>
+<text font="FAZVDJ+Courier" bbox="468.000,369.888,475.200,380.124" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="475.200,369.888,482.400,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="482.400,369.888,489.600,380.124" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="489.600,369.888,496.800,380.124" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="496.800,369.888,504.000,380.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="504.000,369.888,511.200,380.124" size="10.236">N</text>
+<text font="FAZVDJ+Courier" bbox="511.200,369.888,518.400,380.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="518.400,369.888,525.600,380.124" size="10.236">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="72.000,344.208,540.000,354.444">
+<textline bbox="72.000,344.208,540.000,354.444">
+<text font="FAZVDJ+Courier" bbox="72.000,344.208,79.200,354.444" size="10.236">1</text>
+<text font="FAZVDJ+Courier" bbox="79.200,344.208,86.400,354.444" size="10.236">7</text>
+<text font="FAZVDJ+Courier" bbox="86.400,344.208,93.600,354.444" size="10.236">)</text>
+<text font="FAZVDJ+Courier" bbox="93.600,344.208,100.800,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="100.800,344.208,108.000,354.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="108.000,344.208,115.200,354.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="115.200,344.208,122.400,354.444" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="122.400,344.208,129.600,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,344.208,136.800,354.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="136.800,344.208,144.000,354.444" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="144.000,344.208,151.200,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="151.200,344.208,158.400,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="158.400,344.208,165.600,354.444" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="165.600,344.208,172.800,354.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="172.800,344.208,180.000,354.444" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="180.000,344.208,187.200,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="187.200,344.208,194.400,354.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="194.400,344.208,201.600,354.444" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="201.600,344.208,208.800,354.444" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="208.800,344.208,216.000,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="216.000,344.208,223.200,354.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="223.200,344.208,230.400,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="230.400,344.208,237.600,354.444" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="237.600,344.208,244.800,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="244.800,344.208,252.000,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="252.000,344.208,259.200,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="259.200,344.208,266.400,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="266.400,344.208,273.600,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="273.600,344.208,280.800,354.444" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="280.800,344.208,288.000,354.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="288.000,344.208,295.200,354.444" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="295.200,344.208,302.400,354.444" size="10.236">v</text>
+<text font="FAZVDJ+Courier" bbox="302.400,344.208,309.600,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="309.600,344.208,316.800,354.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="316.800,344.208,324.000,354.444" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="324.000,344.208,331.200,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="331.200,344.208,338.400,354.444" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="338.400,344.208,345.600,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="345.600,344.208,352.800,354.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="352.800,344.208,360.000,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="360.000,344.208,367.200,354.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="367.200,344.208,374.400,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="374.400,344.208,381.600,354.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="381.600,344.208,388.800,354.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="388.800,344.208,396.000,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="396.000,344.208,403.200,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="403.200,344.208,410.400,354.444" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="410.400,344.208,417.600,354.444" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="417.600,344.208,424.800,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="424.800,344.208,432.000,354.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="432.000,344.208,439.200,354.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="439.200,344.208,446.400,354.444" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="446.400,344.208,453.600,354.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="453.600,344.208,460.800,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="460.800,344.208,468.000,354.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="468.000,344.208,475.200,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="475.200,344.208,482.400,354.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="482.400,344.208,489.600,354.444" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="489.600,344.208,496.800,354.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,344.208,504.000,354.444" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="504.000,344.208,511.200,354.444" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="511.200,344.208,518.400,354.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="518.400,344.208,525.600,354.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="525.600,344.208,532.800,354.444" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="532.800,344.208,540.000,354.444" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="10" bbox="72.000,318.528,288.000,328.764">
+<textline bbox="72.000,318.528,288.000,328.764">
+<text font="FAZVDJ+Courier" bbox="72.000,318.528,79.200,328.764" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="79.200,318.528,86.400,328.764" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="86.400,318.528,93.600,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="93.600,318.528,100.800,328.764" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="100.800,318.528,108.000,328.764" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="108.000,318.528,115.200,328.764" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="115.200,318.528,122.400,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="122.400,318.528,129.600,328.764" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="129.600,318.528,136.800,328.764" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="136.800,318.528,144.000,328.764" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="144.000,318.528,151.200,328.764" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="151.200,318.528,158.400,328.764" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="158.400,318.528,165.600,328.764" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="165.600,318.528,172.800,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="172.800,318.528,180.000,328.764" size="10.236">(</text>
+<text font="FAZVDJ+Courier" bbox="180.000,318.528,187.200,328.764" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="187.200,318.528,194.400,328.764" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="194.400,318.528,201.600,328.764" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="201.600,318.528,208.800,328.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="208.800,318.528,216.000,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="216.000,318.528,223.200,328.764" size="10.236">N</text>
+<text font="FAZVDJ+Courier" bbox="223.200,318.528,230.400,328.764" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="230.400,318.528,237.600,328.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="237.600,318.528,244.800,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="244.800,318.528,252.000,328.764" size="10.236">5</text>
+<text font="FAZVDJ+Courier" bbox="252.000,318.528,259.200,328.764" size="10.236">5</text>
+<text font="FAZVDJ+Courier" bbox="259.200,318.528,266.400,328.764" size="10.236">)</text>
+<text font="FAZVDJ+Courier" bbox="266.400,318.528,273.600,328.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="273.600,318.528,280.800,328.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="280.800,318.528,288.000,328.764" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="11" bbox="108.000,292.848,489.600,303.084">
+<textline bbox="108.000,292.848,489.600,303.084">
+<text font="FAZVDJ+Courier" bbox="108.000,292.848,115.200,303.084" size="10.236">M</text>
+<text font="FAZVDJ+Courier" bbox="115.200,292.848,122.400,303.084" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="122.400,292.848,129.600,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,292.848,136.800,303.084" size="10.236">O</text>
+<text font="FAZVDJ+Courier" bbox="136.800,292.848,144.000,303.084" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="144.000,292.848,151.200,303.084" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="151.200,292.848,158.400,303.084" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="158.400,292.848,165.600,303.084" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="165.600,292.848,172.800,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="172.800,292.848,180.000,303.084" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="180.000,292.848,187.200,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="187.200,292.848,194.400,303.084" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="194.400,292.848,201.600,303.084" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="201.600,292.848,208.800,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="208.800,292.848,216.000,303.084" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="216.000,292.848,223.200,303.084" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="223.200,292.848,230.400,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="230.400,292.848,237.600,303.084" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="237.600,292.848,244.800,303.084" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="244.800,292.848,252.000,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="252.000,292.848,259.200,303.084" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="259.200,292.848,266.400,303.084" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="266.400,292.848,273.600,303.084" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="273.600,292.848,280.800,303.084" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="280.800,292.848,288.000,303.084" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="288.000,292.848,295.200,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="295.200,292.848,302.400,303.084" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="302.400,292.848,309.600,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="309.600,292.848,316.800,303.084" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="316.800,292.848,324.000,303.084" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="324.000,292.848,331.200,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="331.200,292.848,338.400,303.084" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="338.400,292.848,345.600,303.084" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="345.600,292.848,352.800,303.084" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="352.800,292.848,360.000,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="360.000,292.848,367.200,303.084" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="367.200,292.848,374.400,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="374.400,292.848,381.600,303.084" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="381.600,292.848,388.800,303.084" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="388.800,292.848,396.000,303.084" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="396.000,292.848,403.200,303.084" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="403.200,292.848,410.400,303.084" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="410.400,292.848,417.600,303.084" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="417.600,292.848,424.800,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="424.800,292.848,432.000,303.084" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="432.000,292.848,439.200,303.084" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="439.200,292.848,446.400,303.084" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="446.400,292.848,453.600,303.084" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="453.600,292.848,460.800,303.084" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="460.800,292.848,468.000,303.084" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="468.000,292.848,475.200,303.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="475.200,292.848,482.400,303.084" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="482.400,292.848,489.600,303.084" size="10.236">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="12" bbox="72.000,267.168,489.600,277.404">
+<textline bbox="72.000,267.168,489.600,277.404">
+<text font="FAZVDJ+Courier" bbox="72.000,267.168,79.200,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="79.200,267.168,86.400,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="86.400,267.168,93.600,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="93.600,267.168,100.800,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="100.800,267.168,108.000,277.404" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="108.000,267.168,115.200,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="115.200,267.168,122.400,277.404" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="122.400,267.168,129.600,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,267.168,136.800,277.404" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="136.800,267.168,144.000,277.404" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="144.000,267.168,151.200,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="151.200,267.168,158.400,277.404" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="158.400,267.168,165.600,277.404" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="165.600,267.168,172.800,277.404" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="172.800,267.168,180.000,277.404" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="180.000,267.168,187.200,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="187.200,267.168,194.400,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="194.400,267.168,201.600,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="201.600,267.168,208.800,277.404" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="208.800,267.168,216.000,277.404" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="216.000,267.168,223.200,277.404" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="223.200,267.168,230.400,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="230.400,267.168,237.600,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="237.600,267.168,244.800,277.404" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="244.800,267.168,252.000,277.404" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="252.000,267.168,259.200,277.404" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="259.200,267.168,266.400,277.404" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="266.400,267.168,273.600,277.404" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="273.600,267.168,280.800,277.404" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="280.800,267.168,288.000,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="288.000,267.168,295.200,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="295.200,267.168,302.400,277.404" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="302.400,267.168,309.600,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="309.600,267.168,316.800,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="316.800,267.168,324.000,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="324.000,267.168,331.200,277.404" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="331.200,267.168,338.400,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="338.400,267.168,345.600,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="345.600,267.168,352.800,277.404" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="352.800,267.168,360.000,277.404" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="360.000,267.168,367.200,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="367.200,267.168,374.400,277.404" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="374.400,267.168,381.600,277.404" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="381.600,267.168,388.800,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="388.800,267.168,396.000,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="396.000,267.168,403.200,277.404" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="403.200,267.168,410.400,277.404" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="410.400,267.168,417.600,277.404" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="417.600,267.168,424.800,277.404" size="10.236">M</text>
+<text font="FAZVDJ+Courier" bbox="424.800,267.168,432.000,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="432.000,267.168,439.200,277.404" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="439.200,267.168,446.400,277.404" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="446.400,267.168,453.600,277.404" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="453.600,267.168,460.800,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="460.800,267.168,468.000,277.404" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="468.000,267.168,475.200,277.404" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="475.200,267.168,482.400,277.404" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="482.400,267.168,489.600,277.404" size="10.236">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="13" bbox="72.000,241.488,540.000,251.724">
+<textline bbox="72.000,241.488,540.000,251.724">
+<text font="FAZVDJ+Courier" bbox="72.000,241.488,79.200,251.724" size="10.236">J</text>
+<text font="FAZVDJ+Courier" bbox="79.200,241.488,86.400,251.724" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="86.400,241.488,93.600,251.724" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="93.600,241.488,100.800,251.724" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="100.800,241.488,108.000,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="108.000,241.488,115.200,251.724" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="115.200,241.488,122.400,251.724" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="122.400,241.488,129.600,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,241.488,136.800,251.724" size="10.236">S</text>
+<text font="FAZVDJ+Courier" bbox="136.800,241.488,144.000,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="144.000,241.488,151.200,251.724" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="151.200,241.488,158.400,251.724" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="158.400,241.488,165.600,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="165.600,241.488,172.800,251.724" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="172.800,241.488,180.000,251.724" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="180.000,241.488,187.200,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="187.200,241.488,194.400,251.724" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="194.400,241.488,201.600,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="201.600,241.488,208.800,251.724" size="10.236">2</text>
+<text font="FAZVDJ+Courier" bbox="208.800,241.488,216.000,251.724" size="10.236">8</text>
+<text font="FAZVDJ+Courier" bbox="216.000,241.488,223.200,251.724" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="223.200,241.488,230.400,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="230.400,241.488,237.600,251.724" size="10.236">2</text>
+<text font="FAZVDJ+Courier" bbox="237.600,241.488,244.800,251.724" size="10.236">0</text>
+<text font="FAZVDJ+Courier" bbox="244.800,241.488,252.000,251.724" size="10.236">0</text>
+<text font="FAZVDJ+Courier" bbox="252.000,241.488,259.200,251.724" size="10.236">8</text>
+<text font="FAZVDJ+Courier" bbox="259.200,241.488,266.400,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="266.400,241.488,273.600,251.724" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="273.600,241.488,280.800,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="280.800,241.488,288.000,251.724" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="288.000,241.488,295.200,251.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="295.200,241.488,302.400,251.724" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="302.400,241.488,309.600,251.724" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="309.600,241.488,316.800,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="316.800,241.488,324.000,251.724" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="324.000,241.488,331.200,251.724" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="331.200,241.488,338.400,251.724" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="338.400,241.488,345.600,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="345.600,241.488,352.800,251.724" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="352.800,241.488,360.000,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="360.000,241.488,367.200,251.724" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="367.200,241.488,374.400,251.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="374.400,241.488,381.600,251.724" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="381.600,241.488,388.800,251.724" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="388.800,241.488,396.000,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="396.000,241.488,403.200,251.724" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="403.200,241.488,410.400,251.724" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="410.400,241.488,417.600,251.724" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="417.600,241.488,424.800,251.724" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="424.800,241.488,432.000,251.724" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="432.000,241.488,439.200,251.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="439.200,241.488,446.400,251.724" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="446.400,241.488,453.600,251.724" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="453.600,241.488,460.800,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="460.800,241.488,468.000,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="468.000,241.488,475.200,251.724" size="10.236">T</text>
+<text font="FAZVDJ+Courier" bbox="475.200,241.488,482.400,251.724" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="482.400,241.488,489.600,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="489.600,241.488,496.800,251.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,241.488,504.000,251.724" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="504.000,241.488,511.200,251.724" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="511.200,241.488,518.400,251.724" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="518.400,241.488,525.600,251.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="525.600,241.488,532.800,251.724" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="532.800,241.488,540.000,251.724" size="10.236">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="14" bbox="72.000,215.808,547.200,226.044">
+<textline bbox="72.000,215.808,547.200,226.044">
+<text font="FAZVDJ+Courier" bbox="72.000,215.808,79.200,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="79.200,215.808,86.400,226.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="86.400,215.808,93.600,226.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="93.600,215.808,100.800,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="100.800,215.808,108.000,226.044" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="108.000,215.808,115.200,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="115.200,215.808,122.400,226.044" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="122.400,215.808,129.600,226.044" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="129.600,215.808,136.800,226.044" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="136.800,215.808,144.000,226.044" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="144.000,215.808,151.200,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="151.200,215.808,158.400,226.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="158.400,215.808,165.600,226.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="165.600,215.808,172.800,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="172.800,215.808,180.000,226.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="180.000,215.808,187.200,226.044" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="187.200,215.808,194.400,226.044" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="194.400,215.808,201.600,226.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="201.600,215.808,208.800,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="208.800,215.808,216.000,226.044" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="216.000,215.808,223.200,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="223.200,215.808,230.400,226.044" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="230.400,215.808,237.600,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="237.600,215.808,244.800,226.044" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="244.800,215.808,252.000,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="252.000,215.808,259.200,226.044" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="259.200,215.808,266.400,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="266.400,215.808,273.600,226.044" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="273.600,215.808,280.800,226.044" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="280.800,215.808,288.000,226.044" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="288.000,215.808,295.200,226.044" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="295.200,215.808,302.400,226.044" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="302.400,215.808,309.600,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="309.600,215.808,316.800,226.044" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="316.800,215.808,324.000,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="324.000,215.808,331.200,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="331.200,215.808,338.400,226.044" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="338.400,215.808,345.600,226.044" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="345.600,215.808,352.800,226.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="352.800,215.808,360.000,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="360.000,215.808,367.200,226.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="367.200,215.808,374.400,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="374.400,215.808,381.600,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="381.600,215.808,388.800,226.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="388.800,215.808,396.000,226.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="396.000,215.808,403.200,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="403.200,215.808,410.400,226.044" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="410.400,215.808,417.600,226.044" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="417.600,215.808,424.800,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="424.800,215.808,432.000,226.044" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="432.000,215.808,439.200,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="439.200,215.808,446.400,226.044" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="446.400,215.808,453.600,226.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="453.600,215.808,460.800,226.044" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="460.800,215.808,468.000,226.044" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="468.000,215.808,475.200,226.044" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="475.200,215.808,482.400,226.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="482.400,215.808,489.600,226.044" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="489.600,215.808,496.800,226.044" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="496.800,215.808,504.000,226.044" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="504.000,215.808,511.200,226.044" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="511.200,215.808,518.400,226.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="518.400,215.808,525.600,226.044" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="525.600,215.808,532.800,226.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="532.800,215.808,540.000,226.044" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="540.000,215.808,547.200,226.044" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="15" bbox="72.000,190.128,525.600,200.364">
+<textline bbox="72.000,190.128,525.600,200.364">
+<text font="FAZVDJ+Courier" bbox="72.000,190.128,79.200,200.364" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="79.200,190.128,86.400,200.364" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="86.400,190.128,93.600,200.364" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="93.600,190.128,100.800,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="100.800,190.128,108.000,200.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="108.000,190.128,115.200,200.364" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="115.200,190.128,122.400,200.364" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="122.400,190.128,129.600,200.364" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="129.600,190.128,136.800,200.364" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="136.800,190.128,144.000,200.364" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="144.000,190.128,151.200,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="151.200,190.128,158.400,200.364" size="10.236">j</text>
+<text font="FAZVDJ+Courier" bbox="158.400,190.128,165.600,200.364" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="165.600,190.128,172.800,200.364" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="172.800,190.128,180.000,200.364" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="180.000,190.128,187.200,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="187.200,190.128,194.400,200.364" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="194.400,190.128,201.600,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="201.600,190.128,208.800,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="208.800,190.128,216.000,200.364" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="216.000,190.128,223.200,200.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="223.200,190.128,230.400,200.364" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="230.400,190.128,237.600,200.364" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="237.600,190.128,244.800,200.364" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="244.800,190.128,252.000,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="252.000,190.128,259.200,200.364" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="259.200,190.128,266.400,200.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="266.400,190.128,273.600,200.364" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="273.600,190.128,280.800,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="280.800,190.128,288.000,200.364" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="288.000,190.128,295.200,200.364" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="295.200,190.128,302.400,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="302.400,190.128,309.600,200.364" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="309.600,190.128,316.800,200.364" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="316.800,190.128,324.000,200.364" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="324.000,190.128,331.200,200.364" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="331.200,190.128,338.400,200.364" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="338.400,190.128,345.600,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="345.600,190.128,352.800,200.364" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="352.800,190.128,360.000,200.364" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="360.000,190.128,367.200,200.364" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="367.200,190.128,374.400,200.364" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="374.400,190.128,381.600,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="381.600,190.128,388.800,200.364" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="388.800,190.128,396.000,200.364" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="396.000,190.128,403.200,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="403.200,190.128,410.400,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="410.400,190.128,417.600,200.364" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="417.600,190.128,424.800,200.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="424.800,190.128,432.000,200.364" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="432.000,190.128,439.200,200.364" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="439.200,190.128,446.400,200.364" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="446.400,190.128,453.600,200.364" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="453.600,190.128,460.800,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="460.800,190.128,468.000,200.364" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="468.000,190.128,475.200,200.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="475.200,190.128,482.400,200.364" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="482.400,190.128,489.600,200.364" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="489.600,190.128,496.800,200.364" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="496.800,190.128,504.000,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="504.000,190.128,511.200,200.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="511.200,190.128,518.400,200.364" size="10.236">M</text>
+<text font="FAZVDJ+Courier" bbox="518.400,190.128,525.600,200.364" size="10.236">y</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="72.000,164.448,511.200,174.684">
+<textline bbox="72.000,164.448,511.200,174.684">
+<text font="FAZVDJ+Courier" bbox="72.000,164.448,79.200,174.684" size="10.236">O</text>
+<text font="FAZVDJ+Courier" bbox="79.200,164.448,86.400,174.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="86.400,164.448,93.600,174.684" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="93.600,164.448,100.800,174.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="100.800,164.448,108.000,174.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="108.000,164.448,115.200,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="115.200,164.448,122.400,174.684" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="122.400,164.448,129.600,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="129.600,164.448,136.800,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="136.800,164.448,144.000,174.684" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="144.000,164.448,151.200,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="151.200,164.448,158.400,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="158.400,164.448,165.600,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="165.600,164.448,172.800,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="172.800,164.448,180.000,174.684" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="180.000,164.448,187.200,174.684" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="187.200,164.448,194.400,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="194.400,164.448,201.600,174.684" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="201.600,164.448,208.800,174.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="208.800,164.448,216.000,174.684" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="216.000,164.448,223.200,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="223.200,164.448,230.400,174.684" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="230.400,164.448,237.600,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="237.600,164.448,244.800,174.684" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="244.800,164.448,252.000,174.684" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="252.000,164.448,259.200,174.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="259.200,164.448,266.400,174.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="266.400,164.448,273.600,174.684" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="273.600,164.448,280.800,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="280.800,164.448,288.000,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="288.000,164.448,295.200,174.684" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="295.200,164.448,302.400,174.684" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="302.400,164.448,309.600,174.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="309.600,164.448,316.800,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="316.800,164.448,324.000,174.684" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="324.000,164.448,331.200,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="331.200,164.448,338.400,174.684" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="338.400,164.448,345.600,174.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="345.600,164.448,352.800,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="352.800,164.448,360.000,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="360.000,164.448,367.200,174.684" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="367.200,164.448,374.400,174.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="374.400,164.448,381.600,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="381.600,164.448,388.800,174.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="388.800,164.448,396.000,174.684" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="396.000,164.448,403.200,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="403.200,164.448,410.400,174.684" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="410.400,164.448,417.600,174.684" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="417.600,164.448,424.800,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="424.800,164.448,432.000,174.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="432.000,164.448,439.200,174.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="439.200,164.448,446.400,174.684" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="446.400,164.448,453.600,174.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="453.600,164.448,460.800,174.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="460.800,164.448,468.000,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="468.000,164.448,475.200,174.684" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="475.200,164.448,482.400,174.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="482.400,164.448,489.600,174.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="489.600,164.448,496.800,174.684" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="496.800,164.448,504.000,174.684" size="10.236">v</text>
+<text font="FAZVDJ+Courier" bbox="504.000,164.448,511.200,174.684" size="10.236">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="72.000,138.768,518.400,149.004">
+<textline bbox="72.000,138.768,518.400,149.004">
+<text font="FAZVDJ+Courier" bbox="72.000,138.768,79.200,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="79.200,138.768,86.400,149.004" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="86.400,138.768,93.600,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="93.600,138.768,100.800,149.004" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="100.800,138.768,108.000,149.004" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="108.000,138.768,115.200,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="115.200,138.768,122.400,149.004" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="122.400,138.768,129.600,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="129.600,138.768,136.800,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="136.800,138.768,144.000,149.004" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="144.000,138.768,151.200,149.004" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="151.200,138.768,158.400,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="158.400,138.768,165.600,149.004" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="165.600,138.768,172.800,149.004" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="172.800,138.768,180.000,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="180.000,138.768,187.200,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="187.200,138.768,194.400,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="194.400,138.768,201.600,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="201.600,138.768,208.800,149.004" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="208.800,138.768,216.000,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="216.000,138.768,223.200,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="223.200,138.768,230.400,149.004" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="230.400,138.768,237.600,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="237.600,138.768,244.800,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="244.800,138.768,252.000,149.004" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="252.000,138.768,259.200,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="259.200,138.768,266.400,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="266.400,138.768,273.600,149.004" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="273.600,138.768,280.800,149.004" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="280.800,138.768,288.000,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="288.000,138.768,295.200,149.004" size="10.236">J</text>
+<text font="FAZVDJ+Courier" bbox="295.200,138.768,302.400,149.004" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="302.400,138.768,309.600,149.004" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="309.600,138.768,316.800,149.004" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="316.800,138.768,324.000,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="324.000,138.768,331.200,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="331.200,138.768,338.400,149.004" size="10.236">L</text>
+<text font="FAZVDJ+Courier" bbox="338.400,138.768,345.600,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="345.600,138.768,352.800,149.004" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="352.800,138.768,360.000,149.004" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="360.000,138.768,367.200,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="367.200,138.768,374.400,149.004" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="374.400,138.768,381.600,149.004" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="381.600,138.768,388.800,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="388.800,138.768,396.000,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="396.000,138.768,403.200,149.004" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="403.200,138.768,410.400,149.004" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="410.400,138.768,417.600,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="417.600,138.768,424.800,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="424.800,138.768,432.000,149.004" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="432.000,138.768,439.200,149.004" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="439.200,138.768,446.400,149.004" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="446.400,138.768,453.600,149.004" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="453.600,138.768,460.800,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="460.800,138.768,468.000,149.004" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="468.000,138.768,475.200,149.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="475.200,138.768,482.400,149.004" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="482.400,138.768,489.600,149.004" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="489.600,138.768,496.800,149.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="496.800,138.768,504.000,149.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="504.000,138.768,511.200,149.004" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="511.200,138.768,518.400,149.004" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="18" bbox="72.000,113.088,547.200,123.324">
+<textline bbox="72.000,113.088,547.200,123.324">
+<text font="FAZVDJ+Courier" bbox="72.000,113.088,79.200,123.324" size="10.236">J</text>
+<text font="FAZVDJ+Courier" bbox="79.200,113.088,86.400,123.324" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="86.400,113.088,93.600,123.324" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="93.600,113.088,100.800,123.324" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="100.800,113.088,108.000,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="108.000,113.088,115.200,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="115.200,113.088,122.400,123.324" size="10.236">L</text>
+<text font="FAZVDJ+Courier" bbox="122.400,113.088,129.600,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="129.600,113.088,136.800,123.324" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="136.800,113.088,144.000,123.324" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="144.000,113.088,151.200,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="151.200,113.088,158.400,123.324" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="158.400,113.088,165.600,123.324" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="165.600,113.088,172.800,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="172.800,113.088,180.000,123.324" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="180.000,113.088,187.200,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="187.200,113.088,194.400,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="194.400,113.088,201.600,123.324" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="201.600,113.088,208.800,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="208.800,113.088,216.000,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="216.000,113.088,223.200,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="223.200,113.088,230.400,123.324" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="230.400,113.088,237.600,123.324" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="237.600,113.088,244.800,123.324" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="244.800,113.088,252.000,123.324" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="252.000,113.088,259.200,123.324" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="259.200,113.088,266.400,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="266.400,113.088,273.600,123.324" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="273.600,113.088,280.800,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="280.800,113.088,288.000,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="288.000,113.088,295.200,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="295.200,113.088,302.400,123.324" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="302.400,113.088,309.600,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="309.600,113.088,316.800,123.324" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="316.800,113.088,324.000,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="324.000,113.088,331.200,123.324" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="331.200,113.088,338.400,123.324" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="338.400,113.088,345.600,123.324" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="345.600,113.088,352.800,123.324" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="352.800,113.088,360.000,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="360.000,113.088,367.200,123.324" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="367.200,113.088,374.400,123.324" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="374.400,113.088,381.600,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="381.600,113.088,388.800,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="388.800,113.088,396.000,123.324" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="396.000,113.088,403.200,123.324" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="403.200,113.088,410.400,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="410.400,113.088,417.600,123.324" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="417.600,113.088,424.800,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="424.800,113.088,432.000,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="432.000,113.088,439.200,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="439.200,113.088,446.400,123.324" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="446.400,113.088,453.600,123.324" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="453.600,113.088,460.800,123.324" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="460.800,113.088,468.000,123.324" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="468.000,113.088,475.200,123.324" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="475.200,113.088,482.400,123.324" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="482.400,113.088,489.600,123.324" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="489.600,113.088,496.800,123.324" size="10.236">j</text>
+<text font="FAZVDJ+Courier" bbox="496.800,113.088,504.000,123.324" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="504.000,113.088,511.200,123.324" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="511.200,113.088,518.400,123.324" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="518.400,113.088,525.600,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="525.600,113.088,532.800,123.324" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="532.800,113.088,540.000,123.324" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="540.000,113.088,547.200,123.324" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="72.000,552.960,201.600,553.680" />
+<rect linewidth="0" bbox="72.000,499.920,316.800,500.640" />
+<rect linewidth="0" bbox="273.600,447.720,338.400,448.440" />
+<layout>
+<textgroup bbox="72.000,113.088,547.200,628.296">
+<textbox id="0" bbox="187.200,604.500,424.800,628.296" />
+<textgroup bbox="72.000,113.088,547.200,562.416">
+<textgroup bbox="72.000,499.260,518.400,562.416">
+<textbox id="1" bbox="72.000,552.300,201.600,562.416" />
+<textgroup bbox="72.000,499.260,518.400,535.896">
+<textgroup bbox="108.000,525.780,518.400,535.896">
+<textbox id="2" bbox="108.000,525.780,122.400,535.896" />
+<textbox id="3" bbox="360.000,525.780,518.400,535.896" />
+</textgroup>
+<textbox id="4" bbox="72.000,499.260,316.800,509.376" />
+</textgroup>
+</textgroup>
+<textgroup bbox="72.000,113.088,547.200,457.176">
+<textbox id="5" bbox="273.600,447.060,338.400,457.176" />
+<textgroup bbox="72.000,113.088,547.200,431.484">
+<textgroup bbox="72.000,267.168,540.000,431.484">
+<textgroup bbox="72.000,344.208,540.000,431.484">
+<textgroup bbox="72.000,369.888,525.600,431.484">
+<textbox id="6" bbox="108.000,421.248,518.400,431.484" />
+<textgroup bbox="72.000,369.888,525.600,405.804">
+<textbox id="7" bbox="72.000,395.568,511.200,405.804" />
+<textbox id="8" bbox="72.000,369.888,525.600,380.124" />
+</textgroup>
+</textgroup>
+<textbox id="9" bbox="72.000,344.208,540.000,354.444" />
+</textgroup>
+<textgroup bbox="72.000,267.168,489.600,328.764">
+<textbox id="10" bbox="72.000,318.528,288.000,328.764" />
+<textgroup bbox="72.000,267.168,489.600,303.084">
+<textbox id="11" bbox="108.000,292.848,489.600,303.084" />
+<textbox id="12" bbox="72.000,267.168,489.600,277.404" />
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="72.000,113.088,547.200,251.724">
+<textgroup bbox="72.000,215.808,547.200,251.724">
+<textbox id="13" bbox="72.000,241.488,540.000,251.724" />
+<textbox id="14" bbox="72.000,215.808,547.200,226.044" />
+</textgroup>
+<textgroup bbox="72.000,113.088,547.200,200.364">
+<textgroup bbox="72.000,138.768,525.600,200.364">
+<textbox id="15" bbox="72.000,190.128,525.600,200.364" />
+<textgroup bbox="72.000,138.768,518.400,174.684">
+<textbox id="16" bbox="72.000,164.448,511.200,174.684" />
+<textbox id="17" bbox="72.000,138.768,518.400,149.004" />
+</textgroup>
+</textgroup>
+<textbox id="18" bbox="72.000,113.088,547.200,123.324" />
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
+<page id="2" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="72.000,632.568,518.400,642.804">
+<textline bbox="72.000,632.568,518.400,642.804">
+<text font="FAZVDJ+Courier" bbox="72.000,632.568,79.200,642.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="79.200,632.568,86.400,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="86.400,632.568,93.600,642.804" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="93.600,632.568,100.800,642.804" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="100.800,632.568,108.000,642.804" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="108.000,632.568,115.200,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="115.200,632.568,122.400,642.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="122.400,632.568,129.600,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="129.600,632.568,136.800,642.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="136.800,632.568,144.000,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="144.000,632.568,151.200,642.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="151.200,632.568,158.400,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="158.400,632.568,165.600,642.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="165.600,632.568,172.800,642.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="172.800,632.568,180.000,642.804" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="180.000,632.568,187.200,642.804" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="187.200,632.568,194.400,642.804" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="194.400,632.568,201.600,642.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="201.600,632.568,208.800,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="208.800,632.568,216.000,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="216.000,632.568,223.200,642.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="223.200,632.568,230.400,642.804" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="230.400,632.568,237.600,642.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="237.600,632.568,244.800,642.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="244.800,632.568,252.000,642.804" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="252.000,632.568,259.200,642.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="259.200,632.568,266.400,642.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="266.400,632.568,273.600,642.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="273.600,632.568,280.800,642.804" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="280.800,632.568,288.000,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="288.000,632.568,295.200,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="295.200,632.568,302.400,642.804" size="10.236">A</text>
+<text font="FAZVDJ+Courier" bbox="302.400,632.568,309.600,642.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="309.600,632.568,316.800,642.804" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="316.800,632.568,324.000,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="324.000,632.568,331.200,642.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="331.200,632.568,338.400,642.804" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="338.400,632.568,345.600,642.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="345.600,632.568,352.800,642.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="352.800,632.568,360.000,642.804" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="360.000,632.568,367.200,642.804" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="367.200,632.568,374.400,642.804" size="10.236">y</text>
+<text font="FAZVDJ+Courier" bbox="374.400,632.568,381.600,642.804" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="381.600,632.568,388.800,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="388.800,632.568,396.000,642.804" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="396.000,632.568,403.200,642.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="403.200,632.568,410.400,642.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="410.400,632.568,417.600,642.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="417.600,632.568,424.800,642.804" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="424.800,632.568,432.000,642.804" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="432.000,632.568,439.200,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="439.200,632.568,446.400,642.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="446.400,632.568,453.600,642.804" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="453.600,632.568,460.800,642.804" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="460.800,632.568,468.000,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="468.000,632.568,475.200,642.804" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="475.200,632.568,482.400,642.804" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="482.400,632.568,489.600,642.804" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="489.600,632.568,496.800,642.804" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,632.568,504.000,642.804" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="504.000,632.568,511.200,642.804" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="511.200,632.568,518.400,642.804" size="10.236">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="72.000,606.888,504.000,617.124">
+<textline bbox="72.000,606.888,504.000,617.124">
+<text font="FAZVDJ+Courier" bbox="72.000,606.888,79.200,617.124" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="79.200,606.888,86.400,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="86.400,606.888,93.600,617.124" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="93.600,606.888,100.800,617.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="100.800,606.888,108.000,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="108.000,606.888,115.200,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="115.200,606.888,122.400,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="122.400,606.888,129.600,617.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="129.600,606.888,136.800,617.124" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="136.800,606.888,144.000,617.124" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="144.000,606.888,151.200,617.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="151.200,606.888,158.400,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="158.400,606.888,165.600,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="165.600,606.888,172.800,617.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="172.800,606.888,180.000,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="180.000,606.888,187.200,617.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="187.200,606.888,194.400,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="194.400,606.888,201.600,617.124" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="201.600,606.888,208.800,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="208.800,606.888,216.000,617.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="216.000,606.888,223.200,617.124" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="223.200,606.888,230.400,617.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="230.400,606.888,237.600,617.124" size="10.236">w</text>
+<text font="FAZVDJ+Courier" bbox="237.600,606.888,244.800,617.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="244.800,606.888,252.000,617.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="252.000,606.888,259.200,617.124" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="259.200,606.888,266.400,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="266.400,606.888,273.600,617.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="273.600,606.888,280.800,617.124" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="280.800,606.888,288.000,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="288.000,606.888,295.200,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="295.200,606.888,302.400,617.124" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="302.400,606.888,309.600,617.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="309.600,606.888,316.800,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="316.800,606.888,324.000,617.124" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="324.000,606.888,331.200,617.124" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="331.200,606.888,338.400,617.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="338.400,606.888,345.600,617.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="345.600,606.888,352.800,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="352.800,606.888,360.000,617.124" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="360.000,606.888,367.200,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="367.200,606.888,374.400,617.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="374.400,606.888,381.600,617.124" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="381.600,606.888,388.800,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="388.800,606.888,396.000,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="396.000,606.888,403.200,617.124" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="403.200,606.888,410.400,617.124" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="410.400,606.888,417.600,617.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="417.600,606.888,424.800,617.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="424.800,606.888,432.000,617.124" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="432.000,606.888,439.200,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="439.200,606.888,446.400,617.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="446.400,606.888,453.600,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="453.600,606.888,460.800,617.124" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="460.800,606.888,468.000,617.124" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="468.000,606.888,475.200,617.124" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="475.200,606.888,482.400,617.124" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="482.400,606.888,489.600,617.124" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="489.600,606.888,496.800,617.124" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="496.800,606.888,504.000,617.124" size="10.236">l</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="72.000,581.208,525.600,591.444">
+<textline bbox="72.000,581.208,525.600,591.444">
+<text font="FAZVDJ+Courier" bbox="72.000,581.208,79.200,591.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="79.200,581.208,86.400,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="86.400,581.208,93.600,591.444" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="93.600,581.208,100.800,591.444" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="100.800,581.208,108.000,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="108.000,581.208,115.200,591.444" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="115.200,581.208,122.400,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="122.400,581.208,129.600,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,581.208,136.800,591.444" size="10.236">P</text>
+<text font="FAZVDJ+Courier" bbox="136.800,581.208,144.000,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="144.000,581.208,151.200,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="151.200,581.208,158.400,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="158.400,581.208,165.600,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="165.600,581.208,172.800,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="172.800,581.208,180.000,591.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="180.000,581.208,187.200,591.444" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="187.200,581.208,194.400,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="194.400,581.208,201.600,591.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="201.600,581.208,208.800,591.444" size="10.236">’</text>
+<text font="FAZVDJ+Courier" bbox="208.800,581.208,216.000,591.444" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="216.000,581.208,223.200,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="223.200,581.208,230.400,591.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="230.400,581.208,237.600,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="237.600,581.208,244.800,591.444" size="10.236">q</text>
+<text font="FAZVDJ+Courier" bbox="244.800,581.208,252.000,591.444" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="252.000,581.208,259.200,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="259.200,581.208,266.400,591.444" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="266.400,581.208,273.600,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="273.600,581.208,280.800,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="280.800,581.208,288.000,591.444" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="288.000,581.208,295.200,591.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="295.200,581.208,302.400,591.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="302.400,581.208,309.600,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="309.600,581.208,316.800,591.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="316.800,581.208,324.000,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="324.000,581.208,331.200,591.444" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="331.200,581.208,338.400,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="338.400,581.208,345.600,591.444" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="345.600,581.208,352.800,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="352.800,581.208,360.000,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="360.000,581.208,367.200,591.444" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="367.200,581.208,374.400,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="374.400,581.208,381.600,591.444" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="381.600,581.208,388.800,591.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="388.800,581.208,396.000,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="396.000,581.208,403.200,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="403.200,581.208,410.400,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="410.400,581.208,417.600,591.444" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="417.600,581.208,424.800,591.444" size="10.236">f</text>
+<text font="FAZVDJ+Courier" bbox="424.800,581.208,432.000,591.444" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="432.000,581.208,439.200,591.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="439.200,581.208,446.400,591.444" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="446.400,581.208,453.600,591.444" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="453.600,581.208,460.800,591.444" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="460.800,581.208,468.000,591.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="468.000,581.208,475.200,591.444" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="475.200,581.208,482.400,591.444" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="482.400,581.208,489.600,591.444" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="489.600,581.208,496.800,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="496.800,581.208,504.000,591.444" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="504.000,581.208,511.200,591.444" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="511.200,581.208,518.400,591.444" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="518.400,581.208,525.600,591.444" size="10.236">y</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="72.000,555.528,252.000,565.764">
+<textline bbox="72.000,555.528,252.000,565.764">
+<text font="FAZVDJ+Courier" bbox="72.000,555.528,79.200,565.764" size="10.236">(</text>
+<text font="FAZVDJ+Courier" bbox="79.200,555.528,86.400,565.764" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="86.400,555.528,93.600,565.764" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="93.600,555.528,100.800,565.764" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="100.800,555.528,108.000,565.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="108.000,555.528,115.200,565.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="115.200,555.528,122.400,565.764" size="10.236">N</text>
+<text font="FAZVDJ+Courier" bbox="122.400,555.528,129.600,565.764" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="129.600,555.528,136.800,565.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="136.800,555.528,144.000,565.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="144.000,555.528,151.200,565.764" size="10.236">5</text>
+<text font="FAZVDJ+Courier" bbox="151.200,555.528,158.400,565.764" size="10.236">9</text>
+<text font="FAZVDJ+Courier" bbox="158.400,555.528,165.600,565.764" size="10.236">)</text>
+<text font="FAZVDJ+Courier" bbox="165.600,555.528,172.800,565.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="172.800,555.528,180.000,565.764" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="180.000,555.528,187.200,565.764" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="187.200,555.528,194.400,565.764" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="194.400,555.528,201.600,565.764" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="201.600,555.528,208.800,565.764" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="208.800,555.528,216.000,565.764" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="216.000,555.528,223.200,565.764" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="223.200,555.528,230.400,565.764" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="230.400,555.528,237.600,565.764" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="237.600,555.528,244.800,565.764" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="244.800,555.528,252.000,565.764" size="10.236"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="108.000,529.848,187.200,540.084">
+<textline bbox="108.000,529.848,187.200,540.084">
+<text font="FAZVDJ+Courier" bbox="108.000,529.848,115.200,540.084" size="10.236">S</text>
+<text font="FAZVDJ+Courier" bbox="115.200,529.848,122.400,540.084" size="10.236">O</text>
+<text font="FAZVDJ+Courier" bbox="122.400,529.848,129.600,540.084" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,529.848,136.800,540.084" size="10.236">O</text>
+<text font="FAZVDJ+Courier" bbox="136.800,529.848,144.000,540.084" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="144.000,529.848,151.200,540.084" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="151.200,529.848,158.400,540.084" size="10.236">E</text>
+<text font="FAZVDJ+Courier" bbox="158.400,529.848,165.600,540.084" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="165.600,529.848,172.800,540.084" size="10.236">E</text>
+<text font="FAZVDJ+Courier" bbox="172.800,529.848,180.000,540.084" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="180.000,529.848,187.200,540.084" size="10.236">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="324.000,452.808,525.600,488.724">
+<textline bbox="324.000,478.488,511.200,488.724">
+<text font="FAZVDJ+Courier" bbox="324.000,478.488,331.200,488.724" size="10.236">/</text>
+<text font="FAZVDJ+Courier" bbox="331.200,478.488,338.400,488.724" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="338.400,478.488,345.600,488.724" size="10.236">/</text>
+<text font="FAZVDJ+Courier" bbox="345.600,478.488,352.800,488.724" size="10.236">P</text>
+<text font="FAZVDJ+Courier" bbox="352.800,478.488,360.000,488.724" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="360.000,478.488,367.200,488.724" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="367.200,478.488,374.400,488.724" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="374.400,478.488,381.600,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="381.600,478.488,388.800,488.724" size="10.236">B</text>
+<text font="FAZVDJ+Courier" bbox="388.800,478.488,396.000,488.724" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="396.000,478.488,403.200,488.724" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="403.200,478.488,410.400,488.724" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="410.400,478.488,417.600,488.724" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="417.600,478.488,424.800,488.724" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="424.800,478.488,432.000,488.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="432.000,478.488,439.200,488.724" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="439.200,478.488,446.400,488.724" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="446.400,478.488,453.600,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="453.600,478.488,460.800,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="460.800,478.488,468.000,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="468.000,478.488,475.200,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="475.200,478.488,482.400,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="482.400,478.488,489.600,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="489.600,478.488,496.800,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="496.800,478.488,504.000,488.724" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="504.000,478.488,511.200,488.724" size="10.236"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="324.000,465.648,424.800,475.884">
+<text font="FAZVDJ+Courier" bbox="324.000,465.648,331.200,475.884" size="10.236">P</text>
+<text font="FAZVDJ+Courier" bbox="331.200,465.648,338.400,475.884" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="338.400,465.648,345.600,475.884" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="345.600,465.648,352.800,475.884" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="352.800,465.648,360.000,475.884" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="360.000,465.648,367.200,475.884" size="10.236">B</text>
+<text font="FAZVDJ+Courier" bbox="367.200,465.648,374.400,475.884" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="374.400,465.648,381.600,475.884" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="381.600,465.648,388.800,475.884" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="388.800,465.648,396.000,475.884" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="396.000,465.648,403.200,475.884" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="403.200,465.648,410.400,475.884" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="410.400,465.648,417.600,475.884" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="417.600,465.648,424.800,475.884" size="10.236">o</text>
+<text>
+</text>
+</textline>
+<textline bbox="324.000,452.808,525.600,463.044">
+<text font="FAZVDJ+Courier" bbox="324.000,452.808,331.200,463.044" size="10.236">U</text>
+<text font="FAZVDJ+Courier" bbox="331.200,452.808,338.400,463.044" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="338.400,452.808,345.600,463.044" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="345.600,452.808,352.800,463.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="352.800,452.808,360.000,463.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="360.000,452.808,367.200,463.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="367.200,452.808,374.400,463.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="374.400,452.808,381.600,463.044" size="10.236">S</text>
+<text font="FAZVDJ+Courier" bbox="381.600,452.808,388.800,463.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="388.800,452.808,396.000,463.044" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="396.000,452.808,403.200,463.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="403.200,452.808,410.400,463.044" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="410.400,452.808,417.600,463.044" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="417.600,452.808,424.800,463.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="424.800,452.808,432.000,463.044" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="432.000,452.808,439.200,463.044" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="439.200,452.808,446.400,463.044" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="446.400,452.808,453.600,463.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="453.600,452.808,460.800,463.044" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="460.800,452.808,468.000,463.044" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="468.000,452.808,475.200,463.044" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="475.200,452.808,482.400,463.044" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="482.400,452.808,489.600,463.044" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="489.600,452.808,496.800,463.044" size="10.236">J</text>
+<text font="FAZVDJ+Courier" bbox="496.800,452.808,504.000,463.044" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="504.000,452.808,511.200,463.044" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="511.200,452.808,518.400,463.044" size="10.236">g</text>
+<text font="FAZVDJ+Courier" bbox="518.400,452.808,525.600,463.044" size="10.236">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="72.000,427.128,187.200,437.364">
+<textline bbox="72.000,427.128,187.200,437.364">
+<text font="FAZVDJ+Courier" bbox="72.000,427.128,79.200,437.364" size="10.236">O</text>
+<text font="FAZVDJ+Courier" bbox="79.200,427.128,86.400,437.364" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="86.400,427.128,93.600,437.364" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="93.600,427.128,100.800,437.364" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="100.800,427.128,108.000,437.364" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="108.000,427.128,115.200,437.364" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="115.200,427.128,122.400,437.364" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="122.400,427.128,129.600,437.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="129.600,427.128,136.800,437.364" size="10.236">3</text>
+<text font="FAZVDJ+Courier" bbox="136.800,427.128,144.000,437.364" size="10.236">1</text>
+<text font="FAZVDJ+Courier" bbox="144.000,427.128,151.200,437.364" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="151.200,427.128,158.400,437.364" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="158.400,427.128,165.600,437.364" size="10.236">2</text>
+<text font="FAZVDJ+Courier" bbox="165.600,427.128,172.800,437.364" size="10.236">0</text>
+<text font="FAZVDJ+Courier" bbox="172.800,427.128,180.000,437.364" size="10.236">0</text>
+<text font="FAZVDJ+Courier" bbox="180.000,427.128,187.200,437.364" size="10.236">8</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="72.000,375.768,273.600,411.684">
+<textline bbox="72.000,401.448,273.600,411.684">
+<text font="FAZVDJ+Courier" bbox="72.000,401.448,79.200,411.684" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="79.200,401.448,86.400,411.684" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="86.400,401.448,93.600,411.684" size="10.236">:</text>
+<text font="FAZVDJ+Courier" bbox="93.600,401.448,100.800,411.684" size="10.236"> </text>
+<text> </text>
+<text font="FAZVDJ+Courier" bbox="108.000,401.448,115.200,411.684" size="10.236">A</text>
+<text font="FAZVDJ+Courier" bbox="115.200,401.448,122.400,411.684" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="122.400,401.448,129.600,411.684" size="10.236">b</text>
+<text font="FAZVDJ+Courier" bbox="129.600,401.448,136.800,411.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="136.800,401.448,144.000,411.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="144.000,401.448,151.200,411.684" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="151.200,401.448,158.400,411.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="158.400,401.448,165.600,411.684" size="10.236">K</text>
+<text font="FAZVDJ+Courier" bbox="165.600,401.448,172.800,411.684" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="172.800,401.448,180.000,411.684" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="180.000,401.448,187.200,411.684" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="187.200,401.448,194.400,411.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="194.400,401.448,201.600,411.684" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="201.600,401.448,208.800,411.684" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="208.800,401.448,216.000,411.684" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="216.000,401.448,223.200,411.684" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="223.200,401.448,230.400,411.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="230.400,401.448,237.600,411.684" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="237.600,401.448,244.800,411.684" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="244.800,401.448,252.000,411.684" size="10.236">o</text>
+<text font="FAZVDJ+Courier" bbox="252.000,401.448,259.200,411.684" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="259.200,401.448,266.400,411.684" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="266.400,401.448,273.600,411.684" size="10.236">e</text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,388.608,259.200,398.844">
+<text font="FAZVDJ+Courier" bbox="108.000,388.608,115.200,398.844" size="10.236">R</text>
+<text font="FAZVDJ+Courier" bbox="115.200,388.608,122.400,398.844" size="10.236">i</text>
+<text font="FAZVDJ+Courier" bbox="122.400,388.608,129.600,398.844" size="10.236">c</text>
+<text font="FAZVDJ+Courier" bbox="129.600,388.608,136.800,398.844" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="136.800,388.608,144.000,398.844" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="144.000,388.608,151.200,398.844" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="151.200,388.608,158.400,398.844" size="10.236">d</text>
+<text font="FAZVDJ+Courier" bbox="158.400,388.608,165.600,398.844" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="165.600,388.608,172.800,398.844" size="10.236">L</text>
+<text font="FAZVDJ+Courier" bbox="172.800,388.608,180.000,398.844" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="180.000,388.608,187.200,398.844" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="187.200,388.608,194.400,398.844" size="10.236">m</text>
+<text font="FAZVDJ+Courier" bbox="194.400,388.608,201.600,398.844" size="10.236">a</text>
+<text font="FAZVDJ+Courier" bbox="201.600,388.608,208.800,398.844" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="208.800,388.608,216.000,398.844" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="216.000,388.608,223.200,398.844" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="223.200,388.608,230.400,398.844" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="230.400,388.608,237.600,398.844" size="10.236">E</text>
+<text font="FAZVDJ+Courier" bbox="237.600,388.608,244.800,398.844" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="244.800,388.608,252.000,398.844" size="10.236">q</text>
+<text font="FAZVDJ+Courier" bbox="252.000,388.608,259.200,398.844" size="10.236">.</text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,375.768,273.600,386.004">
+<text font="FAZVDJ+Courier" bbox="108.000,375.768,115.200,386.004" size="10.236">S</text>
+<text font="FAZVDJ+Courier" bbox="115.200,375.768,122.400,386.004" size="10.236">t</text>
+<text font="FAZVDJ+Courier" bbox="122.400,375.768,129.600,386.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="129.600,375.768,136.800,386.004" size="10.236">p</text>
+<text font="FAZVDJ+Courier" bbox="136.800,375.768,144.000,386.004" size="10.236">h</text>
+<text font="FAZVDJ+Courier" bbox="144.000,375.768,151.200,386.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="151.200,375.768,158.400,386.004" size="10.236">n</text>
+<text font="FAZVDJ+Courier" bbox="158.400,375.768,165.600,386.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="165.600,375.768,172.800,386.004" size="10.236">D</text>
+<text font="FAZVDJ+Courier" bbox="172.800,375.768,180.000,386.004" size="10.236">.</text>
+<text font="FAZVDJ+Courier" bbox="180.000,375.768,187.200,386.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="187.200,375.768,194.400,386.004" size="10.236">F</text>
+<text font="FAZVDJ+Courier" bbox="194.400,375.768,201.600,386.004" size="10.236">u</text>
+<text font="FAZVDJ+Courier" bbox="201.600,375.768,208.800,386.004" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="208.800,375.768,216.000,386.004" size="10.236">l</text>
+<text font="FAZVDJ+Courier" bbox="216.000,375.768,223.200,386.004" size="10.236">e</text>
+<text font="FAZVDJ+Courier" bbox="223.200,375.768,230.400,386.004" size="10.236">r</text>
+<text font="FAZVDJ+Courier" bbox="230.400,375.768,237.600,386.004" size="10.236">,</text>
+<text font="FAZVDJ+Courier" bbox="237.600,375.768,244.800,386.004" size="10.236"> </text>
+<text font="FAZVDJ+Courier" bbox="244.800,375.768,252.000,386.004" size="10.236">E</text>
+<text font="FAZVDJ+Courier" bbox="252.000,375.768,259.200,386.004" size="10.236">s</text>
+<text font="FAZVDJ+Courier" bbox="259.200,375.768,266.400,386.004" size="10.236">q</text>
+<text font="FAZVDJ+Courier" bbox="266.400,375.768,273.600,386.004" size="10.236">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="302.400,72.146,309.672,82.484">
+<textline bbox="302.400,72.146,309.672,82.484">
+<text font="FAZVDJ+Courier" bbox="302.400,72.146,309.672,82.484" size="10.338">2</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="324.000,478.920,511.200,479.640" />
+<layout>
+<textgroup bbox="72.000,72.146,525.600,642.804">
+<textgroup bbox="72.000,375.768,525.600,642.804">
+<textgroup bbox="72.000,452.808,525.600,642.804">
+<textgroup bbox="72.000,529.848,525.600,642.804">
+<textgroup bbox="72.000,581.208,525.600,642.804">
+<textgroup bbox="72.000,606.888,518.400,642.804">
+<textbox id="0" bbox="72.000,632.568,518.400,642.804" />
+<textbox id="1" bbox="72.000,606.888,504.000,617.124" />
+</textgroup>
+<textbox id="2" bbox="72.000,581.208,525.600,591.444" />
+</textgroup>
+<textgroup bbox="72.000,529.848,252.000,565.764">
+<textbox id="3" bbox="72.000,555.528,252.000,565.764" />
+<textbox id="4" bbox="108.000,529.848,187.200,540.084" />
+</textgroup>
+</textgroup>
+<textbox id="5" bbox="324.000,452.808,525.600,488.724" />
+</textgroup>
+<textgroup bbox="72.000,375.768,273.600,437.364">
+<textbox id="6" bbox="72.000,427.128,187.200,437.364" />
+<textbox id="7" bbox="72.000,375.768,273.600,411.684" />
+</textgroup>
+</textgroup>
+<textbox id="8" bbox="302.400,72.146,309.672,82.484" />
+</textgroup>
+</layout>
+</page>
+</pages>

@@ -1,0 +1,113 @@
+body{
+	background-color:#FFFFFF;
+}
+
+h1{
+	text-align: center;
+}
+#container{
+	width:1000px;
+	margin: auto;
+}
+
+#formcontent{
+	width:800px;
+	margin-left: 100px;
+	text-align: left;
+}
+
+.textbox,.selectbox{
+	outline: none;
+	background-color:#f8f8f8;
+	border:solid;
+	border-width:1px;
+	border-color:#e5e5e5;
+	line-height: 1.2;
+	width:700px;
+	padding: 0.5rem;
+	box-shadow: inset 0px 0px 0.5px #555555;
+}
+
+.selectbox{
+	outline: none;
+	background-color: #FFFFFF;
+	box-shadow: inset 0px 0px 1px #f8f8f8;
+	width:200px;
+}
+
+.submit{
+	outline: none;
+	margin-left: 250px;
+	background: none;
+	border:none;
+	width:200px;
+	height: 40px;
+	color: #FFFFFF;
+	cursor: pointer;
+	background-color: #01c0eb;
+	box-shadow:inset 0px 0px 1px #019abc;
+}
+
+.error,.link{
+	display: none;
+	background: none;
+	border: none;
+	text-align: left;
+	height: 30px;
+	color:#FF0000;
+	font-size: 15px;
+	outline: none;
+}
+
+.link{
+	display: block;
+	cursor: pointer;
+	color:#019abc;
+}
+
+#fileupload{
+	display: none;
+}
+
+.linkoutput{
+	background:none;
+	border: none;
+	outline: none;
+	cursor: none;
+	color:#000000;
+}
+
+#output{
+	display: none;
+}
+
+.autoinc{
+	display: none;
+	width:700px;
+	height: 100px;
+	border:solid;
+	border-width:1px;
+	border-color:#e5e5e5;
+	overflow-y:scroll;
+}
+
+.autoinc button{
+	outline: none;
+	border:none;
+	background:none;
+	font-size: 18px;
+	height: 30px;
+	text-align: left;
+	width:680px;
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+.autoinc button:hover,.autoinc button:active{
+	color:#FFFFFF;
+	background-color:#01c0eb;
+}
+#loading{
+	display: none;
+	margin-left: -100;
+}

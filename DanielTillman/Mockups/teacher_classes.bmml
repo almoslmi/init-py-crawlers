@@ -1,0 +1,100 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1079" measuredH="471" mockupW="846" mockupH="467">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="233" y="4" w="846" h="467" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DataKids%0Ahttp%3A//datakids.innovaccer.com/dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="263" y="142" w="786" h="294" measuredW="200" measuredH="212" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Classes%0AAssignments%0AMy%20Plots%0AMy%20Datasets%0AProfile</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="233" y="74" w="846" h="38" measuredW="846" measuredH="38" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="844" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="25"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="746" y="3" w="100" h="35" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="25"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="748" y="10" w="93" h="-1" measuredW="93" measuredH="27" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <borderColor>16777215</borderColor>
+            <text>User%20Options</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="9" y="6" w="100" h="-1" measuredW="100" measuredH="27" zOrder="3" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>DataKids</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TabBar" x="382" y="173" w="620" h="248" measuredW="189" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%2C%20Five%2C%20Six%2C%20Seven</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="407" y="211" w="581" h="194" measuredW="581" measuredH="194" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="6" controlTypeID="__group__" x="0" y="0" w="581" h="54" measuredW="581" measuredH="54" zOrder="0" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="581" h="54" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="25" y="17" w="227" h="-1" measuredW="218" measuredH="27" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Dummy%20Assignment</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="450" y="10" w="118" h="-1" measuredW="108" measuredH="21" zOrder="2" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Due%20Date%3A%20________</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="450" y="27" w="107" h="-1" measuredW="106" measuredH="21" zOrder="3" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Subject%3A%20_________</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="0" y="69" w="581" h="54" measuredW="581" measuredH="54" zOrder="1" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="581" h="54" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="25" y="17" w="227" h="-1" measuredW="218" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>Dummy%20Assignment</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="450" y="10" w="118" h="-1" measuredW="108" measuredH="21" zOrder="2" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>Due%20Date%3A%20________</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="450" y="27" w="107" h="-1" measuredW="106" measuredH="21" zOrder="3" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>Subject%3A%20_________</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="0" y="140" w="581" h="54" measuredW="581" measuredH="54" zOrder="2" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="581" h="54" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="8"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="25" y="17" w="227" h="-1" measuredW="218" measuredH="27" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <text>Dummy%20Assignment</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="450" y="10" w="118" h="-1" measuredW="108" measuredH="21" zOrder="2" locked="false" isInGroup="8">
+              <controlProperties>
+                <text>Due%20Date%3A%20________</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="450" y="27" w="107" h="-1" measuredW="106" measuredH="21" zOrder="3" locked="false" isInGroup="8">
+              <controlProperties>
+                <text>Subject%3A%20_________</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

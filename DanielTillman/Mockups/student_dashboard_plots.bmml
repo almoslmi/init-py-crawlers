@@ -1,0 +1,150 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="862" measuredH="470" mockupW="846" mockupH="467">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="16" y="3" w="846" h="467" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DataKids%0Ahttp%3A//datakids.innovaccer.com/dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="40" y="141" w="786" h="294" measuredW="200" measuredH="182" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Assignments%0AMy%20Plots%0AMy%20Datasets%0AProfile</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TabBar" x="142" y="156" w="656" h="264" measuredW="420" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mathematics%2C%20Physics%2C%20Chemistry%2C%20Biology%2C%20History%2C%20Geography</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="16" y="73" w="846" h="38" measuredW="846" measuredH="38" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="844" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="25"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="746" y="3" w="100" h="35" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="25"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="748" y="10" w="93" h="-1" measuredW="93" measuredH="27" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <borderColor>16777215</borderColor>
+            <text>User%20Options</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="9" y="6" w="100" h="-1" measuredW="100" measuredH="27" zOrder="3" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>DataKids</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="168" y="204" w="182" h="79" measuredW="182" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="26">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="168" y="310" w="182" h="79" measuredW="182" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="32">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="379" y="310" w="182" h="79" measuredW="182" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="379" y="204" w="182" h="79" measuredW="182" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="34">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="587" y="204" w="182" h="79" measuredW="182" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="35">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="587" y="310" w="182" h="79" measuredW="182" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="182" h="79" measuredW="182" measuredH="79" zOrder="0" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="182" h="79" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="52" w="182" h="27" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Details%2C%20Open</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Dummy%20Plot</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

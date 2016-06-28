@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="452.000,619.516,561.380,693.796">
+<textline bbox="452.000,679.516,561.380,693.796">
+<text font="Helvetica-Bold" bbox="452.000,679.516,460.004,693.796" size="14.280">E</text>
+<text font="Helvetica-Bold" bbox="460.004,679.516,463.340,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="463.340,679.516,470.012,693.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="470.012,679.516,476.684,693.796" size="14.280">c</text>
+<text font="Helvetica-Bold" bbox="476.684,679.516,480.680,693.796" size="14.280">t</text>
+<text font="Helvetica-Bold" bbox="480.680,679.516,485.348,693.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="485.348,679.516,492.680,693.796" size="14.280">o</text>
+<text font="Helvetica-Bold" bbox="492.680,679.516,500.012,693.796" size="14.280">n</text>
+<text font="Helvetica-Bold" bbox="500.012,679.516,503.348,693.796" size="14.280">i</text>
+<text font="Helvetica-Bold" bbox="503.348,679.516,510.020,693.796" size="14.280">c</text>
+<text font="Helvetica-Bold" bbox="510.020,679.516,516.692,693.796" size="14.280">a</text>
+<text font="Helvetica-Bold" bbox="516.692,679.516,520.028,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="520.028,679.516,523.364,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="523.364,679.516,530.036,693.796" size="14.280">y</text>
+<text font="Helvetica-Bold" bbox="530.036,679.516,533.372,693.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="533.372,679.516,540.704,693.796" size="14.280">F</text>
+<text font="Helvetica-Bold" bbox="540.704,679.516,544.040,693.796" size="14.280">i</text>
+<text font="Helvetica-Bold" bbox="544.040,679.516,547.376,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="547.376,679.516,554.048,693.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="554.048,679.516,561.380,693.796" size="14.280">d</text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,664.516,538.676,678.796">
+<text font="Helvetica-Bold" bbox="452.000,664.516,460.004,678.796" size="14.280">S</text>
+<text font="Helvetica-Bold" bbox="460.004,664.516,467.336,678.796" size="14.280">u</text>
+<text font="Helvetica-Bold" bbox="467.336,664.516,474.668,678.796" size="14.280">p</text>
+<text font="Helvetica-Bold" bbox="474.668,664.516,479.336,678.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="479.336,664.516,486.008,678.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="486.008,664.516,496.676,678.796" size="14.280">m</text>
+<text font="Helvetica-Bold" bbox="496.676,664.516,503.348,678.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="503.348,664.516,506.684,678.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="506.684,664.516,515.348,678.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="515.348,664.516,522.680,678.796" size="14.280">o</text>
+<text font="Helvetica-Bold" bbox="522.680,664.516,530.012,678.796" size="14.280">u</text>
+<text font="Helvetica-Bold" bbox="530.012,664.516,534.680,678.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="534.680,664.516,538.676,678.796" size="14.280">t</text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,649.516,556.040,663.796">
+<text font="Helvetica-Bold" bbox="452.000,649.516,460.004,663.796" size="14.280">S</text>
+<text font="Helvetica-Bold" bbox="460.004,649.516,468.668,663.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="468.668,649.516,476.672,663.796" size="14.280">P</text>
+<text font="Helvetica-Bold" bbox="476.672,649.516,488.000,663.796" size="14.280">W</text>
+<text font="Helvetica-Bold" bbox="488.000,649.516,491.996,663.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="491.996,649.516,498.668,663.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="498.668,649.516,505.340,663.796" size="14.280">4</text>
+<text font="Helvetica-Bold" bbox="505.340,649.516,509.336,663.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="509.336,649.516,516.008,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="516.008,649.516,522.680,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="522.680,649.516,529.352,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="529.352,649.516,536.024,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="536.024,649.516,542.696,663.796" size="14.280">4</text>
+<text font="Helvetica-Bold" bbox="542.696,649.516,549.368,663.796" size="14.280">5</text>
+<text font="Helvetica-Bold" bbox="549.368,649.516,556.040,663.796" size="14.280">2</text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,634.516,525.356,648.796">
+<text font="Helvetica-Bold" bbox="452.000,634.516,458.672,648.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="458.672,634.516,465.344,648.796" size="14.280">3</text>
+<text font="Helvetica-Bold" bbox="465.344,634.516,469.340,648.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="469.340,634.516,478.676,648.796" size="14.280">O</text>
+<text font="Helvetica-Bold" bbox="478.676,634.516,487.340,648.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="487.340,634.516,494.672,648.796" size="14.280">T</text>
+<text font="Helvetica-Bold" bbox="494.672,634.516,498.668,648.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="498.668,634.516,505.340,648.796" size="14.280">2</text>
+<text font="Helvetica-Bold" bbox="505.340,634.516,512.012,648.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="512.012,634.516,518.684,648.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="518.684,634.516,525.356,648.796" size="14.280">4</text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,619.516,504.680,633.796">
+<text font="Helvetica-Bold" bbox="452.000,619.516,458.672,633.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="458.672,619.516,465.344,633.796" size="14.280">9</text>
+<text font="Helvetica-Bold" bbox="465.344,619.516,469.340,633.796" size="14.280">:</text>
+<text font="Helvetica-Bold" bbox="469.340,619.516,476.012,633.796" size="14.280">2</text>
+<text font="Helvetica-Bold" bbox="476.012,619.516,482.684,633.796" size="14.280">6</text>
+<text font="Helvetica-Bold" bbox="482.684,619.516,486.020,633.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="486.020,619.516,494.684,633.796" size="14.280">A</text>
+<text font="Helvetica-Bold" bbox="494.684,619.516,504.680,633.796" size="14.280">M</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="72.000,76.344,540.000,571.716">
+<textline bbox="252.000,551.304,360.000,571.716">
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,551.304,259.200,571.716" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,551.304,266.400,571.716" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,551.304,273.600,571.716" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,551.304,280.800,571.716" size="20.412">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,551.304,288.000,571.716" size="20.412">-</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,551.304,295.200,571.716" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,551.304,302.400,571.716" size="20.412">4</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,551.304,309.600,571.716" size="20.412">-</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,551.304,316.800,571.716" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,551.304,324.000,571.716" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,551.304,331.200,571.716" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,551.304,338.400,571.716" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,551.304,345.600,571.716" size="20.412">4</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,551.304,352.800,571.716" size="20.412">5</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,551.304,360.000,571.716" size="20.412">2</text>
+<text>
+</text>
+</textline>
+<textline bbox="149.520,525.624,462.420,546.036">
+<text font="YIJIEQ+CourierNewPSMT" bbox="149.520,525.624,156.720,546.036" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="156.720,525.624,163.920,546.036" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="163.920,525.624,171.120,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="171.120,525.624,178.320,546.036" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="178.320,525.624,185.520,546.036" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="185.520,525.624,192.720,546.036" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="192.720,525.624,199.920,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="199.920,525.624,207.120,546.036" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="207.120,525.624,214.320,546.036" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="214.320,525.624,221.520,546.036" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="221.520,525.624,228.720,546.036" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="228.720,525.624,235.920,546.036" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="235.920,525.624,243.120,546.036" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="243.120,525.624,250.320,546.036" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="250.320,525.624,257.520,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="257.520,525.624,264.720,546.036" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="264.720,525.624,271.920,546.036" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="271.920,525.624,279.120,546.036" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="279.120,525.624,286.320,546.036" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="286.320,525.624,293.520,546.036" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="293.520,525.624,300.720,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="300.720,525.624,307.920,546.036" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="307.920,525.624,315.120,546.036" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="315.120,525.624,322.320,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="322.320,525.624,329.520,546.036" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="329.520,525.624,336.720,546.036" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="336.720,525.624,343.920,546.036" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="343.920,525.624,351.120,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="351.120,525.624,358.320,546.036" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="358.320,525.624,365.520,546.036" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="365.520,525.624,372.720,546.036" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="372.720,525.624,379.920,546.036" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="379.920,525.624,387.120,546.036" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="387.120,525.624,394.320,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="394.320,525.624,401.520,546.036" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="401.520,525.624,408.720,546.036" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="408.720,525.624,415.920,546.036" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="415.920,525.624,423.120,546.036" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="423.120,525.624,430.320,546.036" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="430.320,525.624,437.520,546.036" size="20.412">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="437.520,525.624,444.720,546.036" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="444.720,525.624,451.920,546.036" size="20.412">I</text>
+<text font="NFQAJO+WP-Phonetic" bbox="451.920,530.280,455.256,545.664" size="15.384">#</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="455.220,525.624,462.420,546.036" size="20.412">I</text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,512.784,540.000,533.196">
+<text font="YIJIEQ+CourierNewPSMT" bbox="72.000,512.784,79.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="79.200,512.784,86.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="86.400,512.784,93.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="93.600,512.784,100.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,512.784,108.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,512.784,115.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,512.784,122.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,512.784,129.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,512.784,136.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,512.784,144.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,512.784,151.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,512.784,158.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,512.784,165.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,512.784,172.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,512.784,180.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,512.784,187.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,512.784,194.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,512.784,201.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,512.784,208.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,512.784,216.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,512.784,223.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,512.784,230.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,512.784,237.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,512.784,244.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,512.784,252.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,512.784,259.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,512.784,266.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,512.784,273.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,512.784,280.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,512.784,288.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,512.784,295.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,512.784,302.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,512.784,309.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,512.784,316.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,512.784,324.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,512.784,331.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,512.784,338.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,512.784,345.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,512.784,352.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,512.784,360.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,512.784,367.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,512.784,374.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,512.784,381.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,512.784,388.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,512.784,396.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,512.784,403.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,512.784,410.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,512.784,417.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,512.784,424.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,512.784,432.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,512.784,439.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,512.784,446.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,512.784,453.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,512.784,460.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,512.784,468.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,512.784,475.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,512.784,482.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,512.784,489.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="489.600,512.784,496.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="496.800,512.784,504.000,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="504.000,512.784,511.200,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="511.200,512.784,518.400,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="518.400,512.784,525.600,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="525.600,512.784,532.800,533.196" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="532.800,512.784,540.000,533.196" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="201.600,487.104,410.400,507.516">
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,487.104,208.800,507.516" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,487.104,216.000,507.516" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,487.104,223.200,507.516" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,487.104,230.400,507.516" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,487.104,237.600,507.516" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,487.104,244.800,507.516" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,487.104,252.000,507.516" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,487.104,259.200,507.516" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,487.104,266.400,507.516" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,487.104,273.600,507.516" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,487.104,280.800,507.516" size="20.412">V</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,487.104,288.000,507.516" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,487.104,295.200,507.516" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,487.104,302.400,507.516" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,487.104,309.600,507.516" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,487.104,316.800,507.516" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,487.104,324.000,507.516" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,487.104,331.200,507.516" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,487.104,338.400,507.516" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,487.104,345.600,507.516" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,487.104,352.800,507.516" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,487.104,360.000,507.516" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,487.104,367.200,507.516" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,487.104,374.400,507.516" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,487.104,381.600,507.516" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,487.104,388.800,507.516" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,487.104,396.000,507.516" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,487.104,403.200,507.516" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,487.104,410.400,507.516" size="20.412">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="295.200,461.424,316.800,481.836">
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,461.424,302.400,481.836" size="20.412">v</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,461.424,309.600,481.836" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,461.424,316.800,481.836" size="20.412">.</text>
+<text>
+</text>
+</textline>
+<textline bbox="100.800,435.744,511.200,456.156">
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,435.744,108.000,456.156" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,435.744,115.200,456.156" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,435.744,122.400,456.156" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,435.744,129.600,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,435.744,136.800,456.156" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,435.744,144.000,456.156" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,435.744,151.200,456.156" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,435.744,158.400,456.156" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,435.744,165.600,456.156" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,435.744,172.800,456.156" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,435.744,180.000,456.156" size="20.412">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,435.744,187.200,456.156" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,435.744,194.400,456.156" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,435.744,201.600,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,435.744,208.800,456.156" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,435.744,216.000,456.156" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,435.744,223.200,456.156" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,435.744,230.400,456.156" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,435.744,237.600,456.156" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,435.744,244.800,456.156" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,435.744,252.000,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,435.744,259.200,456.156" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,435.744,266.400,456.156" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,435.744,273.600,456.156" size="20.412">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,435.744,280.800,456.156" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,435.744,288.000,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,435.744,295.200,456.156" size="20.412">V</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,435.744,302.400,456.156" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,435.744,309.600,456.156" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,435.744,316.800,456.156" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,435.744,324.000,456.156" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,435.744,331.200,456.156" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,435.744,338.400,456.156" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,435.744,345.600,456.156" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,435.744,352.800,456.156" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,435.744,360.000,456.156" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,435.744,367.200,456.156" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,435.744,374.400,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,435.744,381.600,456.156" size="20.412">J</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,435.744,388.800,456.156" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,435.744,396.000,456.156" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,435.744,403.200,456.156" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,435.744,410.400,456.156" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,435.744,417.600,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,435.744,424.800,456.156" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,435.744,432.000,456.156" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,435.744,439.200,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,435.744,446.400,456.156" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,435.744,453.600,456.156" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,435.744,460.800,456.156" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,435.744,468.000,456.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,435.744,475.200,456.156" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,435.744,482.400,456.156" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,435.744,489.600,456.156" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="489.600,435.744,496.800,456.156" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="496.800,435.744,504.000,456.156" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="504.000,435.744,511.200,456.156" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="122.400,422.904,489.600,443.316">
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,422.904,129.600,443.316" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,422.904,136.800,443.316" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,422.904,144.000,443.316" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,422.904,151.200,443.316" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,422.904,158.400,443.316" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,422.904,165.600,443.316" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,422.904,172.800,443.316" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,422.904,180.000,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,422.904,187.200,443.316" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,422.904,194.400,443.316" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,422.904,201.600,443.316" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,422.904,208.800,443.316" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,422.904,216.000,443.316" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,422.904,223.200,443.316" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,422.904,230.400,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,422.904,237.600,443.316" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,422.904,244.800,443.316" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,422.904,252.000,443.316" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,422.904,259.200,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,422.904,266.400,443.316" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,422.904,273.600,443.316" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,422.904,280.800,443.316" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,422.904,288.000,443.316" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,422.904,295.200,443.316" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,422.904,302.400,443.316" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,422.904,309.600,443.316" size="20.412">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,422.904,316.800,443.316" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,422.904,324.000,443.316" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,422.904,331.200,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,422.904,338.400,443.316" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,422.904,345.600,443.316" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,422.904,352.800,443.316" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,422.904,360.000,443.316" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,422.904,367.200,443.316" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,422.904,374.400,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,422.904,381.600,443.316" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,422.904,388.800,443.316" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,422.904,396.000,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,422.904,403.200,443.316" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,422.904,410.400,443.316" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,422.904,417.600,443.316" size="20.412">K</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,422.904,424.800,443.316" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,422.904,432.000,443.316" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,422.904,439.200,443.316" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,422.904,446.400,443.316" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,422.904,453.600,443.316" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,422.904,460.800,443.316" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,422.904,468.000,443.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,422.904,475.200,443.316" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,422.904,482.400,443.316" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,422.904,489.600,443.316" size="20.412">d</text>
+<text>
+</text>
+</textline>
+<textline bbox="129.600,410.064,482.400,430.476">
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,410.064,136.800,430.476" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,410.064,144.000,430.476" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,410.064,151.200,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,410.064,158.400,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,410.064,165.600,430.476" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,410.064,172.800,430.476" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,410.064,180.000,430.476" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,410.064,187.200,430.476" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,410.064,194.400,430.476" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,410.064,201.600,430.476" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,410.064,208.800,430.476" size="20.412">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,410.064,216.000,430.476" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,410.064,223.200,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,410.064,230.400,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,410.064,237.600,430.476" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,410.064,244.800,430.476" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,410.064,252.000,430.476" size="20.412">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,410.064,259.200,430.476" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,410.064,266.400,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,410.064,273.600,430.476" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,410.064,280.800,430.476" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,410.064,288.000,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,410.064,295.200,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,410.064,302.400,430.476" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,410.064,309.600,430.476" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,410.064,316.800,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,410.064,324.000,430.476" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,410.064,331.200,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,410.064,338.400,430.476" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,410.064,345.600,430.476" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,410.064,352.800,430.476" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,410.064,360.000,430.476" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,410.064,367.200,430.476" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,410.064,374.400,430.476" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,410.064,381.600,430.476" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,410.064,388.800,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,410.064,396.000,430.476" size="20.412">J</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,410.064,403.200,430.476" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,410.064,410.400,430.476" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,410.064,417.600,430.476" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,410.064,424.800,430.476" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,410.064,432.000,430.476" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,410.064,439.200,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,410.064,446.400,430.476" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,410.064,453.600,430.476" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,410.064,460.800,430.476" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,410.064,468.000,430.476" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,410.064,475.200,430.476" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,410.064,482.400,430.476" size="20.412">E</text>
+<text>
+</text>
+</textline>
+<textline bbox="151.200,397.224,460.800,417.636">
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,397.224,158.400,417.636" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,397.224,165.600,417.636" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,397.224,172.800,417.636" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,397.224,180.000,417.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,397.224,187.200,417.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,397.224,194.400,417.636" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,397.224,201.600,417.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,397.224,208.800,417.636" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,397.224,216.000,417.636" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,397.224,223.200,417.636" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,397.224,230.400,417.636" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,397.224,237.600,417.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,397.224,244.800,417.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,397.224,252.000,417.636" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,397.224,259.200,417.636" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,397.224,266.400,417.636" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,397.224,273.600,417.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,397.224,280.800,417.636" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,397.224,288.000,417.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,397.224,295.200,417.636" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,397.224,302.400,417.636" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,397.224,309.600,417.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,397.224,316.800,417.636" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,397.224,324.000,417.636" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,397.224,331.200,417.636" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,397.224,338.400,417.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,397.224,345.600,417.636" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,397.224,352.800,417.636" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,397.224,360.000,417.636" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,397.224,367.200,417.636" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,397.224,374.400,417.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,397.224,381.600,417.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,397.224,388.800,417.636" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,397.224,396.000,417.636" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,397.224,403.200,417.636" size="20.412">p</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,397.224,410.400,417.636" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,397.224,417.600,417.636" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,397.224,424.800,417.636" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,397.224,432.000,417.636" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,397.224,439.200,417.636" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,397.224,446.400,417.636" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,397.224,453.600,417.636" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,397.224,460.800,417.636" size="20.412">.</text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,371.544,540.000,391.956">
+<text font="YIJIEQ+CourierNewPSMT" bbox="72.000,371.544,79.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="79.200,371.544,86.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="86.400,371.544,93.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="93.600,371.544,100.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,371.544,108.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,371.544,115.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,371.544,122.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,371.544,129.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,371.544,136.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,371.544,144.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,371.544,151.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,371.544,158.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,371.544,165.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,371.544,172.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,371.544,180.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,371.544,187.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,371.544,194.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,371.544,201.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,371.544,208.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,371.544,216.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,371.544,223.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,371.544,230.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,371.544,237.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,371.544,244.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,371.544,252.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,371.544,259.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,371.544,266.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,371.544,273.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,371.544,280.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,371.544,288.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,371.544,295.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,371.544,302.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,371.544,309.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,371.544,316.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,371.544,324.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,371.544,331.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,371.544,338.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,371.544,345.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,371.544,352.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,371.544,360.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,371.544,367.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,371.544,374.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,371.544,381.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,371.544,388.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,371.544,396.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,371.544,403.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,371.544,410.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,371.544,417.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,371.544,424.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,371.544,432.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,371.544,439.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,371.544,446.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,371.544,453.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,371.544,460.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,371.544,468.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,371.544,475.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,371.544,482.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,371.544,489.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="489.600,371.544,496.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="496.800,371.544,504.000,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="504.000,371.544,511.200,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="511.200,371.544,518.400,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="518.400,371.544,525.600,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="525.600,371.544,532.800,391.956" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="532.800,371.544,540.000,391.956" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="237.600,345.864,374.400,366.276">
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,345.864,244.800,366.276" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,345.864,252.000,366.276" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,345.864,259.200,366.276" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,345.864,266.400,366.276" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,345.864,273.600,366.276" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,345.864,280.800,366.276" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,345.864,288.000,366.276" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,345.864,295.200,366.276" size="20.412">L</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,345.864,302.400,366.276" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,345.864,309.600,366.276" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,345.864,316.800,366.276" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,345.864,324.000,366.276" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,345.864,331.200,366.276" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,345.864,338.400,366.276" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,345.864,345.600,366.276" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,345.864,352.800,366.276" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,345.864,360.000,366.276" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,345.864,367.200,366.276" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,345.864,374.400,366.276" size="20.412">G</text>
+<text>
+</text>
+</textline>
+<textline bbox="230.400,333.024,381.600,353.436">
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,333.024,237.600,353.436" size="20.412">(</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,333.024,244.800,353.436" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,333.024,252.000,353.436" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,333.024,259.200,353.436" size="20.412">v</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,333.024,266.400,353.436" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,333.024,273.600,353.436" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,333.024,280.800,353.436" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,333.024,288.000,353.436" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,333.024,295.200,353.436" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,333.024,302.400,353.436" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,333.024,309.600,353.436" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,333.024,316.800,353.436" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,333.024,324.000,353.436" size="20.412">3</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,333.024,331.200,353.436" size="20.412">-</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,333.024,338.400,353.436" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,333.024,345.600,353.436" size="20.412">-</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,333.024,352.800,353.436" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,333.024,360.000,353.436" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,333.024,367.200,353.436" size="20.412">3</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,333.024,374.400,353.436" size="20.412">7</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,333.024,381.600,353.436" size="20.412">)</text>
+<text>
+</text>
+</textline>
+<textline bbox="162.000,306.504,450.000,326.916">
+<text font="YIJIEQ+CourierNewPSMT" bbox="162.000,306.504,169.200,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="169.200,306.504,176.400,326.916" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="176.400,306.504,183.600,326.916" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="183.600,306.504,190.800,326.916" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="190.800,306.504,198.000,326.916" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="198.000,306.504,205.200,326.916" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="205.200,306.504,212.400,326.916" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="212.400,306.504,219.600,326.916" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="219.600,306.504,226.800,326.916" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="226.800,306.504,234.000,326.916" size="20.412">Y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="234.000,306.504,241.200,326.916" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="241.200,306.504,248.400,326.916" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="248.400,306.504,255.600,326.916" size="20.412">G</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="255.600,306.504,262.800,326.916" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="262.800,306.504,270.000,326.916" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="270.000,306.504,277.200,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="277.200,306.504,284.400,326.916" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="284.400,306.504,291.600,326.916" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="291.600,306.504,298.800,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="298.800,306.504,306.000,326.916" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="306.000,306.504,313.200,326.916" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="313.200,306.504,320.400,326.916" size="20.412">F</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="320.400,306.504,327.600,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="327.600,306.504,334.800,326.916" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="334.800,306.504,342.000,326.916" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="342.000,306.504,349.200,326.916" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="349.200,306.504,356.400,326.916" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="356.400,306.504,363.600,326.916" size="20.412">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="363.600,306.504,370.800,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="370.800,306.504,378.000,326.916" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="378.000,306.504,385.200,326.916" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="385.200,306.504,392.400,326.916" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="392.400,306.504,399.600,326.916" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="399.600,306.504,406.800,326.916" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="406.800,306.504,414.000,326.916" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="414.000,306.504,421.200,326.916" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="421.200,306.504,428.400,326.916" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="428.400,306.504,435.600,326.916" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="435.600,306.504,442.800,326.916" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="442.800,306.504,450.000,326.916" size="20.412">N</text>
+<text>
+</text>
+</textline>
+<textline bbox="81.600,294.576,530.280,313.253">
+<text font="YIJIEQ+CourierNewPSMT" bbox="81.600,294.576,88.188,313.253" size="18.677">(</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="88.188,294.576,94.776,313.253" size="18.677">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="94.776,294.576,101.364,313.253" size="18.677">y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="101.364,294.576,107.952,313.253" size="18.677">:</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="107.952,294.576,114.540,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="114.540,294.576,121.128,313.253" size="18.677">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="121.128,294.576,127.716,313.253" size="18.677">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="127.716,294.576,134.304,313.253" size="18.677">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="134.304,294.576,140.892,313.253" size="18.677">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="141.000,294.576,147.588,313.253" size="18.677">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="147.588,294.576,154.176,313.253" size="18.677">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="154.176,294.576,160.764,313.253" size="18.677">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="160.764,294.576,167.352,313.253" size="18.677">w</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="167.352,294.576,173.940,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="173.940,294.576,180.528,313.253" size="18.677">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.528,294.576,187.116,313.253" size="18.677">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.116,294.576,193.704,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="193.704,294.576,200.292,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="200.400,294.576,206.988,313.253" size="18.677">C</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="206.988,294.576,213.576,313.253" size="18.677">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="213.576,294.576,220.164,313.253" size="18.677">J</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="220.164,294.576,226.752,313.253" size="18.677">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="226.752,294.576,233.340,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="233.340,294.576,239.928,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="239.928,294.576,246.516,313.253" size="18.677">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="246.516,294.576,253.104,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="253.104,294.576,259.692,313.253" size="18.677">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.800,294.576,266.388,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.388,294.576,272.976,313.253" size="18.677">y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="272.976,294.576,279.564,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="279.564,294.576,286.152,313.253" size="18.677">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="286.152,294.576,292.740,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="292.740,294.576,299.328,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="299.328,294.576,305.916,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="305.916,294.576,312.504,313.253" size="18.677">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="312.504,294.576,319.092,313.253" size="18.677">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="319.200,294.576,325.788,313.253" size="18.677">K</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="325.788,294.576,332.376,313.253" size="18.677">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="332.376,294.576,338.964,313.253" size="18.677">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.964,294.576,345.552,313.253" size="18.677">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.552,294.576,352.140,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.140,294.576,358.728,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="358.728,294.576,365.316,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="365.316,294.576,371.904,313.253" size="18.677">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="371.904,294.576,378.492,313.253" size="18.677">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="378.600,294.576,385.188,313.253" size="18.677">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="385.188,294.576,391.776,313.253" size="18.677">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="391.776,294.576,398.364,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="398.364,294.576,404.952,313.253" size="18.677">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="404.952,294.576,411.540,313.253" size="18.677">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="411.540,294.576,418.128,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="418.128,294.576,424.716,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.716,294.576,431.304,313.253" size="18.677">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="431.304,294.576,437.892,313.253" size="18.677">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="437.940,294.576,444.528,313.253" size="18.677">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="444.528,294.576,451.116,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="451.116,294.576,457.704,313.253" size="18.677">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="457.704,294.576,464.292,313.253" size="18.677">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="464.292,294.576,470.880,313.253" size="18.677">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="470.880,294.576,477.468,313.253" size="18.677">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="477.468,294.576,484.056,313.253" size="18.677">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="484.056,294.576,490.644,313.253" size="18.677">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="490.644,294.576,497.232,313.253" size="18.677">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="497.340,294.576,503.928,313.253" size="18.677"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="503.928,294.576,510.516,313.253" size="18.677">J</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="510.516,294.576,517.104,313.253" size="18.677">J</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="517.104,294.576,523.692,313.253" size="18.677">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="523.692,294.576,530.280,313.253" size="18.677">)</text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,268.944,511.200,289.356">
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,268.944,151.200,289.356" size="20.412">U</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,268.944,158.400,289.356" size="20.412">p</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,268.944,165.600,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,268.944,172.800,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,268.944,180.000,289.356" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,268.944,187.200,289.356" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,268.944,194.400,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,268.944,201.600,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,268.944,208.800,289.356" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,268.944,216.000,289.356" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,268.944,223.200,289.356" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,268.944,230.400,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,268.944,237.600,289.356" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,268.944,244.800,289.356" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,268.944,252.000,289.356" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,268.944,259.200,289.356" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,268.944,266.400,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,268.944,273.600,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,268.944,280.800,289.356" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,268.944,288.000,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,268.944,295.200,289.356" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,268.944,302.400,289.356" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,268.944,309.600,289.356" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,268.944,316.800,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,268.944,324.000,289.356" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,268.944,331.200,289.356" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,268.944,338.400,289.356" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,268.944,345.600,289.356" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,268.944,352.800,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,268.944,360.000,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,268.944,367.200,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,268.944,374.400,289.356" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,268.944,381.600,289.356" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,268.944,388.800,289.356" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,268.944,396.000,289.356" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,268.944,403.200,289.356" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,268.944,410.400,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,268.944,417.600,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,268.944,424.800,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,268.944,432.000,289.356" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,268.944,439.200,289.356" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,268.944,446.400,289.356" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,268.944,453.600,289.356" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,268.944,460.800,289.356" size="20.412">v</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,268.944,468.000,289.356" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,268.944,475.200,289.356" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,268.944,482.400,289.356" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,268.944,489.600,289.356" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="489.600,268.944,496.800,289.356" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="496.800,268.944,504.000,289.356" size="20.412">’</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="504.000,268.944,511.200,289.356" size="20.412">s</text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,249.744,518.400,270.156">
+<text font="YIJIEQ+CourierNewPSMT" bbox="72.000,249.744,79.200,270.156" size="20.412">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="79.200,249.744,86.400,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="86.400,249.744,93.600,270.156" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="93.600,249.744,100.800,270.156" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,249.744,108.000,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,249.744,115.200,270.156" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,249.744,122.400,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,249.744,129.600,270.156" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,249.744,136.800,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,249.744,144.000,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,249.744,151.200,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,249.744,158.400,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,249.744,165.600,270.156" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,249.744,172.800,270.156" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,249.744,180.000,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,249.744,187.200,270.156" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,249.744,194.400,270.156" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,249.744,201.600,270.156" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,249.744,208.800,270.156" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,249.744,216.000,270.156" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,249.744,223.200,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,249.744,230.400,270.156" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,249.744,237.600,270.156" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,249.744,244.800,270.156" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,249.744,252.000,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,249.744,259.200,270.156" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,249.744,266.400,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,249.744,273.600,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,249.744,280.800,270.156" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,249.744,288.000,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,249.744,295.200,270.156" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,249.744,302.400,270.156" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,249.744,309.600,270.156" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,249.744,316.800,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,249.744,324.000,270.156" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,249.744,331.200,270.156" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,249.744,338.400,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,249.744,345.600,270.156" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,249.744,352.800,270.156" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,249.744,360.000,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,249.744,367.200,270.156" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,249.744,374.400,270.156" size="20.412">9</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,249.744,381.600,270.156" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,249.744,388.800,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,249.744,396.000,270.156" size="20.412">2</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,249.744,403.200,270.156" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,249.744,410.400,270.156" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,249.744,417.600,270.156" size="20.412">4</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,249.744,424.800,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,249.744,432.000,270.156" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,249.744,439.200,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,249.744,446.400,270.156" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,249.744,453.600,270.156" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="453.600,249.744,460.800,270.156" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="460.800,249.744,468.000,270.156" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="468.000,249.744,475.200,270.156" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="475.200,249.744,482.400,270.156" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="482.400,249.744,489.600,270.156" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="489.600,249.744,496.800,270.156" size="20.412">y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="496.800,249.744,504.000,270.156" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="504.000,249.744,511.200,270.156" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="511.200,249.744,518.400,270.156" size="20.412">g</text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,230.424,446.400,250.836">
+<text font="YIJIEQ+CourierNewPSMT" bbox="72.000,230.424,79.200,250.836" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="79.200,230.424,86.400,250.836" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="86.400,230.424,93.600,250.836" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="93.600,230.424,100.800,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,230.424,108.000,250.836" size="20.412">p</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,230.424,115.200,250.836" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,230.424,122.400,250.836" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,230.424,129.600,250.836" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,230.424,136.800,250.836" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,230.424,144.000,250.836" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,230.424,151.200,250.836" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,230.424,158.400,250.836" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,230.424,165.600,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,230.424,172.800,250.836" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,230.424,180.000,250.836" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,230.424,187.200,250.836" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,230.424,194.400,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,230.424,201.600,250.836" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,230.424,208.800,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,230.424,216.000,250.836" size="20.412">w</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,230.424,223.200,250.836" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,230.424,230.400,250.836" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,230.424,237.600,250.836" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,230.424,244.800,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,230.424,252.000,250.836" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,230.424,259.200,250.836" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,230.424,266.400,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,230.424,273.600,250.836" size="20.412">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,230.424,280.800,250.836" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,230.424,288.000,250.836" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,230.424,295.200,250.836" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,230.424,302.400,250.836" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,230.424,309.600,250.836" size="20.412">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,230.424,316.800,250.836" size="20.412">u</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,230.424,324.000,250.836" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,230.424,331.200,250.836" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,230.424,338.400,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,230.424,345.600,250.836" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,230.424,352.800,250.836" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,230.424,360.000,250.836" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,230.424,367.200,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,230.424,374.400,250.836" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,230.424,381.600,250.836" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,230.424,388.800,250.836" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,230.424,396.000,250.836" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,230.424,403.200,250.836" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,230.424,410.400,250.836" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,230.424,417.600,250.836" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,230.424,424.800,250.836" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,230.424,432.000,250.836" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,230.424,439.200,250.836" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,230.424,446.400,250.836" size="20.412">,</text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,211.224,432.000,231.636">
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,211.224,151.200,231.636" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,211.224,158.400,231.636" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,211.224,165.600,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,211.224,172.800,231.636" size="20.412">I</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,211.224,180.000,231.636" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,211.224,187.200,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,211.224,194.400,231.636" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,211.224,201.600,231.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,211.224,208.800,231.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,211.224,216.000,231.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,211.224,223.200,231.636" size="20.412">B</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,211.224,230.400,231.636" size="20.412">Y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,211.224,237.600,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,211.224,244.800,231.636" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,211.224,252.000,231.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,211.224,259.200,231.636" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,211.224,266.400,231.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,211.224,273.600,231.636" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,211.224,280.800,231.636" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,211.224,288.000,231.636" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,211.224,295.200,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,211.224,302.400,231.636" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,211.224,309.600,231.636" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,211.224,316.800,231.636" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,211.224,324.000,231.636" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,211.224,331.200,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,211.224,338.400,231.636" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,211.224,345.600,231.636" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,211.224,352.800,231.636" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,211.224,360.000,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,211.224,367.200,231.636" size="20.412">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,211.224,374.400,231.636" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,211.224,381.600,231.636" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,211.224,388.800,231.636" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,211.224,396.000,231.636" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,211.224,403.200,231.636" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,211.224,410.400,231.636" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,211.224,417.600,231.636" size="20.412">f</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,211.224,424.800,231.636" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,211.224,432.000,231.636" size="20.412">r</text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,191.904,259.200,212.316">
+<text font="YIJIEQ+CourierNewPSMT" bbox="72.000,191.904,79.200,212.316" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="79.200,191.904,86.400,212.316" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="86.400,191.904,93.600,212.316" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="93.600,191.904,100.800,212.316" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="100.800,191.904,108.000,212.316" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="108.000,191.904,115.200,212.316" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="115.200,191.904,122.400,212.316" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="122.400,191.904,129.600,212.316" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="129.600,191.904,136.800,212.316" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="136.800,191.904,144.000,212.316" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,191.904,151.200,212.316" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,191.904,158.400,212.316" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,191.904,165.600,212.316" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,191.904,172.800,212.316" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,191.904,180.000,212.316" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,191.904,187.200,212.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,191.904,194.400,212.316" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,191.904,201.600,212.316" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,191.904,208.800,212.316" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,191.904,216.000,212.316" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,191.904,223.200,212.316" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,191.904,230.400,212.316" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,191.904,237.600,212.316" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,191.904,244.800,212.316" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,191.904,252.000,212.316" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,191.904,259.200,212.316" size="20.412">.</text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,172.704,456.960,193.116">
+<text font="YIJIEQ+CourierNewPSMT" bbox="144.000,172.704,151.200,193.116" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="151.200,172.704,158.400,193.116" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="158.400,172.704,165.600,193.116" size="20.412">T</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="165.600,172.704,172.800,193.116" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="172.800,172.704,180.000,193.116" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="180.000,172.704,187.200,193.116" size="20.412">:</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="187.200,172.704,194.400,193.116" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="194.400,172.704,201.600,193.116" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="201.600,172.704,208.800,193.116" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="208.800,172.704,216.000,193.116" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="216.000,172.704,223.200,193.116" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="223.200,172.704,230.400,193.116" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="230.400,172.704,237.600,193.116" size="20.412">u</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="237.600,172.704,244.800,193.116" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="244.800,172.704,252.000,193.116" size="20.412">u</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="252.000,172.704,259.200,193.116" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="259.200,172.704,266.400,193.116" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="266.400,172.704,273.600,193.116" size="20.412">H</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="273.600,172.704,280.800,193.116" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="280.800,172.704,288.000,193.116" size="20.412">w</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,172.704,295.200,193.116" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,172.704,302.400,193.116" size="20.412">i</text>
+<text font="NFQAJO+WP-Phonetic" bbox="302.400,177.360,305.736,192.744" size="15.384">#</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="305.760,172.704,312.960,193.116" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="312.960,172.704,320.160,193.116" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="320.160,172.704,327.360,193.116" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="327.360,172.704,334.560,193.116" size="20.412">O</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="334.560,172.704,341.760,193.116" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="341.760,172.704,348.960,193.116" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="348.960,172.704,356.160,193.116" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="356.160,172.704,363.360,193.116" size="20.412">b</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="363.360,172.704,370.560,193.116" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="370.560,172.704,377.760,193.116" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="377.760,172.704,384.960,193.116" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="384.960,172.704,392.160,193.116" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="392.160,172.704,399.360,193.116" size="20.412">3</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="399.360,172.704,406.560,193.116" size="20.412">,</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="406.560,172.704,413.760,193.116" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="413.760,172.704,420.960,193.116" size="20.412">2</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="420.960,172.704,428.160,193.116" size="20.412">0</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="428.160,172.704,435.360,193.116" size="20.412">1</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="435.360,172.704,442.560,193.116" size="20.412">4</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="442.560,172.704,449.760,193.116" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="449.760,172.704,456.960,193.116" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,153.384,453.600,173.796">
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,153.384,295.200,173.796" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,153.384,302.400,173.796" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,153.384,309.600,173.796" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,153.384,316.800,173.796" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,153.384,324.000,173.796" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,153.384,331.200,173.796" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,153.384,338.400,173.796" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,153.384,345.600,173.796" size="20.412">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,153.384,352.800,173.796" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,153.384,360.000,173.796" size="20.412">E</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,153.384,367.200,173.796" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,153.384,374.400,173.796" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,153.384,381.600,173.796" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,153.384,388.800,173.796" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,153.384,396.000,173.796" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,153.384,403.200,173.796" size="20.412">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,153.384,410.400,173.796" size="20.412">t</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,153.384,417.600,173.796" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,153.384,424.800,173.796" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,153.384,432.000,173.796" size="20.412">w</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,153.384,439.200,173.796" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,153.384,446.400,173.796" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="446.400,153.384,453.600,173.796" size="20.412">d</text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,134.184,439.200,154.596">
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,134.184,295.200,154.596" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,134.184,302.400,154.596" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,134.184,309.600,154.596" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,134.184,316.800,154.596" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,134.184,324.000,154.596" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,134.184,331.200,154.596" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,134.184,338.400,154.596" size="20.412">u</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,134.184,345.600,154.596" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,134.184,352.800,154.596" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,134.184,360.000,154.596" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,134.184,367.200,154.596" size="20.412">A</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,134.184,374.400,154.596" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,134.184,381.600,154.596" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,134.184,388.800,154.596" size="20.412">N</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,134.184,396.000,154.596" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,134.184,403.200,154.596" size="20.412">k</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,134.184,410.400,154.596" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,134.184,417.600,154.596" size="20.412">y</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,134.184,424.800,154.596" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,134.184,432.000,154.596" size="20.412">m</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,134.184,439.200,154.596" size="20.412">a</text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,114.864,446.400,135.276">
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,114.864,295.200,135.276" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,114.864,302.400,135.276" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,114.864,309.600,135.276" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,114.864,316.800,135.276" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,114.864,324.000,135.276" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,114.864,331.200,135.276" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,114.864,338.400,135.276" size="20.412">b</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,114.864,345.600,135.276" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,114.864,352.800,135.276" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,114.864,360.000,135.276" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,114.864,367.200,135.276" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,114.864,374.400,135.276" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,114.864,381.600,135.276" size="20.412">S</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,114.864,388.800,135.276" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,114.864,396.000,135.276" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,114.864,403.200,135.276" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,114.864,410.400,135.276" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,114.864,417.600,135.276" size="20.412">K</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,114.864,424.800,135.276" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,114.864,432.000,135.276" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,114.864,439.200,135.276" size="20.412">n</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,114.864,446.400,135.276" size="20.412">a</text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,95.664,446.400,116.076">
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,95.664,295.200,116.076" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,95.664,302.400,116.076" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,95.664,309.600,116.076" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,95.664,316.800,116.076" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,95.664,324.000,116.076" size="20.412">R</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,95.664,331.200,116.076" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,95.664,338.400,116.076" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,95.664,345.600,116.076" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,95.664,352.800,116.076" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,95.664,360.000,116.076" size="20.412">r</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,95.664,367.200,116.076" size="20.412">d</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,95.664,374.400,116.076" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,95.664,381.600,116.076" size="20.412">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,95.664,388.800,116.076" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,95.664,396.000,116.076" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,95.664,403.200,116.076" size="20.412">P</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,95.664,410.400,116.076" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,95.664,417.600,116.076" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,95.664,424.800,116.076" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,95.664,432.000,116.076" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,95.664,439.200,116.076" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="439.200,95.664,446.400,116.076" size="20.412">k</text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,76.344,439.200,96.756">
+<text font="YIJIEQ+CourierNewPSMT" bbox="288.000,76.344,295.200,96.756" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="295.200,76.344,302.400,96.756" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="302.400,76.344,309.600,96.756" size="20.412">/</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="309.600,76.344,316.800,96.756" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="316.800,76.344,324.000,96.756" size="20.412">M</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="324.000,76.344,331.200,96.756" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="331.200,76.344,338.400,96.756" size="20.412">c</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="338.400,76.344,345.600,96.756" size="20.412">h</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="345.600,76.344,352.800,96.756" size="20.412">a</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="352.800,76.344,360.000,96.756" size="20.412">e</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="360.000,76.344,367.200,96.756" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="367.200,76.344,374.400,96.756" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="374.400,76.344,381.600,96.756" size="20.412">D</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="381.600,76.344,388.800,96.756" size="20.412">.</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="388.800,76.344,396.000,96.756" size="20.412"> </text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="396.000,76.344,403.200,96.756" size="20.412">W</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="403.200,76.344,410.400,96.756" size="20.412">i</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="410.400,76.344,417.600,96.756" size="20.412">l</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="417.600,76.344,424.800,96.756" size="20.412">s</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="424.800,76.344,432.000,96.756" size="20.412">o</text>
+<text font="YIJIEQ+CourierNewPSMT" bbox="432.000,76.344,439.200,96.756" size="20.412">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<curve linewidth="0" bbox="72.000,512.520,540.000,513.240" pts="72.000,513.240,540.000,513.240,540.000,512.520,72.000,512.520"/>
+<curve linewidth="0" bbox="72.000,371.280,540.000,372.000" pts="72.000,372.000,540.000,372.000,540.000,371.280,72.000,371.280"/>
+<curve linewidth="0" bbox="162.000,306.240,450.000,306.960" pts="162.000,306.960,450.000,306.960,450.000,306.240,162.000,306.240"/>
+<figure name="Im0" bbox="496.200,95.940,552.900,156.240">
+<image width="56" height="60" />
+</figure>
+<layout>
+<textgroup bbox="72.000,76.344,561.380,693.796">
+<textbox id="0" bbox="452.000,619.516,561.380,693.796" />
+<textbox id="1" bbox="72.000,76.344,540.000,571.716" />
+</textgroup>
+</layout>
+</page>
+</pages>

@@ -1,0 +1,45 @@
+application:
+[{
+	appln_no,
+	dof,
+	publn_date,
+	journal_no,
+	title,
+	abstract,
+	ipc,
+	nop,
+	priority_appln_no,
+	priority_date,
+	priority_ctry_id,
+	priority_ctry_name,
+	pct_appln_no,
+	pct_date,
+	pct_publn_no,
+	poa_appln_no,
+	poa_filing_date,
+	div_appln_no,
+	div_filing_date,
+	grant_date,
+	pat_no,
+	status,
+	assignee:
+	[{
+		appln_no,
+		assignee,
+		assignee_address,
+		assignee_country_id,
+		assignee_country_name,
+		sequence_no,
+		correspondence_name,
+		correspondence_address
+	}],
+	inventor:
+	[{
+		appln_no,
+		inventor,
+		inventor_address,
+		inventor_country_id,
+		inventor_country_name,
+		sequence_no
+	}]
+}]

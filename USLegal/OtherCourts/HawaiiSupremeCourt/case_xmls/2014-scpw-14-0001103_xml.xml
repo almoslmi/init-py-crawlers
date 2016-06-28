@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="452.000,619.516,564.716,693.796">
+<textline bbox="452.000,679.516,564.716,693.796">
+<text font="Helvetica-Bold" bbox="452.000,679.516,460.004,693.796" size="14.280">E</text>
+<text font="Helvetica-Bold" bbox="460.004,679.516,463.340,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="463.340,679.516,470.012,693.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="470.012,679.516,476.684,693.796" size="14.280">c</text>
+<text font="Helvetica-Bold" bbox="476.684,679.516,480.680,693.796" size="14.280">t</text>
+<text font="Helvetica-Bold" bbox="480.680,679.516,485.348,693.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="485.348,679.516,492.680,693.796" size="14.280">o</text>
+<text font="Helvetica-Bold" bbox="492.680,679.516,500.012,693.796" size="14.280">n</text>
+<text font="Helvetica-Bold" bbox="500.012,679.516,503.348,693.796" size="14.280">i</text>
+<text font="Helvetica-Bold" bbox="503.348,679.516,510.020,693.796" size="14.280">c</text>
+<text font="Helvetica-Bold" bbox="510.020,679.516,516.692,693.796" size="14.280">a</text>
+<text font="Helvetica-Bold" bbox="516.692,679.516,520.028,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="520.028,679.516,523.364,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="523.364,679.516,530.036,693.796" size="14.280">y</text>
+<text font="Helvetica-Bold" bbox="530.036,679.516,533.372,693.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="533.372,679.516,540.704,693.796" size="14.280">F</text>
+<text font="Helvetica-Bold" bbox="540.704,679.516,544.040,693.796" size="14.280">i</text>
+<text font="Helvetica-Bold" bbox="544.040,679.516,547.376,693.796" size="14.280">l</text>
+<text font="Helvetica-Bold" bbox="547.376,679.516,554.048,693.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="554.048,679.516,561.380,693.796" size="14.280">d</text>
+<text font="Helvetica-Bold" bbox="561.380,679.516,564.716,693.796" size="14.280"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,664.516,542.012,678.796">
+<text font="Helvetica-Bold" bbox="452.000,664.516,460.004,678.796" size="14.280">S</text>
+<text font="Helvetica-Bold" bbox="460.004,664.516,467.336,678.796" size="14.280">u</text>
+<text font="Helvetica-Bold" bbox="467.336,664.516,474.668,678.796" size="14.280">p</text>
+<text font="Helvetica-Bold" bbox="474.668,664.516,479.336,678.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="479.336,664.516,486.008,678.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="486.008,664.516,496.676,678.796" size="14.280">m</text>
+<text font="Helvetica-Bold" bbox="496.676,664.516,503.348,678.796" size="14.280">e</text>
+<text font="Helvetica-Bold" bbox="503.348,664.516,506.684,678.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="506.684,664.516,515.348,678.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="515.348,664.516,522.680,678.796" size="14.280">o</text>
+<text font="Helvetica-Bold" bbox="522.680,664.516,530.012,678.796" size="14.280">u</text>
+<text font="Helvetica-Bold" bbox="530.012,664.516,534.680,678.796" size="14.280">r</text>
+<text font="Helvetica-Bold" bbox="534.680,664.516,538.676,678.796" size="14.280">t</text>
+<text font="Helvetica-Bold" bbox="538.676,664.516,542.012,678.796" size="14.280"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,649.516,559.376,663.796">
+<text font="Helvetica-Bold" bbox="452.000,649.516,460.004,663.796" size="14.280">S</text>
+<text font="Helvetica-Bold" bbox="460.004,649.516,468.668,663.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="468.668,649.516,476.672,663.796" size="14.280">P</text>
+<text font="Helvetica-Bold" bbox="476.672,649.516,488.000,663.796" size="14.280">W</text>
+<text font="Helvetica-Bold" bbox="488.000,649.516,491.996,663.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="491.996,649.516,498.668,663.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="498.668,649.516,505.340,663.796" size="14.280">4</text>
+<text font="Helvetica-Bold" bbox="505.340,649.516,509.336,663.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="509.336,649.516,516.008,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="516.008,649.516,522.680,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="522.680,649.516,529.352,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="529.352,649.516,536.024,663.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="536.024,649.516,542.696,663.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="542.696,649.516,549.368,663.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="549.368,649.516,556.040,663.796" size="14.280">3</text>
+<text font="Helvetica-Bold" bbox="556.040,649.516,559.376,663.796" size="14.280"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,634.516,528.692,648.796">
+<text font="Helvetica-Bold" bbox="452.000,634.516,458.672,648.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="458.672,634.516,465.344,648.796" size="14.280">4</text>
+<text font="Helvetica-Bold" bbox="465.344,634.516,469.340,648.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="469.340,634.516,478.676,648.796" size="14.280">O</text>
+<text font="Helvetica-Bold" bbox="478.676,634.516,487.340,648.796" size="14.280">C</text>
+<text font="Helvetica-Bold" bbox="487.340,634.516,494.672,648.796" size="14.280">T</text>
+<text font="Helvetica-Bold" bbox="494.672,634.516,498.668,648.796" size="14.280">-</text>
+<text font="Helvetica-Bold" bbox="498.668,634.516,505.340,648.796" size="14.280">2</text>
+<text font="Helvetica-Bold" bbox="505.340,634.516,512.012,648.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="512.012,634.516,518.684,648.796" size="14.280">1</text>
+<text font="Helvetica-Bold" bbox="518.684,634.516,525.356,648.796" size="14.280">4</text>
+<text font="Helvetica-Bold" bbox="525.356,634.516,528.692,648.796" size="14.280"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="452.000,619.516,508.016,633.796">
+<text font="Helvetica-Bold" bbox="452.000,619.516,458.672,633.796" size="14.280">0</text>
+<text font="Helvetica-Bold" bbox="458.672,619.516,465.344,633.796" size="14.280">9</text>
+<text font="Helvetica-Bold" bbox="465.344,619.516,469.340,633.796" size="14.280">:</text>
+<text font="Helvetica-Bold" bbox="469.340,619.516,476.012,633.796" size="14.280">3</text>
+<text font="Helvetica-Bold" bbox="476.012,619.516,482.684,633.796" size="14.280">2</text>
+<text font="Helvetica-Bold" bbox="482.684,619.516,486.020,633.796" size="14.280"> </text>
+<text font="Helvetica-Bold" bbox="486.020,619.516,494.684,633.796" size="14.280">A</text>
+<text font="Helvetica-Bold" bbox="494.684,619.516,504.680,633.796" size="14.280">M</text>
+<text font="Helvetica-Bold" bbox="504.680,619.516,508.016,633.796" size="14.280"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="72.000,89.664,551.065,571.720">
+<textline bbox="251.996,551.308,374.396,571.720">
+<text font="TLXOPH+CourierNewPSMT" bbox="251.996,551.308,259.196,571.720" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.196,551.308,266.396,571.720" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.396,551.308,273.596,571.720" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.596,551.308,280.796,571.720" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.796,551.308,287.996,571.720" size="20.412">-</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="287.996,551.308,295.196,571.720" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,551.308,302.396,571.720" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,551.308,309.596,571.720" size="20.412">-</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,551.308,316.796,571.720" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,551.308,323.996,571.720" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,551.308,331.196,571.720" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.196,551.308,338.396,571.720" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.396,551.308,345.596,571.720" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.596,551.308,352.796,571.720" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.796,551.308,359.996,571.720" size="20.412">3</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="359.996,551.308,367.196,571.720" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.196,551.308,374.396,571.720" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="149.516,525.628,476.816,546.040">
+<text font="TLXOPH+CourierNewPSMT" bbox="149.516,525.628,156.716,546.040" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="156.716,525.628,163.916,546.040" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="163.916,525.628,171.116,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="171.116,525.628,178.316,546.040" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="178.316,525.628,185.516,546.040" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="185.516,525.628,192.716,546.040" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="192.716,525.628,199.916,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="199.916,525.628,207.116,546.040" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="207.116,525.628,214.316,546.040" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="214.316,525.628,221.516,546.040" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="221.516,525.628,228.716,546.040" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="228.716,525.628,235.916,546.040" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="235.916,525.628,243.116,546.040" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="243.116,525.628,250.316,546.040" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="250.316,525.628,257.516,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="257.516,525.628,264.716,546.040" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="264.716,525.628,271.916,546.040" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="271.916,525.628,279.116,546.040" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="279.116,525.628,286.316,546.040" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="286.316,525.628,293.516,546.040" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="293.516,525.628,300.716,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="300.716,525.628,307.916,546.040" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="307.916,525.628,315.116,546.040" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="315.116,525.628,322.316,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="322.316,525.628,329.516,546.040" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="329.516,525.628,336.716,546.040" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="336.716,525.628,343.916,546.040" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="343.916,525.628,351.116,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="351.116,525.628,358.316,546.040" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="358.316,525.628,365.516,546.040" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="365.516,525.628,372.716,546.040" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="372.716,525.628,379.916,546.040" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="379.916,525.628,387.116,546.040" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="387.116,525.628,394.316,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="394.316,525.628,401.516,546.040" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="401.516,525.628,408.716,546.040" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="408.716,525.628,415.916,546.040" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="415.916,525.628,423.116,546.040" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="423.116,525.628,430.316,546.040" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="430.316,525.628,437.516,546.040" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="437.516,525.628,444.716,546.040" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="444.716,525.628,451.916,546.040" size="20.412">I</text>
+<text font="NUKURP+WP-Phonetic" bbox="451.916,530.284,455.252,545.668" size="15.384">'</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="455.216,525.628,462.416,546.040" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="462.416,525.628,469.616,546.040" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="469.616,525.628,476.816,546.040" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,512.784,540.000,533.196">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,512.784,79.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,512.784,86.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,512.784,93.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,512.784,100.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,512.784,108.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,512.784,115.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,512.784,122.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,512.784,129.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,512.784,136.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,512.784,144.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,512.784,151.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,512.784,158.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,512.784,165.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,512.784,172.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,512.784,180.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,512.784,187.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,512.784,194.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,512.784,201.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,512.784,208.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,512.784,216.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,512.784,223.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,512.784,230.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,512.784,237.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,512.784,244.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,512.784,252.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,512.784,259.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,512.784,266.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,512.784,273.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,512.784,280.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,512.784,288.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,512.784,295.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,512.784,302.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,512.784,309.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,512.784,316.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,512.784,324.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,512.784,331.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,512.784,338.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,512.784,345.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,512.784,352.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,512.784,360.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,512.784,367.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,512.784,374.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,512.784,381.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,512.784,388.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,512.784,396.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,512.784,403.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,512.784,410.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,512.784,417.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,512.784,424.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,512.784,432.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,512.784,439.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,512.784,446.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,512.784,453.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,512.784,460.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,512.784,468.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,512.784,475.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,512.784,482.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,512.784,489.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,512.784,496.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,512.784,504.000,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,512.784,511.200,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,512.784,518.400,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,512.784,525.600,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,512.784,532.800,533.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,512.784,540.000,533.196" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="183.596,487.108,442.796,507.520">
+<text font="TLXOPH+CourierNewPSMT" bbox="183.596,487.108,190.796,507.520" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="190.796,487.108,197.996,507.520" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="197.996,487.108,205.196,507.520" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="205.196,487.108,212.396,507.520" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="212.396,487.108,219.596,507.520" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="219.596,487.108,226.796,507.520" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="226.796,487.108,233.996,507.520" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="233.996,487.108,241.196,507.520" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="241.196,487.108,248.396,507.520" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="248.396,487.108,255.596,507.520" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="255.596,487.108,262.796,507.520" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="262.796,487.108,269.996,507.520" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="269.996,487.108,277.196,507.520" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="277.196,487.108,284.396,507.520" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="284.396,487.108,291.596,507.520" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="291.596,487.108,298.796,507.520" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="298.796,487.108,305.996,507.520" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="305.996,487.108,313.196,507.520" size="20.412">L</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="313.196,487.108,320.396,507.520" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="320.396,487.108,327.596,507.520" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="327.596,487.108,334.796,507.520" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="334.796,487.108,341.996,507.520" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="341.996,487.108,349.196,507.520" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="349.196,487.108,356.396,507.520" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="356.396,487.108,363.596,507.520" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="363.596,487.108,370.796,507.520" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="370.796,487.108,377.996,507.520" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="377.996,487.108,385.196,507.520" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="385.196,487.108,392.396,507.520" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="392.396,487.108,399.596,507.520" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="399.596,487.108,406.796,507.520" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="406.796,487.108,413.996,507.520" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="413.996,487.108,421.196,507.520" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="421.196,487.108,428.396,507.520" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="428.396,487.108,435.596,507.520" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="435.596,487.108,442.796,507.520" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="295.196,461.428,331.196,481.840">
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,461.428,302.396,481.840" size="20.412">v</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,461.428,309.596,481.840" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,461.428,316.796,481.840" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,461.428,323.996,481.840" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,461.428,331.196,481.840" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="79.196,435.748,539.996,456.160">
+<text font="TLXOPH+CourierNewPSMT" bbox="79.196,435.748,86.396,456.160" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.396,435.748,93.596,456.160" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.596,435.748,100.796,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.796,435.748,107.996,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="107.996,435.748,115.196,456.160" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.196,435.748,122.396,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.396,435.748,129.596,456.160" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.596,435.748,136.796,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.796,435.748,143.996,456.160" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="143.996,435.748,151.196,456.160" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.196,435.748,158.396,456.160" size="20.412">B</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.396,435.748,165.596,456.160" size="20.412">L</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.596,435.748,172.796,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.796,435.748,179.996,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="179.996,435.748,187.196,456.160" size="20.412">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.196,435.748,194.396,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.396,435.748,201.596,456.160" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.596,435.748,208.796,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.796,435.748,215.996,456.160" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="215.996,435.748,223.196,456.160" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.196,435.748,230.396,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.396,435.748,237.596,456.160" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.596,435.748,244.796,456.160" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.796,435.748,251.996,456.160" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="251.996,435.748,259.196,456.160" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.196,435.748,266.396,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.396,435.748,273.596,456.160" size="20.412">Z</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.596,435.748,280.796,456.160" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.796,435.748,287.996,456.160" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="287.996,435.748,295.196,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,435.748,302.396,456.160" size="20.412">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,435.748,309.596,456.160" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,435.748,316.796,456.160" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,435.748,323.996,456.160" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,435.748,331.196,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.196,435.748,338.396,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.396,435.748,345.596,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.596,435.748,352.796,456.160" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.796,435.748,359.996,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="359.996,435.748,367.196,456.160" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.196,435.748,374.396,456.160" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.396,435.748,381.596,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.596,435.748,388.796,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.796,435.748,395.996,456.160" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="395.996,435.748,403.196,456.160" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.196,435.748,410.396,456.160" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.396,435.748,417.596,456.160" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.596,435.748,424.796,456.160" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.796,435.748,431.996,456.160" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="431.996,435.748,439.196,456.160" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.196,435.748,446.396,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.396,435.748,453.596,456.160" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.596,435.748,460.796,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.796,435.748,467.996,456.160" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="467.996,435.748,475.196,456.160" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.196,435.748,482.396,456.160" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.396,435.748,489.596,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.596,435.748,496.796,456.160" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.796,435.748,503.996,456.160" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="503.996,435.748,511.196,456.160" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.196,435.748,518.396,456.160" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.396,435.748,525.596,456.160" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.596,435.748,532.796,456.160" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.796,435.748,539.996,456.160" size="20.412">
+</text>
+<text>
+</text>
+</textline>
+<textline bbox="124.316,422.908,502.076,443.320">
+<text font="TLXOPH+CourierNewPSMT" bbox="124.316,422.908,131.516,443.320" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="131.516,422.908,138.716,443.320" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="138.716,422.908,145.916,443.320" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="145.916,422.908,153.116,443.320" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="153.116,422.908,160.316,443.320" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="160.316,422.908,167.516,443.320" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="167.516,422.908,174.716,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="174.716,422.908,181.916,443.320" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="181.916,422.908,189.116,443.320" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="189.116,422.908,196.316,443.320" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="196.316,422.908,203.516,443.320" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="203.516,422.908,210.716,443.320" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="210.716,422.908,217.916,443.320" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="217.916,422.908,225.116,443.320" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="225.116,422.908,232.316,443.320" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="232.316,422.908,239.516,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="239.516,422.908,246.716,443.320" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="246.716,422.908,253.916,443.320" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="253.916,422.908,261.116,443.320" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="261.116,422.908,268.316,443.320" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="268.316,422.908,275.516,443.320" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="275.516,422.908,282.716,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="282.716,422.908,289.916,443.320" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="289.916,422.908,297.116,443.320" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="297.116,422.908,304.316,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="304.316,422.908,311.516,443.320" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="311.516,422.908,318.716,443.320" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="318.716,422.908,325.916,443.320" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="325.916,422.908,333.116,443.320" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="333.116,422.908,340.316,443.320" size="20.412">I</text>
+<text font="NUKURP+WP-Phonetic" bbox="340.316,427.564,343.652,442.948" size="15.384">'</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="343.676,422.908,350.876,443.320" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="350.876,422.908,358.076,443.320" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="358.076,422.908,365.276,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="365.276,422.908,372.476,443.320" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="372.476,422.908,379.676,443.320" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="379.676,422.908,386.876,443.320" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="386.876,422.908,394.076,443.320" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="394.076,422.908,401.276,443.320" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="401.276,422.908,408.476,443.320" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="408.476,422.908,415.676,443.320" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="415.676,422.908,422.876,443.320" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="422.876,422.908,430.076,443.320" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="430.076,422.908,437.276,443.320" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="437.276,422.908,444.476,443.320" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="444.476,422.908,451.676,443.320" size="20.412">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="451.676,422.908,458.876,443.320" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="458.876,422.908,466.076,443.320" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="466.076,422.908,473.276,443.320" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="473.276,422.908,480.476,443.320" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="480.476,422.908,487.676,443.320" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="487.676,422.908,494.876,443.320" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="494.876,422.908,502.076,443.320" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="295.196,397.228,331.196,417.640">
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,397.228,302.396,417.640" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,397.228,309.596,417.640" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,397.228,316.796,417.640" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,397.228,323.996,417.640" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,397.228,331.196,417.640" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="203.516,371.548,422.876,391.960">
+<text font="TLXOPH+CourierNewPSMT" bbox="203.516,371.548,210.716,391.960" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="210.716,371.548,217.916,391.960" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="217.916,371.548,225.116,391.960" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="225.116,371.548,232.316,391.960" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="232.316,371.548,239.516,391.960" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="239.516,371.548,246.716,391.960" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="246.716,371.548,253.916,391.960" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="253.916,371.548,261.116,391.960" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="261.116,371.548,268.316,391.960" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="268.316,371.548,275.516,391.960" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="275.516,371.548,282.716,391.960" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="282.716,371.548,289.916,391.960" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="289.916,371.548,297.116,391.960" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="297.116,371.548,304.316,391.960" size="20.412">I</text>
+<text font="NUKURP+WP-Phonetic" bbox="304.316,376.204,307.652,391.588" size="15.384">'</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="307.676,371.548,314.876,391.960" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="314.876,371.548,322.076,391.960" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="322.076,371.548,329.276,391.960" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="329.276,371.548,336.476,391.960" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="336.476,371.548,343.676,391.960" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="343.676,371.548,350.876,391.960" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="350.876,371.548,358.076,391.960" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="358.076,371.548,365.276,391.960" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="365.276,371.548,372.476,391.960" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="372.476,371.548,379.676,391.960" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="379.676,371.548,386.876,391.960" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="386.876,371.548,394.076,391.960" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="394.076,371.548,401.276,391.960" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="401.276,371.548,408.476,391.960" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="408.476,371.548,415.676,391.960" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="415.676,371.548,422.876,391.960" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,358.704,540.000,379.116">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,358.704,79.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,358.704,86.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,358.704,93.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,358.704,100.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,358.704,108.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,358.704,115.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,358.704,122.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,358.704,129.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,358.704,136.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,358.704,144.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,358.704,151.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,358.704,158.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,358.704,165.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,358.704,172.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,358.704,180.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,358.704,187.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,358.704,194.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,358.704,201.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,358.704,208.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,358.704,216.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,358.704,223.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,358.704,230.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,358.704,237.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,358.704,244.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,358.704,252.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,358.704,259.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,358.704,266.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,358.704,273.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,358.704,280.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,358.704,288.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,358.704,295.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,358.704,302.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,358.704,309.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,358.704,316.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,358.704,324.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,358.704,331.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,358.704,338.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,358.704,345.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,358.704,352.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,358.704,360.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,358.704,367.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,358.704,374.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,358.704,381.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,358.704,388.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,358.704,396.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,358.704,403.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,358.704,410.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,358.704,417.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,358.704,424.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,358.704,432.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,358.704,439.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,358.704,446.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,358.704,453.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,358.704,460.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,358.704,468.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,358.704,475.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,358.704,482.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,358.704,489.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,358.704,496.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,358.704,504.000,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,358.704,511.200,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,358.704,518.400,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,358.704,525.600,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,358.704,532.800,379.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,358.704,540.000,379.116" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="237.596,333.028,388.796,353.440">
+<text font="TLXOPH+CourierNewPSMT" bbox="237.596,333.028,244.796,353.440" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.796,333.028,251.996,353.440" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="251.996,333.028,259.196,353.440" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.196,333.028,266.396,353.440" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.396,333.028,273.596,353.440" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.596,333.028,280.796,353.440" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.796,333.028,287.996,353.440" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="287.996,333.028,295.196,353.440" size="20.412">L</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,333.028,302.396,353.440" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,333.028,309.596,353.440" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,333.028,316.796,353.440" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,333.028,323.996,353.440" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,333.028,331.196,353.440" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.196,333.028,338.396,353.440" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.396,333.028,345.596,353.440" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.596,333.028,352.796,353.440" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.796,333.028,359.996,353.440" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="359.996,333.028,367.196,353.440" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.196,333.028,374.396,353.440" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.396,333.028,381.596,353.440" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.596,333.028,388.796,353.440" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="151.196,307.348,475.196,327.760">
+<text font="TLXOPH+CourierNewPSMT" bbox="151.196,307.348,158.396,327.760" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.396,307.348,165.596,327.760" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.596,307.348,172.796,327.760" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.796,307.348,179.996,327.760" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="179.996,307.348,187.196,327.760" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.196,307.348,194.396,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.396,307.348,201.596,327.760" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.596,307.348,208.796,327.760" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.796,307.348,215.996,327.760" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="215.996,307.348,223.196,327.760" size="20.412">Y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.196,307.348,230.396,327.760" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.396,307.348,237.596,327.760" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.596,307.348,244.796,327.760" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.796,307.348,251.996,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="251.996,307.348,259.196,327.760" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.196,307.348,266.396,327.760" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.396,307.348,273.596,327.760" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.596,307.348,280.796,327.760" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.796,307.348,287.996,327.760" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="287.996,307.348,295.196,327.760" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.196,307.348,302.396,327.760" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.396,307.348,309.596,327.760" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.596,307.348,316.796,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.796,307.348,323.996,327.760" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="323.996,307.348,331.196,327.760" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.196,307.348,338.396,327.760" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.396,307.348,345.596,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.596,307.348,352.796,327.760" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.796,307.348,359.996,327.760" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="359.996,307.348,367.196,327.760" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.196,307.348,374.396,327.760" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.396,307.348,381.596,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.596,307.348,388.796,327.760" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.796,307.348,395.996,327.760" size="20.412">F</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="395.996,307.348,403.196,327.760" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.196,307.348,410.396,327.760" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.396,307.348,417.596,327.760" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.596,307.348,424.796,327.760" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.796,307.348,431.996,327.760" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="431.996,307.348,439.196,327.760" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.196,307.348,446.396,327.760" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.396,307.348,453.596,327.760" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.596,307.348,460.796,327.760" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.796,307.348,467.996,327.760" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="467.996,307.348,475.196,327.760" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="73.440,295.176,551.065,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="73.440,295.176,80.028,313.853" size="18.677">(</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="80.281,295.176,86.869,313.853" size="18.677">B</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="87.120,295.176,93.708,313.853" size="18.677">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.959,295.176,100.547,313.853" size="18.677">:</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.547,295.176,107.135,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="107.641,295.176,114.229,313.853" size="18.677">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="114.420,295.176,121.008,313.853" size="18.677">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="121.260,295.176,127.848,313.853" size="18.677">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="128.100,295.176,134.688,313.853" size="18.677">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="134.940,295.176,141.528,313.853" size="18.677">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="141.780,295.176,148.368,313.853" size="18.677">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="148.620,295.176,155.208,313.853" size="18.677">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="155.460,295.176,162.048,313.853" size="18.677">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="162.300,295.176,168.888,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="169.080,295.176,175.668,313.853" size="18.677">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="175.920,295.176,182.508,313.853" size="18.677">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="182.760,295.176,189.348,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="189.348,295.176,195.936,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="196.440,295.176,203.028,313.853" size="18.677">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="203.280,295.176,209.868,313.853" size="18.677">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="210.120,295.176,216.708,313.853" size="18.677">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.960,295.176,223.548,313.853" size="18.677">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.800,295.176,230.388,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.388,295.176,236.976,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.480,295.176,244.068,313.853" size="18.677">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.320,295.176,250.908,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="251.160,295.176,257.748,313.853" size="18.677">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="258.001,295.176,264.589,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="264.840,295.176,271.428,313.853" size="18.677">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="271.680,295.176,278.268,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="278.520,295.176,285.108,313.853" size="18.677">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="285.361,295.176,291.949,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="292.200,295.176,298.788,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="298.788,295.176,305.376,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="305.880,295.176,312.468,313.853" size="18.677">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="312.721,295.176,319.309,313.853" size="18.677">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="319.560,295.176,326.148,313.853" size="18.677">K</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="326.340,295.176,332.928,313.853" size="18.677">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="333.181,295.176,339.769,313.853" size="18.677">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="340.020,295.176,346.608,313.853" size="18.677">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="346.861,295.176,353.449,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="353.700,295.176,360.288,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.288,295.176,366.876,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.320,295.176,373.908,313.853" size="18.677">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.100,295.176,380.688,313.853" size="18.677">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="380.940,295.176,387.528,313.853" size="18.677">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="387.780,295.176,394.368,313.853" size="18.677">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="394.620,295.176,401.208,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="401.460,295.176,408.048,313.853" size="18.677">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="408.300,295.176,414.888,313.853" size="18.677">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="415.081,295.176,421.669,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="421.669,295.176,428.257,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="428.760,295.176,435.348,313.853" size="18.677">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="435.600,295.176,442.188,313.853" size="18.677">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="442.440,295.176,449.028,313.853" size="18.677">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="449.028,295.176,455.616,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="456.120,295.176,462.708,313.853" size="18.677">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="462.960,295.176,469.548,313.853" size="18.677">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="469.800,295.176,476.388,313.853" size="18.677">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="476.640,295.176,483.228,313.853" size="18.677">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="483.480,295.176,490.068,313.853" size="18.677">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="490.320,295.176,496.908,313.853" size="18.677">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="497.100,295.176,503.688,313.853" size="18.677">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="503.688,295.176,510.276,313.853" size="18.677"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="510.780,295.176,517.368,313.853" size="18.677">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="517.621,295.176,524.209,313.853" size="18.677">J</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="524.460,295.176,531.048,313.853" size="18.677">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="531.301,295.176,537.889,313.853" size="18.677">)</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="537.889,295.176,544.477,313.853" size="18.677">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="544.477,295.176,551.065,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="189.595,295.176,196.183,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="189.595,295.176,196.183,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="503.932,295.176,510.520,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="503.932,295.176,510.520,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="449.272,295.176,455.860,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="449.272,295.176,455.860,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="421.912,295.176,428.500,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="421.912,295.176,428.500,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="360.532,295.176,367.120,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="360.532,295.176,367.120,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="299.033,295.176,305.621,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="299.033,295.176,305.621,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="230.635,295.176,237.223,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="230.635,295.176,237.223,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="100.800,295.176,107.388,313.853">
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,295.176,107.388,313.853" size="18.677"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,269.424,475.200,289.836">
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,269.424,151.200,289.836" size="20.412">U</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,269.424,158.400,289.836" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,269.424,165.600,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,269.424,172.800,289.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,269.424,180.000,289.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,269.424,187.200,289.836" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,269.424,194.400,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,269.424,201.600,289.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,269.424,208.800,289.836" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,269.424,216.000,289.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,269.424,223.200,289.836" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,269.424,230.400,289.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,269.424,237.600,289.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,269.424,244.800,289.836" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,269.424,252.000,289.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,269.424,259.200,289.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,269.424,266.400,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,269.424,273.600,289.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,269.424,280.800,289.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,269.424,288.000,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,269.424,295.200,289.836" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,269.424,302.400,289.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,269.424,309.600,289.836" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,269.424,316.800,289.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,269.424,324.000,289.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,269.424,331.200,289.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,269.424,338.400,289.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,269.424,345.600,289.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,269.424,352.800,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,269.424,360.000,289.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,269.424,367.200,289.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,269.424,374.400,289.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,269.424,381.600,289.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,269.424,388.800,289.836" size="20.412">C</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,269.424,396.000,289.836" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,269.424,403.200,289.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,269.424,410.400,289.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,269.424,417.600,289.836" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,269.424,424.800,289.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,269.424,432.000,289.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,269.424,439.200,289.836" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,269.424,446.400,289.836" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,269.424,453.600,289.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,269.424,460.800,289.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,269.424,468.000,289.836" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,269.424,475.200,289.836" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,243.744,540.000,264.156">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,243.744,79.200,264.156" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,243.744,86.400,264.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,243.744,93.600,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,243.744,100.800,264.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,243.744,108.000,264.156" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,243.744,115.200,264.156" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,243.744,122.400,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,243.744,129.600,264.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,243.744,136.800,264.156" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,243.744,144.000,264.156" size="20.412">’</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,243.744,151.200,264.156" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,243.744,158.400,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,243.744,165.600,264.156" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,243.744,172.800,264.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,243.744,180.000,264.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,243.744,187.200,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,243.744,194.400,264.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,243.744,201.600,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,243.744,208.800,264.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,243.744,216.000,264.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,243.744,223.200,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,243.744,230.400,264.156" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,243.744,237.600,264.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,243.744,244.800,264.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,243.744,252.000,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,243.744,259.200,264.156" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,243.744,266.400,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,243.744,273.600,264.156" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,243.744,280.800,264.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,243.744,288.000,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,243.744,295.200,264.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,243.744,302.400,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,243.744,309.600,264.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,243.744,316.800,264.156" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,243.744,324.000,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,243.744,331.200,264.156" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,243.744,338.400,264.156" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,243.744,345.600,264.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,243.744,352.800,264.156" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,243.744,360.000,264.156" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,243.744,367.200,264.156" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,243.744,374.400,264.156" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,243.744,381.600,264.156" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,243.744,388.800,264.156" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,243.744,396.000,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,243.744,403.200,264.156" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,243.744,410.400,264.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,243.744,417.600,264.156" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,243.744,424.800,264.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,243.744,432.000,264.156" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,243.744,439.200,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,243.744,446.400,264.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,243.744,453.600,264.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,243.744,460.800,264.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,243.744,468.000,264.156" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,243.744,475.200,264.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,243.744,482.400,264.156" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,243.744,489.600,264.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,243.744,496.800,264.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,243.744,504.000,264.156" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,243.744,511.200,264.156" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,243.744,518.400,264.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,243.744,525.600,264.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,243.744,532.800,264.156" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,243.744,540.000,264.156" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,218.064,540.000,238.476">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,218.064,79.200,238.476" size="20.412">5</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,218.064,86.400,238.476" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,218.064,93.600,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,218.064,100.800,238.476" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,218.064,108.000,238.476" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,218.064,115.200,238.476" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,218.064,122.400,238.476" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,218.064,129.600,238.476" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,218.064,136.800,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,218.064,144.000,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,218.064,151.200,238.476" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,218.064,158.400,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,218.064,165.600,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,218.064,172.800,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,218.064,180.000,238.476" size="20.412">x</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,218.064,187.200,238.476" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,218.064,194.400,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,218.064,201.600,238.476" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,218.064,208.800,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,218.064,216.000,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,218.064,223.200,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,218.064,230.400,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,218.064,237.600,238.476" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,218.064,244.800,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,218.064,252.000,238.476" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,218.064,259.200,238.476" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,218.064,266.400,238.476" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,218.064,273.600,238.476" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,218.064,280.800,238.476" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,218.064,288.000,238.476" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,218.064,295.200,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,218.064,302.400,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,218.064,309.600,238.476" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,218.064,316.800,238.476" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,218.064,324.000,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,218.064,331.200,238.476" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,218.064,338.400,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,218.064,345.600,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,218.064,352.800,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,218.064,360.000,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,218.064,367.200,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,218.064,374.400,238.476" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,218.064,381.600,238.476" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,218.064,388.800,238.476" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,218.064,396.000,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,218.064,403.200,238.476" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,218.064,410.400,238.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,218.064,417.600,238.476" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,218.064,424.800,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,218.064,432.000,238.476" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,218.064,439.200,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,218.064,446.400,238.476" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,218.064,453.600,238.476" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,218.064,460.800,238.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,218.064,468.000,238.476" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,218.064,475.200,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,218.064,482.400,238.476" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,218.064,489.600,238.476" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,218.064,496.800,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,218.064,504.000,238.476" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,218.064,511.200,238.476" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,218.064,518.400,238.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,218.064,525.600,238.476" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,218.064,532.800,238.476" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,218.064,540.000,238.476" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,192.384,525.600,212.796">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,192.384,79.200,212.796" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,192.384,86.400,212.796" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,192.384,93.600,212.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,192.384,100.800,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,192.384,108.000,212.796" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,192.384,115.200,212.796" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,192.384,122.400,212.796" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,192.384,129.600,212.796" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,192.384,136.800,212.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,192.384,144.000,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,192.384,151.200,212.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,192.384,158.400,212.796" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,192.384,165.600,212.796" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,192.384,172.800,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,192.384,180.000,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,192.384,187.200,212.796" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,192.384,194.400,212.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,192.384,201.600,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,192.384,208.800,212.796" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,192.384,216.000,212.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,192.384,223.200,212.796" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,192.384,230.400,212.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,192.384,237.600,212.796" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,192.384,244.800,212.796" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,192.384,252.000,212.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,192.384,259.200,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,192.384,266.400,212.796" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,192.384,273.600,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,192.384,280.800,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,192.384,288.000,212.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,192.384,295.200,212.796" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,192.384,302.400,212.796" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,192.384,309.600,212.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,192.384,316.800,212.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,192.384,324.000,212.796" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,192.384,331.200,212.796" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,192.384,338.400,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,192.384,345.600,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,192.384,352.800,212.796" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,192.384,360.000,212.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,192.384,367.200,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,192.384,374.400,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,192.384,381.600,212.796" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,192.384,388.800,212.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,192.384,396.000,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,192.384,403.200,212.796" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,192.384,410.400,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,192.384,417.600,212.796" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,192.384,424.800,212.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,192.384,432.000,212.796" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,192.384,439.200,212.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,192.384,446.400,212.796" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,192.384,453.600,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,192.384,460.800,212.796" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,192.384,468.000,212.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,192.384,475.200,212.796" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,192.384,482.400,212.796" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,192.384,489.600,212.796" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,192.384,496.800,212.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,192.384,504.000,212.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,192.384,511.200,212.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,192.384,518.400,212.796" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,192.384,525.600,212.796" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,166.704,511.200,187.116">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,166.704,79.200,187.116" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,166.704,86.400,187.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,166.704,93.600,187.116" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,166.704,100.800,187.116" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,166.704,108.000,187.116" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,166.704,115.200,187.116" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,166.704,122.400,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,166.704,129.600,187.116" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,166.704,136.800,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,166.704,144.000,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,166.704,151.200,187.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,166.704,158.400,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,166.704,165.600,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,166.704,172.800,187.116" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,166.704,180.000,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,166.704,187.200,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,166.704,194.400,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,166.704,201.600,187.116" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,166.704,208.800,187.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,166.704,216.000,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,166.704,223.200,187.116" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,166.704,230.400,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,166.704,237.600,187.116" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,166.704,244.800,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,166.704,252.000,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,166.704,259.200,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,166.704,266.400,187.116" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,166.704,273.600,187.116" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,166.704,280.800,187.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,166.704,288.000,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,166.704,295.200,187.116" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,166.704,302.400,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,166.704,309.600,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,166.704,316.800,187.116" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,166.704,324.000,187.116" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,166.704,331.200,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,166.704,338.400,187.116" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,166.704,345.600,187.116" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,166.704,352.800,187.116" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,166.704,360.000,187.116" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,166.704,367.200,187.116" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,166.704,374.400,187.116" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,166.704,381.600,187.116" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,166.704,388.800,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,166.704,396.000,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,166.704,403.200,187.116" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,166.704,410.400,187.116" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,166.704,417.600,187.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,166.704,424.800,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,166.704,432.000,187.116" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,166.704,439.200,187.116" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,166.704,446.400,187.116" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,166.704,453.600,187.116" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,166.704,460.800,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,166.704,468.000,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,166.704,475.200,187.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,166.704,482.400,187.116" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,166.704,489.600,187.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,166.704,496.800,187.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,166.704,504.000,187.116" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,166.704,511.200,187.116" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,141.024,547.200,161.436">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,141.024,79.200,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,141.024,86.400,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,141.024,93.600,161.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,141.024,100.800,161.436" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,141.024,108.000,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,141.024,115.200,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,141.024,122.400,161.436" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,141.024,129.600,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,141.024,136.800,161.436" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,141.024,144.000,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,141.024,151.200,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,141.024,158.400,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,141.024,165.600,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,141.024,172.800,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,141.024,180.000,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,141.024,187.200,161.436" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,141.024,194.400,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,141.024,201.600,161.436" size="20.412">v</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,141.024,208.800,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,141.024,216.000,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,141.024,223.200,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,141.024,230.400,161.436" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,141.024,237.600,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,141.024,244.800,161.436" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,141.024,252.000,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,141.024,259.200,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,141.024,266.400,161.436" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,141.024,273.600,161.436" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,141.024,280.800,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,141.024,288.000,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,141.024,295.200,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,141.024,302.400,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,141.024,309.600,161.436" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,141.024,316.800,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,141.024,324.000,161.436" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,141.024,331.200,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,141.024,338.400,161.436" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,141.024,345.600,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,141.024,352.800,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,141.024,360.000,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,141.024,367.200,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,141.024,374.400,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,141.024,381.600,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,141.024,388.800,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,141.024,396.000,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,141.024,403.200,161.436" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,141.024,410.400,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,141.024,417.600,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,141.024,424.800,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,141.024,432.000,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,141.024,439.200,161.436" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,141.024,446.400,161.436" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,141.024,453.600,161.436" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,141.024,460.800,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,141.024,468.000,161.436" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,141.024,475.200,161.436" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,141.024,482.400,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,141.024,489.600,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,141.024,496.800,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,141.024,504.000,161.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,141.024,511.200,161.436" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,141.024,518.400,161.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,141.024,525.600,161.436" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,141.024,532.800,161.436" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,141.024,540.000,161.436" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="540.000,141.024,547.200,161.436" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,115.344,540.000,135.756">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,115.344,79.200,135.756" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,115.344,86.400,135.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,115.344,93.600,135.756" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,115.344,100.800,135.756" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,115.344,108.000,135.756" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,115.344,115.200,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,115.344,122.400,135.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,115.344,129.600,135.756" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,115.344,136.800,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,115.344,144.000,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,115.344,151.200,135.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,115.344,158.400,135.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,115.344,165.600,135.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,115.344,172.800,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,115.344,180.000,135.756" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,115.344,187.200,135.756" size="20.412">v</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,115.344,194.400,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,115.344,201.600,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,115.344,208.800,135.756" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,115.344,216.000,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,115.344,223.200,135.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,115.344,230.400,135.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,115.344,237.600,135.756" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,115.344,244.800,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,115.344,252.000,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,115.344,259.200,135.756" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,115.344,266.400,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,115.344,273.600,135.756" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,115.344,280.800,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,115.344,288.000,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,115.344,295.200,135.756" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,115.344,302.400,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,115.344,309.600,135.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,115.344,316.800,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,115.344,324.000,135.756" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,115.344,331.200,135.756" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,115.344,338.400,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,115.344,345.600,135.756" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,115.344,352.800,135.756" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,115.344,360.000,135.756" size="20.412"> </text>
+<text> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,115.344,374.400,135.756" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,115.344,381.600,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,115.344,388.800,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,115.344,396.000,135.756" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,115.344,403.200,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,115.344,410.400,135.756" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,115.344,417.600,135.756" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,115.344,424.800,135.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,115.344,432.000,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,115.344,439.200,135.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,115.344,446.400,135.756" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,115.344,453.600,135.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,115.344,460.800,135.756" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,115.344,468.000,135.756" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,115.344,475.200,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,115.344,482.400,135.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,115.344,489.600,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,115.344,496.800,135.756" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,115.344,504.000,135.756" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,115.344,511.200,135.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,115.344,518.400,135.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,115.344,525.600,135.756" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,115.344,532.800,135.756" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,115.344,540.000,135.756" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,89.664,540.000,110.076">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,89.664,79.200,110.076" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,89.664,86.400,110.076" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,89.664,93.600,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,89.664,100.800,110.076" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,89.664,108.000,110.076" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,89.664,115.200,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,89.664,122.400,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,89.664,129.600,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,89.664,136.800,110.076" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,89.664,144.000,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,89.664,151.200,110.076" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,89.664,158.400,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,89.664,165.600,110.076" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,89.664,172.800,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,89.664,180.000,110.076" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,89.664,187.200,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,89.664,194.400,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,89.664,201.600,110.076" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,89.664,208.800,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,89.664,216.000,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,89.664,223.200,110.076" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,89.664,230.400,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,89.664,237.600,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,89.664,244.800,110.076" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,89.664,252.000,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,89.664,259.200,110.076" size="20.412">q</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,89.664,266.400,110.076" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,89.664,273.600,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,89.664,280.800,110.076" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,89.664,288.000,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,89.664,295.200,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,89.664,302.400,110.076" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,89.664,309.600,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,89.664,316.800,110.076" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,89.664,324.000,110.076" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,89.664,331.200,110.076" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,89.664,338.400,110.076" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,89.664,345.600,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,89.664,352.800,110.076" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,89.664,360.000,110.076" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,89.664,367.200,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,89.664,374.400,110.076" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,89.664,381.600,110.076" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,89.664,388.800,110.076" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,89.664,396.000,110.076" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,89.664,403.200,110.076" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,89.664,410.400,110.076" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,89.664,417.600,110.076" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,89.664,424.800,110.076" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,89.664,432.000,110.076" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,89.664,439.200,110.076" size="20.412"> </text>
+<text> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,89.664,453.600,110.076" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,89.664,460.800,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,89.664,468.000,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,89.664,475.200,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,89.664,482.400,110.076" size="20.412">K</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,89.664,489.600,110.076" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,89.664,496.800,110.076" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,89.664,504.000,110.076" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,89.664,511.200,110.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,89.664,518.400,110.076" size="20.412">v</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,89.664,525.600,110.076" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,89.664,532.800,110.076" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,89.664,540.000,110.076" size="20.412"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<curve linewidth="0" bbox="72.000,512.520,540.000,513.240" pts="72.000,513.240,540.000,513.240,540.000,512.520,72.000,512.520"/>
+<curve linewidth="0" bbox="72.000,358.440,540.000,359.160" pts="72.000,359.160,540.000,359.160,540.000,358.440,72.000,358.440"/>
+<curve linewidth="0" bbox="151.200,307.080,460.800,307.800" pts="151.200,307.800,460.800,307.800,460.800,307.080,151.200,307.080"/>
+<curve linewidth="0" bbox="446.400,89.400,468.000,90.120" pts="446.400,90.120,468.000,90.120,468.000,89.400,446.400,89.400"/>
+<curve linewidth="0" bbox="475.200,89.400,525.600,90.120" pts="475.200,90.120,525.600,90.120,525.600,89.400,475.200,89.400"/>
+<layout>
+<textgroup bbox="72.000,89.664,564.716,693.796">
+<textbox id="0" bbox="452.000,619.516,564.716,693.796" />
+<textbox id="1" bbox="72.000,89.664,551.065,571.720" />
+</textgroup>
+</layout>
+</page>
+<page id="2" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="72.000,399.984,540.000,728.556">
+<textline bbox="72.000,708.144,536.160,728.556">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,708.144,79.200,728.556" size="20.412">G</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,708.144,86.400,728.556" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,708.144,93.600,728.556" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,708.144,100.800,728.556" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,708.144,108.000,728.556" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,708.144,115.200,728.556" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,708.144,122.400,728.556" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,708.144,129.600,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,708.144,136.800,728.556" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,708.144,144.000,728.556" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,708.144,151.200,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,708.144,158.400,728.556" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,708.144,165.600,728.556" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,708.144,172.800,728.556" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,708.144,180.000,728.556" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,708.144,187.200,728.556" size="20.412">i</text>
+<text font="NUKURP+WP-Phonetic" bbox="187.200,712.800,190.536,728.184" size="15.384">'</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="190.560,708.144,197.760,728.556" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="197.760,708.144,204.960,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="204.960,708.144,212.160,728.556" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="212.160,708.144,219.360,728.556" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="219.360,708.144,226.560,728.556" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="226.560,708.144,233.760,728.556" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="233.760,708.144,240.960,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="240.960,708.144,248.160,728.556" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="248.160,708.144,255.360,728.556" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="255.360,708.144,262.560,728.556" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="262.560,708.144,269.760,728.556" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="269.760,708.144,276.960,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="276.960,708.144,284.160,728.556" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="284.160,708.144,291.360,728.556" size="20.412">8</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="291.360,708.144,298.560,728.556" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="298.560,708.144,305.760,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="305.760,708.144,312.960,728.556" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="312.960,708.144,320.160,728.556" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="320.160,708.144,327.360,728.556" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="327.360,708.144,334.560,728.556" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="334.560,708.144,341.760,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="341.760,708.144,348.960,728.556" size="20.412">3</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="348.960,708.144,356.160,728.556" size="20.412">3</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="356.160,708.144,363.360,728.556" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="363.360,708.144,370.560,728.556" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="370.560,708.144,377.760,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="377.760,708.144,384.960,728.556" size="20.412">3</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="384.960,708.144,392.160,728.556" size="20.412">3</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="392.160,708.144,399.360,728.556" size="20.412">8</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="399.360,708.144,406.560,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="406.560,708.144,413.760,728.556" size="20.412">(</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="413.760,708.144,420.960,728.556" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="420.960,708.144,428.160,728.556" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="428.160,708.144,435.360,728.556" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="435.360,708.144,442.560,728.556" size="20.412">9</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="442.560,708.144,449.760,728.556" size="20.412">)</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="449.760,708.144,456.960,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="456.960,708.144,464.160,728.556" size="20.412">(</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="464.160,708.144,471.360,728.556" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="471.360,708.144,478.560,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="478.560,708.144,485.760,728.556" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="485.760,708.144,492.960,728.556" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="492.960,708.144,500.160,728.556" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="500.160,708.144,507.360,728.556" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="507.360,708.144,514.560,728.556" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="514.560,708.144,521.760,728.556" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="521.760,708.144,528.960,728.556" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="528.960,708.144,536.160,728.556" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,682.464,525.600,702.876">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,682.464,79.200,702.876" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,682.464,86.400,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,682.464,93.600,702.876" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,682.464,100.800,702.876" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,682.464,108.000,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,682.464,115.200,702.876" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,682.464,122.400,702.876" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,682.464,129.600,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,682.464,136.800,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,682.464,144.000,702.876" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,682.464,151.200,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,682.464,158.400,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,682.464,165.600,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,682.464,172.800,702.876" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,682.464,180.000,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,682.464,187.200,702.876" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,682.464,194.400,702.876" size="20.412">x</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,682.464,201.600,702.876" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,682.464,208.800,702.876" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,682.464,216.000,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,682.464,223.200,702.876" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,682.464,230.400,702.876" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,682.464,237.600,702.876" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,682.464,244.800,702.876" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,682.464,252.000,702.876" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,682.464,259.200,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,682.464,266.400,702.876" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,682.464,273.600,702.876" size="20.412">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,682.464,280.800,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,682.464,288.000,702.876" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,682.464,295.200,702.876" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,682.464,302.400,702.876" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,682.464,309.600,702.876" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,682.464,316.800,702.876" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,682.464,324.000,702.876" size="20.412">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,682.464,331.200,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,682.464,338.400,702.876" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,682.464,345.600,702.876" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,682.464,352.800,702.876" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,682.464,360.000,702.876" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,682.464,367.200,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,682.464,374.400,702.876" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,682.464,381.600,702.876" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,682.464,388.800,702.876" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,682.464,396.000,702.876" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,682.464,403.200,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,682.464,410.400,702.876" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,682.464,417.600,702.876" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,682.464,424.800,702.876" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,682.464,432.000,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,682.464,439.200,702.876" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,682.464,446.400,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,682.464,453.600,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,682.464,460.800,702.876" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,682.464,468.000,702.876" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,682.464,475.200,702.876" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,682.464,482.400,702.876" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,682.464,489.600,702.876" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,682.464,496.800,702.876" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,682.464,504.000,702.876" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,682.464,511.200,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,682.464,518.400,702.876" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,682.464,525.600,702.876" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,656.784,518.400,677.196">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,656.784,79.200,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,656.784,86.400,677.196" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,656.784,93.600,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,656.784,100.800,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,656.784,108.000,677.196" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,656.784,115.200,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,656.784,122.400,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,656.784,129.600,677.196" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,656.784,136.800,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,656.784,144.000,677.196" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,656.784,151.200,677.196" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,656.784,158.400,677.196" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,656.784,165.600,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,656.784,172.800,677.196" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,656.784,180.000,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,656.784,187.200,677.196" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,656.784,194.400,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,656.784,201.600,677.196" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,656.784,208.800,677.196" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,656.784,216.000,677.196" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,656.784,223.200,677.196" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,656.784,230.400,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,656.784,237.600,677.196" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,656.784,244.800,677.196" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,656.784,252.000,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,656.784,259.200,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,656.784,266.400,677.196" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,656.784,273.600,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,656.784,280.800,677.196" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,656.784,288.000,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,656.784,295.200,677.196" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,656.784,302.400,677.196" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,656.784,309.600,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,656.784,316.800,677.196" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,656.784,324.000,677.196" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,656.784,331.200,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,656.784,338.400,677.196" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,656.784,345.600,677.196" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,656.784,352.800,677.196" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,656.784,360.000,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,656.784,367.200,677.196" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,656.784,374.400,677.196" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,656.784,381.600,677.196" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,656.784,388.800,677.196" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,656.784,396.000,677.196" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,656.784,403.200,677.196" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,656.784,410.400,677.196" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,656.784,417.600,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,656.784,424.800,677.196" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,656.784,432.000,677.196" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,656.784,439.200,677.196" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,656.784,446.400,677.196" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,656.784,453.600,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,656.784,460.800,677.196" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,656.784,468.000,677.196" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,656.784,475.200,677.196" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,656.784,482.400,677.196" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,656.784,489.600,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,656.784,496.800,677.196" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,656.784,504.000,677.196" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,656.784,511.200,677.196" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,656.784,518.400,677.196" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,631.104,540.000,651.516">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,631.104,79.200,651.516" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,631.104,86.400,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,631.104,93.600,651.516" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,631.104,100.800,651.516" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,631.104,108.000,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,631.104,115.200,651.516" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,631.104,122.400,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,631.104,129.600,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,631.104,136.800,651.516" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,631.104,144.000,651.516" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,631.104,151.200,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,631.104,158.400,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,631.104,165.600,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,631.104,172.800,651.516" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,631.104,180.000,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,631.104,187.200,651.516" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,631.104,194.400,651.516" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,631.104,201.600,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,631.104,208.800,651.516" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,631.104,216.000,651.516" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,631.104,223.200,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,631.104,230.400,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,631.104,237.600,651.516" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,631.104,244.800,651.516" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,631.104,252.000,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,631.104,259.200,651.516" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,631.104,266.400,651.516" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,631.104,273.600,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,631.104,280.800,651.516" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,631.104,288.000,651.516" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,631.104,295.200,651.516" size="20.412">v</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,631.104,302.400,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,631.104,309.600,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,631.104,316.800,651.516" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,631.104,324.000,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,631.104,331.200,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,631.104,338.400,651.516" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,631.104,345.600,651.516" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,631.104,352.800,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,631.104,360.000,651.516" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,631.104,367.200,651.516" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,631.104,374.400,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,631.104,381.600,651.516" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,631.104,388.800,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,631.104,396.000,651.516" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,631.104,403.200,651.516" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,631.104,410.400,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,631.104,417.600,651.516" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,631.104,424.800,651.516" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,631.104,432.000,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,631.104,439.200,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,631.104,446.400,651.516" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,631.104,453.600,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,631.104,460.800,651.516" size="20.412">q</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,631.104,468.000,651.516" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,631.104,475.200,651.516" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,631.104,482.400,651.516" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,631.104,489.600,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,631.104,496.800,651.516" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,631.104,504.000,651.516" size="20.412">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,631.104,511.200,651.516" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,631.104,518.400,651.516" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,631.104,525.600,651.516" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="525.600,631.104,532.800,651.516" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="532.800,631.104,540.000,651.516" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,605.424,511.200,625.836">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,605.424,79.200,625.836" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,605.424,86.400,625.836" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,605.424,93.600,625.836" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,605.424,100.800,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,605.424,108.000,625.836" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,605.424,115.200,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,605.424,122.400,625.836" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,605.424,129.600,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,605.424,136.800,625.836" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,605.424,144.000,625.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,605.424,151.200,625.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,605.424,158.400,625.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,605.424,165.600,625.836" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,605.424,172.800,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,605.424,180.000,625.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,605.424,187.200,625.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,605.424,194.400,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,605.424,201.600,625.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,605.424,208.800,625.836" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,605.424,216.000,625.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,605.424,223.200,625.836" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,605.424,230.400,625.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,605.424,237.600,625.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,605.424,244.800,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,605.424,252.000,625.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,605.424,259.200,625.836" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,605.424,266.400,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,605.424,273.600,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,605.424,280.800,625.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,605.424,288.000,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,605.424,295.200,625.836" size="20.412">q</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,605.424,302.400,625.836" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,605.424,309.600,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,605.424,316.800,625.836" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,605.424,324.000,625.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,605.424,331.200,625.836" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,605.424,338.400,625.836" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,605.424,345.600,625.836" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,605.424,352.800,625.836" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,605.424,360.000,625.836" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,605.424,367.200,625.836" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,605.424,374.400,625.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,605.424,381.600,625.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,605.424,388.800,625.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,605.424,396.000,625.836" size="20.412">)</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,605.424,403.200,625.836" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,605.424,410.400,625.836" size="20.412"> </text>
+<text> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,605.424,424.800,625.836" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,605.424,432.000,625.836" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,605.424,439.200,625.836" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,605.424,446.400,625.836" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,605.424,453.600,625.836" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,605.424,460.800,625.836" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,605.424,468.000,625.836" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,605.424,475.200,625.836" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,605.424,482.400,625.836" size="20.412">g</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,605.424,489.600,625.836" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,605.424,496.800,625.836" size="20.412">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,605.424,504.000,625.836" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,605.424,511.200,625.836" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,579.744,525.600,600.156">
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,579.744,151.200,600.156" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,579.744,158.400,600.156" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,579.744,165.600,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,579.744,172.800,600.156" size="20.412">I</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,579.744,180.000,600.156" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,579.744,187.200,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,579.744,194.400,600.156" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,579.744,201.600,600.156" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,579.744,208.800,600.156" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,579.744,216.000,600.156" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,579.744,223.200,600.156" size="20.412">B</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,579.744,230.400,600.156" size="20.412">Y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,579.744,237.600,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,579.744,244.800,600.156" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,579.744,252.000,600.156" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,579.744,259.200,600.156" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,579.744,266.400,600.156" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,579.744,273.600,600.156" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,579.744,280.800,600.156" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,579.744,288.000,600.156" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,579.744,295.200,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,579.744,302.400,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,579.744,309.600,600.156" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,579.744,316.800,600.156" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,579.744,324.000,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,579.744,331.200,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,579.744,338.400,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,579.744,345.600,600.156" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,579.744,352.800,600.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,579.744,360.000,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,579.744,367.200,600.156" size="20.412">p</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,579.744,374.400,600.156" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,579.744,381.600,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,579.744,388.800,600.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,579.744,396.000,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,579.744,403.200,600.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,579.744,410.400,600.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,579.744,417.600,600.156" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,579.744,424.800,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,579.744,432.000,600.156" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,579.744,439.200,600.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,579.744,446.400,600.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,579.744,453.600,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,579.744,460.800,600.156" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="460.800,579.744,468.000,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="468.000,579.744,475.200,600.156" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="475.200,579.744,482.400,600.156" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="482.400,579.744,489.600,600.156" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="489.600,579.744,496.800,600.156" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="496.800,579.744,504.000,600.156" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="504.000,579.744,511.200,600.156" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="511.200,579.744,518.400,600.156" size="20.412">f</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="518.400,579.744,525.600,600.156" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,554.064,216.000,574.476">
+<text font="TLXOPH+CourierNewPSMT" bbox="72.000,554.064,79.200,574.476" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="79.200,554.064,86.400,574.476" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="86.400,554.064,93.600,574.476" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="93.600,554.064,100.800,574.476" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="100.800,554.064,108.000,574.476" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="108.000,554.064,115.200,574.476" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="115.200,554.064,122.400,574.476" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="122.400,554.064,129.600,574.476" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="129.600,554.064,136.800,574.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="136.800,554.064,144.000,574.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,554.064,151.200,574.476" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,554.064,158.400,574.476" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,554.064,165.600,574.476" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,554.064,172.800,574.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,554.064,180.000,574.476" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,554.064,187.200,574.476" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,554.064,194.400,574.476" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,554.064,201.600,574.476" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,554.064,208.800,574.476" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,554.064,216.000,574.476" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="144.000,528.384,456.960,548.796">
+<text font="TLXOPH+CourierNewPSMT" bbox="144.000,528.384,151.200,548.796" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="151.200,528.384,158.400,548.796" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="158.400,528.384,165.600,548.796" size="20.412">T</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="165.600,528.384,172.800,548.796" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="172.800,528.384,180.000,548.796" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="180.000,528.384,187.200,548.796" size="20.412">:</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="187.200,528.384,194.400,548.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="194.400,528.384,201.600,548.796" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="201.600,528.384,208.800,548.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="208.800,528.384,216.000,548.796" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="216.000,528.384,223.200,548.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="223.200,528.384,230.400,548.796" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="230.400,528.384,237.600,548.796" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="237.600,528.384,244.800,548.796" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="244.800,528.384,252.000,548.796" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="252.000,528.384,259.200,548.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="259.200,528.384,266.400,548.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="266.400,528.384,273.600,548.796" size="20.412">H</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="273.600,528.384,280.800,548.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="280.800,528.384,288.000,548.796" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,528.384,295.200,548.796" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,528.384,302.400,548.796" size="20.412">i</text>
+<text font="NUKURP+WP-Phonetic" bbox="302.400,533.040,305.736,548.424" size="15.384">'</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="305.760,528.384,312.960,548.796" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="312.960,528.384,320.160,548.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="320.160,528.384,327.360,548.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="327.360,528.384,334.560,548.796" size="20.412">O</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="334.560,528.384,341.760,548.796" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="341.760,528.384,348.960,548.796" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="348.960,528.384,356.160,548.796" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="356.160,528.384,363.360,548.796" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="363.360,528.384,370.560,548.796" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="370.560,528.384,377.760,548.796" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="377.760,528.384,384.960,548.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="384.960,528.384,392.160,548.796" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="392.160,528.384,399.360,548.796" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="399.360,528.384,406.560,548.796" size="20.412">,</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="406.560,528.384,413.760,548.796" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="413.760,528.384,420.960,548.796" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="420.960,528.384,428.160,548.796" size="20.412">0</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="428.160,528.384,435.360,548.796" size="20.412">1</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="435.360,528.384,442.560,548.796" size="20.412">4</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="442.560,528.384,449.760,548.796" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="449.760,528.384,456.960,548.796" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,502.704,460.800,523.116">
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,502.704,295.200,523.116" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,502.704,302.400,523.116" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,502.704,309.600,523.116" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,502.704,316.800,523.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,502.704,324.000,523.116" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,502.704,331.200,523.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,502.704,338.400,523.116" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,502.704,345.600,523.116" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,502.704,352.800,523.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,502.704,360.000,523.116" size="20.412">E</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,502.704,367.200,523.116" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,502.704,374.400,523.116" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,502.704,381.600,523.116" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,502.704,388.800,523.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,502.704,396.000,523.116" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,502.704,403.200,523.116" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,502.704,410.400,523.116" size="20.412">t</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,502.704,417.600,523.116" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,502.704,424.800,523.116" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,502.704,432.000,523.116" size="20.412">w</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,502.704,439.200,523.116" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,502.704,446.400,523.116" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,502.704,453.600,523.116" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,502.704,460.800,523.116" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,477.024,453.600,497.436">
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,477.024,295.200,497.436" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,477.024,302.400,497.436" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,477.024,309.600,497.436" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,477.024,316.800,497.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,477.024,324.000,497.436" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,477.024,331.200,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,477.024,338.400,497.436" size="20.412">u</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,477.024,345.600,497.436" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,477.024,352.800,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,477.024,360.000,497.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,477.024,367.200,497.436" size="20.412">A</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,477.024,374.400,497.436" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,477.024,381.600,497.436" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,477.024,388.800,497.436" size="20.412">N</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,477.024,396.000,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,477.024,403.200,497.436" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,477.024,410.400,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,477.024,417.600,497.436" size="20.412">y</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,477.024,424.800,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,477.024,432.000,497.436" size="20.412">m</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,477.024,439.200,497.436" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,477.024,446.400,497.436" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,477.024,453.600,497.436" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,451.344,460.800,471.756">
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,451.344,295.200,471.756" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,451.344,302.400,471.756" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,451.344,309.600,471.756" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,451.344,316.800,471.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,451.344,324.000,471.756" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,451.344,331.200,471.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,451.344,338.400,471.756" size="20.412">b</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,451.344,345.600,471.756" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,451.344,352.800,471.756" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,451.344,360.000,471.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,451.344,367.200,471.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,451.344,374.400,471.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,451.344,381.600,471.756" size="20.412">S</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,451.344,388.800,471.756" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,451.344,396.000,471.756" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,451.344,403.200,471.756" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,451.344,410.400,471.756" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,451.344,417.600,471.756" size="20.412">K</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,451.344,424.800,471.756" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,451.344,432.000,471.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,451.344,439.200,471.756" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,451.344,446.400,471.756" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,451.344,453.600,471.756" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,451.344,460.800,471.756" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,425.664,460.800,446.076">
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,425.664,295.200,446.076" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,425.664,302.400,446.076" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,425.664,309.600,446.076" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,425.664,316.800,446.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,425.664,324.000,446.076" size="20.412">R</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,425.664,331.200,446.076" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,425.664,338.400,446.076" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,425.664,345.600,446.076" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,425.664,352.800,446.076" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,425.664,360.000,446.076" size="20.412">r</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,425.664,367.200,446.076" size="20.412">d</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,425.664,374.400,446.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,425.664,381.600,446.076" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,425.664,388.800,446.076" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,425.664,396.000,446.076" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,425.664,403.200,446.076" size="20.412">P</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,425.664,410.400,446.076" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,425.664,417.600,446.076" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,425.664,424.800,446.076" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,425.664,432.000,446.076" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,425.664,439.200,446.076" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,425.664,446.400,446.076" size="20.412">k</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,425.664,453.600,446.076" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="453.600,425.664,460.800,446.076" size="20.412"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.000,399.984,453.600,420.396">
+<text font="TLXOPH+CourierNewPSMT" bbox="288.000,399.984,295.200,420.396" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="295.200,399.984,302.400,420.396" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,399.984,309.600,420.396" size="20.412">/</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,399.984,316.800,420.396" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,399.984,324.000,420.396" size="20.412">M</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="324.000,399.984,331.200,420.396" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="331.200,399.984,338.400,420.396" size="20.412">c</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="338.400,399.984,345.600,420.396" size="20.412">h</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="345.600,399.984,352.800,420.396" size="20.412">a</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="352.800,399.984,360.000,420.396" size="20.412">e</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="360.000,399.984,367.200,420.396" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="367.200,399.984,374.400,420.396" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="374.400,399.984,381.600,420.396" size="20.412">D</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="381.600,399.984,388.800,420.396" size="20.412">.</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="388.800,399.984,396.000,420.396" size="20.412"> </text>
+<text font="TLXOPH+CourierNewPSMT" bbox="396.000,399.984,403.200,420.396" size="20.412">W</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="403.200,399.984,410.400,420.396" size="20.412">i</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="410.400,399.984,417.600,420.396" size="20.412">l</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="417.600,399.984,424.800,420.396" size="20.412">s</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="424.800,399.984,432.000,420.396" size="20.412">o</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="432.000,399.984,439.200,420.396" size="20.412">n</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="439.200,399.984,446.400,420.396" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="446.400,399.984,453.600,420.396" size="20.412"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="302.400,72.984,324.000,93.396">
+<textline bbox="302.400,72.984,324.000,93.396">
+<text font="TLXOPH+CourierNewPSMT" bbox="302.400,72.984,309.600,93.396" size="20.412">2</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="309.600,72.984,316.800,93.396" size="20.412">
+</text>
+<text font="TLXOPH+CourierNewPSMT" bbox="316.800,72.984,324.000,93.396" size="20.412"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<curve linewidth="0" bbox="72.000,707.880,115.200,708.600" pts="72.000,708.600,115.200,708.600,115.200,707.880,72.000,707.880"/>
+<figure name="Im0" bbox="507.120,432.180,563.820,492.480">
+<image width="56" height="60" />
+</figure>
+<layout>
+<textgroup bbox="72.000,72.984,540.000,728.556">
+<textbox id="0" bbox="72.000,399.984,540.000,728.556" />
+<textbox id="1" bbox="302.400,72.984,324.000,93.396" />
+</textgroup>
+</layout>
+</page>
+</pages>

@@ -1,0 +1,1197 @@
+{
+    "endpoints": [
+        {
+            "path": "https://api.vimeo.com/",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/activities",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/albums",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+album_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+album_uri}/videos",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+album_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/appearances",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/covers",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+cover_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/channels",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+channel_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/groups",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+group_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/feed",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/followers",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/following",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+following_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/likes",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+like_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/pictures",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+picture_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/portfolios",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+portfolio_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+portfolio_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+portfolio_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/shared/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/shared{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/presets",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+preset_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+preset_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/videos",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+video_uri}",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/violations",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/watchlater",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+watchlater_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+device_uri}{++device_type_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+device_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/ondemand/pages",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/ondemand/library",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/ondemand{+library_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me/services",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/me{+service_uri}{++service_type_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand/pages",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}/genres",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}{+genre_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}/pictures",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}{+picture_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+page_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand/genres",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+genre_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/ondemand{+genre_uri}/pages",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/find/users",
+            "methods": [
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/users",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/activities",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/albums",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+album_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+album_uri}/videos",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+album_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/appearances",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/shared/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/shared{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/covers",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+cover_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/channels",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+channel_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/groups",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+group_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/feed",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/followers",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/following",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+following_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/likes",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+like_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/pictures",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+picture_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/portfolios",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+portfolio_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+portfolio_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+portfolio_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/presets",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+preset_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+preset_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/videos",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/violations",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/watchlater",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+watchlater_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+ticket_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/ondemand/pages",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/ondemand/library",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}/services",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+user_uri}{+service_uri}{++service_type_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/albums",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+album_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+album_uri}/videos",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+album_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/categories",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+category_uri}",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+category_uri}/channels",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+category_uri}/groups",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+category_uri}/users",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+category_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/channels",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+channel_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+channel_uri}/users",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+channel_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+channel_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/groups",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+group_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+group_uri}/users",
+            "methods": [
+                "GET",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+group_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+group_uri}{+video_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/credits",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/videos",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+credit_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/comments",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+comment_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+comment_uri}/replies",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/covers",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+cover_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/pictures",
+            "methods": [
+                "GET",
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+picture_uri}",
+            "methods": [
+                "GET",
+                "PATCH",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/likes",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+preset_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/report",
+            "methods": [
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/tags",
+            "methods": [
+                "GET",
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{+tag_uri}",
+            "methods": [
+                "GET",
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/shared",
+            "methods": [
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/privacy/users",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/privacy{+user_uri}",
+            "methods": [
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/privacy/domains",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/privacy{+domain_uri}",
+            "methods": [
+                "PUT",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}{++clip_id_uri}/play",
+            "methods": [
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/related",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+video_uri}/stats",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/triggers",
+            "methods": [
+                "POST",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com{+trigger_uri}",
+            "methods": [
+                "GET",
+                "DELETE",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/files/redirect",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/files/xbox",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/errors",
+            "methods": [
+                "PUT",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/configs",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorize",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/access_token",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorization/accept",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorize/password",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorize/facebook",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorize/vimeo_oauth1",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/authorize/client",
+            "methods": [
+                "OPTIONS"
+            ]
+        },
+        {
+            "path": "https://api.vimeo.com/oauth/exchange",
+            "methods": [
+                "GET",
+                "OPTIONS"
+            ]
+        }
+    ]
+}

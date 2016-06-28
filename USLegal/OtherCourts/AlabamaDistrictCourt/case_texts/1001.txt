@@ -1,0 +1,632 @@
+Curlee et al v. Birmingham Board of Education
+
+Doc. 27
+FILED 
+ 2013 Jun-28  PM 03:28
+U.S. DISTRICT COURT
+N.D. OF ALABAMA
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ALABAMA
+SOUTHERN  DIVISION
+
+LORETTA CURLEE, KIMBERLY A.
+BROWN, CAROLYN DAVIS, and
+CAROLINE D. WYATT
+
+Plaintiffs,
+
+v.
+
+BIRMINGHAM BOARD OF
+EDUCATION,
+
+Defendant
+
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+
+CV-11-BE-04052-S
+
+MEMORANDUM OPINION
+
+This matter comes before the court on Defendant Birmingham Board of Education’s
+
+Motion for Summary Judgment. (Doc. 14).  Plaintiffs Loretta Curlee, Kimberly A. Brown,
+
+Carolyn Davis, and Caroline D. Wyatt, four African American payroll clerks employed by the
+
+Board, allege that the Board discriminated against them because of their race by paying them a
+
+lower salary than a similarly situated Caucasian payroll clerk.  The Board argues that the
+
+Plaintiffs have failed to establish a prima facie case of discriminatory compensation or a
+
+cognizable § 1981 claim via § 1983, and thus, the court should grant summary judgment in its
+
+favor. Because the court finds that no genuine issue of material fact exists and because the
+
+Plaintiffs failed to make a prima facie showing of discriminatory compensation, the court will
+
+GRANT the Board’s motion for summary judgment and DISMISS the case WITH PREJUDICE. 
+
+Dockets.Justia.com
+
+I.
+
+STATEMENT OF FACTS
+
+A.
+
+Factual Background
+
+1.
+
+Individual Plaintiffs 
+
+The Board currently employs all four of the Plaintiffs as payroll clerks. The Board hired
+
+Plaintiff Loretta Curlee as a secretary in September of 1998. Ms. Curlee has an Associate in
+
+Applied Science degree from Booker T. Washington Junior College. Prior to her employment
+
+with the Board, Ms.Curlee worked in the private sector as a typist, personnel clerk, and secretary.
+
+In August 2004, the Board promoted Ms. Curlee to payroll clerk, and at the time of her
+
+promotion, Mrs. Curlee did not have any questions or complaints about her placement on the
+
+Board’s salary schedule. 
+
+The Board hired Plaintiff Caroline D. Wyatt in August 2004 as a payroll clerk. Ms. Wyatt
+
+has a Bachelor of Science from Faulkner University. Prior to her employment with the Board,
+
+Ms. Curlee worked in the private sector as a cashier, office worker, and administrative assistant
+
+with payroll duties and also worked for the U.S. Postal Service as a mail carrier. When she was
+
+hired by the Board, Ms. Wyatt asked Adrian Mitchell, a Board Human Resources supervisor,
+
+whether her past working experience would be considered in her salary. Ms. Wyatt testified that
+
+Mitchell told her the Board did not grant credit for working at a corporation. 
+
+The Board hired Plaintiff Kimberly A. Brown in September 1988 as an intermediate
+
+clerk. Ms. Brown has a Bachelor of Science in Business Administration from Auburn University
+
+in Montgomery. Prior to her employment with the Board, Ms. Brown worked as a customer
+
+service representative and an office manager in the private sector. In August 1997, Ms. Brown
+
+took a two year leave of absence and during that time worked for Cornerstone Schools as an
+
+2
+
+office manager and for Our Lady of Fatima Catholic School as a kindergarten teacher. Ms.
+
+Brown disputes that she was paid for her work as a teacher at Our Lady of Fatima. Ms. Brown
+
+returned to the Board as an intermediate clerk in August 1999, and was promoted to senior
+
+secretary in April 2000. In August 2003, Ms. Brown requested and was granted a transfer to a
+
+payroll clerk position and testified that she was happy with her compensation at the time of
+
+transfer. 
+
+The Board hired Plaintiff Carolyn Davis in June 1988 as a clerk/ typist. Ms. Davis has an
+
+Associate of Arts degree from Jefferson State Community College. Prior to her employment with
+
+the Board, Ms. Davis worked as a desk clerk, secretary, and an office worker with payroll duties
+
+in the private sector. Ms. Davis worked for the Board as an intermediate clerk and a senior clerk
+
+before becoming a payroll clerk in January 2003. Ms. Davis did not have any questions or
+
+concerns about her salary when she assumed the position of payroll clerk. 
+
+2.
+
+The Board’s Salary Schedule 
+
+The Board compensates the Plaintiffs, and all of its employees, in accordance with a
+
+Board approved salary schedule. The salary schedule governs all Board employees and sets forth
+
+the salary ranges for each job position, which are reflected as “steps” on the salary schedule.
+
+(“Salary Schedule,” Doc. 16-7, at 5, et seq.). The Board has separate salary schedules for
+
+“certified” versus “classified” employees. Certified employees are those employees that are
+
+required to have a certificate issued by the Alabama State Department of Education, and all other
+
+employees, including the Plaintiffs, are classified employees. 
+
+The Board alleges that placement on the salary schedule is determined by various factors,
+
+“including, but not limited to, prior experience working for a public education institution.” (Doc.
+
+3
+
+15, at 3).  The individual Plaintiffs themselves are at different steps on the salary schedule
+
+because they all have different years of working experience at the Board. 
+
+Craig Witherspoon, Superintendent of the Board, testified that “Placement on the salary
+
+schedule is determined by various factors including, but not limited to, prior experience working
+
+for a public education institution. It is the Board’s policy and practice to grant classified
+
+personnel experience credit for previously working for a public education institution.” (Doc. 16-
+
+7, at 2). The Board’s Chief Financial Officer Arthur Watts, Jr. also testified that, “[I]t has been
+
+the Board’s practice to recognize the years of experience of a classified employee whom had
+
+worked in a public education entity.” (Doc. 16-5, at 6). Mr. Watts admitted in his deposition that
+
+the salary schedule itself does not specifically state that a classified employee would receive
+
+credit for past experience in public education. Id. at 5. 
+
+The Plaintiffs dispute that classified employees, like themselves, receive credit for
+
+experience in public education. Neither the 2007 nor the 2009 salary schedule explicitly states
+
+that classified employees will be given credit for prior public education experience, but they do
+
+state that certified employees will be given credit for working in public education. (Doc. 16-7, at
+
+813, 849). The Plaintiffs argue that this omission establishes that the Board’s policy is to not give
+
+classified employees credit for past public education experience. 
+
+Superintendent Witherspoon testified that “[t]he Board does not give experience credit
+
+for performing similar job duties while working in the private sector for purposes of placement
+
+on the appropriate step of the Board’s salary schedule,” but that the Board does give experience
+
+credit for “employment with the University of Alabama at Birmingham (‘UAB’) as prior
+
+experience in public education.” (Doc. 16-7, at 3). Mr. Watts testified that experience in a public
+
+4
+
+education entity affects the salary of both certified and classified employees but that classified
+
+employees’ salary is not affected by the amount of education they have attained. (Doc. 16-5, at
+
+5). 
+
+The Plaintiffs dispute that the Board does not give credit for education attained or past
+
+experience in the private sector by pointing to the job posting for a Board payroll clerk. The job
+
+posting lists the salary as a range from $28,788.50 to $38,890.30 with the caveat that “Actual
+
+salary will be determined upon verification of experience & education.” (“Notice of Vacancy,”
+
+Doc. 16-1, at 44). The Plaintiffs contend that because the job posting does not distinguish
+
+between public education experience and payroll experience earned in the private sector that it
+
+should be interpreted as including both kinds of prior experience.  The Plaintiffs also contend
+
+that because the job posting specifically says salary will be determined “upon verification of . . .
+
+education” it should be interpreted as giving credit for any education attained by the classified
+
+employee. 
+
+The parties do not dispute that several classified employees, both Caucasian and African
+
+American, have received credit for salary schedule purposes for prior employment at UAB, and
+
+specifically that Coretta Butler Densmore, Darlene Bufford, Veverly Locke, Ritter Posey, and
+
+Griselda McCoy, all African American Board employees, received such credit for past
+
+employment at UAB.1
+
+ The Plaintiffs point out that “it appears [the African American employees who did
+1
+receive credit for past public education experience] did not receive credit for this experience until
+after Plaintiffs filed their Complaint in federal court on November 30, 2011 . . . because
+Defendant did not mention this fact in its letter to Plaintiff’s counsel on August 10, 2010 or in its
+Position Statement it submitted on March 4, 2011 to the EEOC during its investigation.” (Doc.
+22, at 4)(emphasis in original). While the Plaintiff is correct that the letter and position statement
+do not contain this information, the lack of such information does not mean that the African
+
+5
+
+3.
+
+Alleged Comparator 
+
+The parties do not dispute that Melinda Nix, a Caucasian Board payroll clerk, received
+
+credit for her prior working experience at UAB as a records management specialist for purposes
+
+of the salary schedule. Ms. Nix has a high school degree and worked at UAB as a medical
+
+records clerk from 1988 to 1994. Ms. Nix began working for the Board in August 1994 and was
+
+promoted to payroll clerk in December 2002. After writing letters for several years about her
+
+salary, Ms. Nix filed a charge of discrimination against the Board alleging race and gender
+
+discrimination because other employees had received credit for prior experience at UAB and she
+
+had not. As a result of settlement of the charge of discrimination, in 2009 the Board paid Ms. Nix
+
+back pay and gave her credit for her UAB experience by placing her on a higher step in the salary
+
+schedule. 
+
+4.
+
+Alleged Disparate Compensation
+
+In October 2007, Plaintiffs Ms. Curlee and Ms. Wyatt wrote a letter to Mr. Watts
+
+requesting a review of their salary placement. Mr. Watts told Ms. Curlee that the Board did not
+
+give credit for experience that was not in public education. On November 27, 2007 for
+
+unexplained reasons, Ms. Curlee withdrew her request for review. The Plaintiffs contend that at a
+
+meeting with all of the payroll clerks, Mr. Watts and other Board supervisors told the payroll
+
+clerks that Ms. Nix’s placement on the salary schedule was changed by the Board because of a
+
+“legal situation” and because of her previous experience working in public education at UAB.
+
+American employees were not previously given credit for their past public education experience.
+The absence of such information to the contrary does not mean the Plaintiffs’ assumption is fact.
+Additionally, the information is irrelevant to the current action because the Plaintiffs in this case
+indisputably do not have past public education experience. 
+
+6
+
+(Doc. 16-5, at 37). In her deposition, Ms. Curlee testified that she knew of several African
+
+American payroll clerks who received credit for prior work experience in public education and at
+
+UAB. (Doc. 16-1, at 21). 
+
+In February 2009, Ms. Wyatt again inquired about her placement on the salary schedule in
+
+light of Ms. Nix’s increase, and she was told that Ms. Nix’s salary increased because of her prior
+
+work experience at UAB. In her deposition, Ms. Wyatt testified that she knew of several African
+
+American payroll clerks who received credit for prior work experience in public education and at
+
+UAB. (Doc. 16-4, at 17). 
+
+Ms. Brown and Ms. Davis both testified that they became unhappy with their salaries
+
+when they found out that Ms. Nix was doing the same job but getting paid more than they were.
+
+Both Ms. Brown and Ms. Davis testified that to their knowledge no Board employee had ever
+
+received credit for prior work experience for a similar job function that was not in public
+
+education. (Doc. 16-2, at 18; Doc. 16-3, at 14). 
+
+B.   
+
+Procedural Background
+
+All four individual Plaintiffs filed EEOC Charges of Discrimination alleging race
+
+discrimination on January 4, 2011, and the EEOC issued notice of right to sue letters to all of the
+
+Plaintiffs on September 1, 2011. The Plaintiffs then filed a two count Complaint in this court on
+
+November 30, 2011. Count I alleges disparate treatment for race under Title VII of the Civil
+
+Rights Act of 1984, 42 U.S.C. § 2000e, et seq. and Count II alleges race discrimination “in
+
+violation of § 1981, via 42 U.S.C. § 1983.” (Doc. 1, at 9).  After discovery, the Board filed a
+
+motion for summary judgment, the Plaintiffs filed a response, and the Board filed a reply. The
+
+court now considers the motion. 
+
+7
+
+II.
+
+STANDARD OF REVIEW
+
+ Summary judgment allows a trial court to decide cases when no genuine issues of
+
+material fact are present and the moving party is entitled to judgment as a matter of law.  See
+
+Fed. R. Civ. P. 56.  When a district court reviews a motion for summary judgment, it must
+
+determine two things: (1) whether any genuine issues of material fact exist; and if not, (2)
+
+whether the moving party is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56(c).  
+
+The moving party “always bears the initial responsibility of informing the district court of
+
+the basis for its motion, and identifying those portions of ‘the pleadings, depositions, answers to
+
+interrogatories, and admissions on file, together with the affidavits, if any,’ which it believes
+
+demonstrate the absence of a genuine issue of material fact.”  Celotex Corp. v. Catrett, 477 U.S.
+
+317, 323 (1986) (quoting Fed. R. Civ. P. 56).  The moving party can meet this burden by offering
+
+evidence showing no dispute of material fact or by showing that the non-moving party’s evidence
+
+fails to prove an essential element of its case on which it bears the ultimate burden of proof. 
+
+Celotex, 477 U.S. at 322–23.  Rule 56, however, does not require “that the moving party support
+
+its motion with affidavits or other similar materials negating the opponent’s claim.”  Id.
+
+Once the moving party meets its burden of showing the district court that no genuine
+
+issues of material fact exist, the burden then shifts to the non-moving party “to demonstrate that
+
+there is indeed a material issue of fact that precludes summary judgment.” Clark v. Coats &
+
+Clark, Inc., 929 F.2d 604, 608 (11th Cir. 1991). Disagreement between the parties is not
+
+significant unless the disagreement presents a “genuine issue of material fact.”   Anderson v.
+
+Liberty Lobby, Inc., 477 U.S. 242, 251–52 (1986).   In responding to a motion for summary
+
+judgment, the non-moving party “must do more than simply show that there is some
+
+8
+
+metaphysical doubt as to the material fact.”  Matsushita Elec. Indus. Co. v. Zenith Radio Corp.,
+
+475 U.S. 574, 586 (1986).  The non-moving party must “go beyond the pleadings and by [its]
+
+own affidavits, or by the ‘depositions, answers to interrogatories, and admissions on file,’
+
+designate ‘specific facts showing that there is a genuine issue for trial.’” Celotex, 477 U.S. at 324
+
+(quoting Fed. R. Civ. P. 56(e)) (emphasis added); see also Advisory Committee Note to 1963
+
+Amendment of Fed. R. Civ. P. 56(e) (“The very mission of summary judgment procedure is to
+
+pierce the pleadings and to assess the proof in order to see whether there is a genuine need for
+
+trial.”).  The moving party need not present evidence in a form admissible at trial; “however, he
+
+may not merely rest on [the] pleadings.”  Celotex, 477 U.S. at 324.  If the evidence is “merely
+
+colorable, or is not significantly probative, summary judgment may be granted.”  Anderson, 477
+
+U.S. at 249–50 (citations omitted).  
+
+In reviewing the evidence submitted, the court must “view the evidence presented
+
+through the prism of the substantive evidentiary burden,” to determine whether the nonmoving
+
+party presented sufficient evidence on which a jury could reasonably find for the nonmoving
+
+party.  Anderson, 477 U.S. at 254; Cottle v. Storer Commc’n, Inc., 849 F.2d 570, 575 (11th Cir.
+
+1988).  The court must refrain from weighing the evidence and making credibility
+
+determinations, because these decisions fall to the province of the jury.  See Anderson, 477 U.S.
+
+at 255; Stewart v. Booker T. Washington Ins. Co., 232 F.3d 844, 848 (11th Cir. 2000); Graham v.
+
+State Farm Mut. Ins. Co., 193 F.3d 1274, 1282 (11th Cir. 1999).  “Even if a district court
+
+‘believes that the evidence presented by one side is of doubtful veracity, it is not proper to grant
+
+summary judgment on the basis of credibility choices.’” Feliciano v. City of Miami Beach, 707
+
+F.3d 1244, 1252 (11th Cir. 2013)  (citing Miller v. Harget, 458 F.3d 1251, 1256 (11th Cir.
+
+9
+
+2006)).  The court should not disregard self-serving statements made in sworn testimony simply
+
+because they are self-serving at the summary judgment stage, and if the self-serving statements
+
+create a genuine issue of material fact, the court should deny summary judgment on that basis. Id.
+
+at 1253. 
+
+Furthermore, all evidence and inferences drawn from the underlying facts must be viewed
+
+in the light most favorable to the non-moving party.  Graham, 193 F.3d at 1282.  The nonmoving
+
+party “need not be given the benefit of every inference but only of every reasonable inference.” 
+
+Id.  The evidence of the non-moving party “is to be believed and all justifiable inferences are to
+
+be drawn in [its] favor.”  Anderson, 477 U.S. at 255.  After both parties have addressed the
+
+motion for summary judgment, the court must grant the motion if no genuine issues of material
+
+fact exist and if the moving party is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56. 
+
+III.
+
+LEGAL DISCUSSION
+
+The Plaintiffs allege in Count I that the Board engaged in unlawful race discrimination
+
+under Title VII of the Civil Rights Act of 1984, 42 U.S.C. § 2000e, et seq. and allege in Count II
+
+that the Board engaged in intentional and willful race discrimination in violation of 42 U.S.C.    
+
+§ 1981 via 42 U.S.C. § 1983. The court will analyze both Counts simultaneously because
+
+“[w]here, as here, plaintiff[s] predicate liability under Title VII on disparate treatment and also
+
+claim liability under sections 1981 and 1983, the legal elements of the claims are identical . . .
+
+[and] we need not discuss plaintiffs[’] Title VII claims separately from [their] section 1981 and
+
+section 1983 claims.” Stallworth v. Shuler, 777 F.2d 1431, 1433 (11th Cir. 1985). 
+
+One way to establish a claim of race discrimination is through direct evidence.  Burrell v.
+
+Bd. of Trs. of Ga. Military Coll., 125 F.3d 1390, 1393 (11th Cir. 1997).  If the Plaintiffs cannot
+
+10
+
+prove discrimination by direct evidence, as in this case, the Plaintiffs must establish a  prima
+
+facie case through the burden shifting analysis articulated by the Supreme Court in McDonnell
+
+Douglas Corp. v. Green, 411 U.S. 792 (1973).  Nevertheless, the “ultimate burden of persuading
+
+the trier of fact that the defendant intentionally discriminated . . . remains with the plaintiff.” Tex.
+
+Dep’t of Cmty. Affairs v. Burdine, 450 U.S. 248, 251-52 (1981). 
+
+To establish a prima facie case of intentional discriminatory compensation, the Plaintiffs 
+
+must establish that:  (1) they belong to a protected class; (2) they received low wages; (3)
+
+similarly situated comparators outside the protected class received higher compensation; and (4)
+
+they were qualified to receive the higher wage. Lee v. Mid–State Land & Timber Co., 285 F.
+
+App’x 601, 606 (11th Cir. 2008) (citing Cooper v. S. Co., 390 F.3d 695, 734–35 (11th Cir.
+
+2004), overruled on other grounds by Ash v. Tyson Foods, Inc., 546 U.S. 454 (2006)). 
+
+The parties do not dispute that all four Plaintiffs are African American and, therefore,
+
+members of a protected class and that they all received a lower salary than Melinda Nix, a
+
+Caucasian with the same position. The Board argues that the Plaintiffs cannot establish they were
+
+qualified to receive a higher wage because the Plaintiffs are compensated in accordance with the
+
+salary schedule. The Plaintiffs argue that the Board’s argument is flawed because it is based on
+
+the “alleged practice of giving credit to classified employees who have prior education
+
+experience.” (Doc. 22, at 12). 
+
+The court finds that what the Plaintiffs consider only an “alleged” practice is in fact a
+
+practice of the Board, even if it is not specifically published in the salary schedule.
+
+Superintendent Witherspoon and Mr. Watts testified that both certified and classified employees
+
+with past experience at public education institutions, including UAB, received credit for that
+
+11
+
+work in moving up the salary schedule. The Plaintiffs did not testify that they did not know of
+
+anyone who had past public education experience who did not receive credit, and, in fact, Ms.
+
+Curlee and Ms. Wyatt specifically testified that they knew of African Americans who had
+
+received credit for past public education experience. The Plaintiffs cannot simply point to the
+
+absence of a specific written policy stating that classified employees are given credit for past
+
+public education experience as evidence that such a policy does not exist. The testimony of
+
+Superintendent Witherspoon, Mr. Watts, and indeed the Plaintiffs themselves shows that such a
+
+policy exists and is uniformly applied to classified and certified employees of all races, including
+
+Ms. Nix, Coretta Butler Densmore, Darlene Bufford, Veverly Locke, Ritter Posey, and Griselda
+
+McCoy. 
+
+The Plaintiffs’ argument that they should receive credit for past payroll-related work
+
+experience or education also fails. Ms. Brown and Ms. Davis specifically testified that they knew
+
+of no Board employees that received credit for past relevant work experience in the private
+
+sector.  Merely pointing to the job posting for a new payroll clerk that notes past experience and
+
+education will be taken into account in determining a salary is not enough to show that the Board
+
+should take into account past work in the private sector or education above and beyond that
+
+which is required. Simply because the Plaintiffs do not like the Board’s policy of not considering
+
+such factors does not mean that the policy is unfair and it certainly does not show that it is
+
+discriminatory. “Federal courts ‘do not sit as a super-personnel department that reexamines an
+
+entity’s business decisions,’”and the court will not make such a  judgment in this case about
+
+whether the Board’s policy is wise.  Elrod v. Sears, Roebuck & Co., 939 F.2d 1466 (11 Cir.
+
+1991) (quoting Mechnig v. Sears, Roebuck & Co., 864 F.2d 1359, 1365 (7th Cir. 1988)). It is
+
+12
+
+enough that the policy is not outwardly discriminatory and does not have a discriminatory effect. 
+
+While the Board does not specifically argue that Ms. Nix is not a valid comparator in this
+
+case, the court simply notes that the Plaintiffs argument fails on this prong also. Ms. Nix does
+
+have past experience working at a public education institution, UAB. The Plaintiffs do not
+
+dispute such experience nor do they do dispute that none of them have any past experience
+
+working in a public education institution. This difference is fatal to the Plaintiff’s case; without a
+
+similarly situated Caucasian employee who is paid more than the Plaintiffs, their case must
+
+certainly fail. Because the Plaintiffs have failed to show a prima facie case of discriminatory
+
+compensation, the court need not address whether the Board’s legitimate reasons for its policy
+
+decision are pretext for discrimination under the McDonnell Douglas burden-shifting framework. 
+
+IV.
+
+CONCLUSION
+
+Because no genuine issues of material fact exist and because the Plaintiffs have failed to
+
+make a prima facie showing of discriminatory compensation under either Count of their
+
+Complaint, the court will GRANT the Board’s motion for summary judgment and DISMISS the
+
+case WITH PREJUDICE. 
+
+DONE and ORDERED this 28th day of June, 2013. 
+
+____________________________________
+KARON OWEN BOWDRE
+UNITED STATES DISTRICT JUDGE
+
+13
+
+

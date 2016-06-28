@@ -1,0 +1,336 @@
+# Author : Rajul
+# General HTML Scraping Code
+
+# TODOs
+#	Add a delimiter clause
+#	Add multiple order value support
+#	Add multiple number specification feature in order
+#	Make a final decision about where to log
+#	Add check for data_files folder on path
+
+import json
+import urllib2
+from lxml import etree
+from bs4 import BeautifulSoup
+import csv
+import os
+import shutil
+import logging
+import datetime
+import re
+
+
+# Basic logging configuration
+logging.basicConfig (filename='parsing.log', 
+				level=logging.DEBUG,
+			)
+logger = logging.getLogger(__name__)
+
+
+# Class Definition for the DataExtract class
+class DataExtract:
+	'''
+		This class contains various methods that are needed to
+		read into a JSON config file and scrap elements from 
+		HTML dump pages based on the config
+	'''
+
+	def __init__ (self, config, filename, path=(os.path.abspath('.') + '/data_files/')):
+		'''
+			Initialises the DataExtract object and sets the filename, path 
+			and creates an output location for the file to be extracted .
+			Also, creates BeautifulSoup and etree objects and assign them 
+			as class attributes.
+
+			Parameters:
+				config 		: 	JSON object which is the JSON dump of the requirement config file
+				filename	:	Name of the HTML dump file from where to extract the data
+				path 		:	Path where the file exists. By default, the data_files folder in current directory
+
+			Returns: 
+				An intitialized object of the class DataExtract
+		'''
+
+		# Assigning general class attributes
+		self.config = config
+		self.filename = filename
+		self.path = path
+
+		# Assigning the BeautifulSoup and etree objects as class attributes
+		self.soup = get_beautifulsoup_object(self.path, self.filename)
+		self.tree = get_etree_object(self.path, self.filename)
+
+		# Assigning output files directory
+		self.output_dir = create_output_directory(self.path)
+
+
+	def parse_doc (self):
+		logger.info('parse_doc | %s |Start Time: %s'%(self.filename, str(datetime.datetime.now())))
+
+		self.required_elements = {}
+			
+		for config_block in self.config:
+			x = config_block['name']
+
+			if ('multiple' not in config_block.keys()) or (config_block.keys() != True) :
+				config_block['multiple'] = False
+			
+			# Getting the high-level elements
+			if 'tag' in config_block.keys():
+				y = self.extract_elements_by_tag(config_block['tag'], config_block['properties'], config_block['multiple'])
+			elif 'xpath' in i.keys():
+				y = self.extract_elements_by_xpath(config_block['xpath'], config_block['multiple'])
+			else:
+				y = None
+				self.required_elements[x] = y
+				continue
+
+			# Refining elements by order
+			if 'order' in config_block.keys():
+				z = self.extract_from_order(config_block['order'], y)
+			
+
+			# Getting specific attributes is specified			
+			z = None
+
+			if 'get-properties' in config_block.keys():
+				for i in range(len(y)):
+					y[i] = self.get_properties(y[i], config_block['get-properties'])
+			elif 'tag' in config_block.keys():
+				for i in range(len(y)):
+						y[i] = y[i].text.encode('utf-8').strip()
+			else:
+				for i in range(len(y)):
+						z = ''
+						for j in y[i].itertext():
+							z = z + j.strip() + '\n' 
+						y[i] = z
+
+			self.required_elements[x] = z
+
+			# Matching the regular expression
+			if 'match-regex' in i.keys():
+				match = self.match_regex(i['match-regex'], z)
+				match = 'Match: ' + str(match)
+			else:
+				match = 'Unchecked'
+				
+			print x, z, match
+			print
+
+		g = open(os.path.abspath('.') + "/output_files/" + self.filename, "w")
+		g.write(str(self.required_elements))
+
+		logger.info('parse_doc | %s | End Time: %s'%(self.filename, str(datetime.datetime.now())))
+
+	
+	def match_regex (self, pattern, s):
+		'''
+			Matches the passed string with the given pattern to 
+			identify the validity of the results.
+
+			Parameters: 
+				pattern		:	Regular Expression pattern that needs to be matched
+				s 			:	String that will be matched against the above pattern
+
+			Returns:
+				Boolean		:	Returns True/False based on if the given pattern matched
+		'''
+
+		match = re.search (pattern, s)
+		if match:
+			return True
+		else:
+			return False
+
+
+	def extract_elements_by_tag (self, tag, properties={}, multiple=True):
+		'''
+			Returns a elements of the HTML document identified by 
+			the tag and properties which are passed.
+
+			Parameters:
+				tag 		:	HTML tag of the targetted element
+				properties 	:	Dictionary of properties for unique identification of element (optional).
+								Defaults to empty directory.
+
+			Returns:
+				elements 	:	A list of BeautifulSoup Tag objects which match the specified Parameters
+		'''
+
+		logger.debug('extract_element_by_tag | Start Time: %s'%(str(datetime.datetime.now())))
+
+		elements = self.soup.find_all(tag, properties)
+
+		# Checking if the element is identified as unique when required
+		if multiple == False:
+			if len(elements) > 1:
+				elements = None
+		
+		logger.debug('extract_multiple_element_by_tag | End Time: %s'%(str(datetime.datetime.now())))
+		return elements
+
+
+	def extract_elements_by_xpath (self, xpath, multiple=True):
+		'''
+			Returns elements of the HTML document matching
+			the xpath which is passed.
+
+			Parameters:
+				xpath 		:	xpath of the targetted element in the HTML document
+
+			Returns:
+				elements 	:	A list of lxml objects which match the specified parameters #TODO: Check
+		'''
+
+		logger.debug('extract_multiple_element_by_xpath | Start Time: %s'%(str(datetime.datetime.now())))
+		
+		elements = self.tree.xpath(xpath)
+
+		# Checking if the element is identified as unique when required
+		if multiple == False:
+			if len(elements) > 1:
+				elements = None
+		
+		logger.debug('extract_multiple_element_by_xpath | End Time: %s'%(str(datetime.datetime.now())))
+		return elements
+
+
+	def extract_from_order (self, order, element):
+		'''
+			Returns a list of elements based on the order passed
+
+			Parameters:
+				order 		:
+				element 	:
+
+			Returns:
+				elements_from_order		:
+		'''
+		
+		# TODO: Implement a list of numbers feature
+		for block in order:
+			if 'number' in block.keys():
+				if 'properties' in block.keys():
+					elements = element.find_all(block['tag'], block['properties'])
+					matching_element = elements[int(block['number']) - 1]
+					break
+
+				count = 0
+				for i in element.contents:
+					if 'name' in dir(i):
+						if i.name == block['tag']:
+							count = count + 1
+						
+						if count == int(block['number']):
+							matching_element = i
+							break
+			elif 'properties' in block.keys():
+				matching_element = element.find_all(block['tag'], block['properties'])
+				
+		return matching_element
+	
+
+	def get_properties (self, element, properties):
+		'''
+			Called when an optional "get-properties" tag specified inside
+			a config block. Returns a dictionary of the required properties.
+
+			Parameters:
+				element 	:	Config Block element which matches the tag/properties or xpath description
+				properties 	:	Properties listed in the config block under "get-properties"
+
+			Returns:
+				required_properties		:	Dictionary of the required properties and their values
+		'''
+
+		logger.info('Start Time: %s'%(str(datetime.datetime.now())))
+
+		required_properties = {}
+		
+		for attr in properties:
+			# required_properties[j] = element[j]
+			required_properties[j] = element.get(attr)
+
+		logger.info('Start Time: %s'%(str(datetime.datetime.now())))
+		return required_properties
+
+
+	def get_beautifulsoup_object (path, filename):
+		'''
+			Creates a BeautifulSoup object for the passed file at the passed path.
+
+			Parameters:
+				path 		: 	Path at which the passed file exists
+				filename	:	Name of the file for which to create etree object
+
+			Returns:
+				soup		:	BeautifulSoup object of the passed file
+		'''
+
+		f = open(path + filename, 'r')
+		content = f.read()
+		soup = BeautifulSoup(content)
+		return soup
+
+
+	def get_etree_object (path, filename):
+		'''
+			Creates an etree object for the passed file at the passed path.
+
+			Parameters:
+				path 		: 	Path at which the passed file exists
+				filename	:	Name of the file for which to create etree object
+
+			Returns:
+				tree		:	etree object of the passed file
+		'''
+
+		url = "file://" + path + filename
+		response = urllib2.urlopen(url)
+		htmlparser = etree.HTMLParser()
+		tree = etree.parse(response, htmlparser)
+		return tree
+
+
+	def create_output_directory(path=os.path.abspath('.')):
+		'''
+			Creates an output directory, at the passed path (if it does not exists already)
+
+			Parameters:
+				path 		:	Path at which to create the output_files directory. Defaults
+								to the current directory.
+
+			Returns:
+				output_dir 	:	Returns the absolute path of the output directory
+		'''
+		
+		output_dir = path + '/output_files/'
+		if 'output_files' not in os.listdir(path):
+			os.mkdir(output_dir)
+
+		return output_dir
+
+
+	def write_results_to_csv (self, results):
+		logger.debug('write_results_to_csv | Start Time: %s'%(str(datetime.datetime.now())))
+
+		s = []
+		for k, v in results:
+		    s.append(v)
+
+		with open('results.csv', 'ab') as csvfile:
+			spamwriter = csv.writer(csvfile)
+			spamwriter.writerow(s)
+		logger.debug('write_results_to_csv | End Time: %s'%(str(datetime.datetime.now())))
+
+
+if __name__ == '__main__':
+	files = os.listdir('data_files')
+	g = open('config.json', 'r')
+	config_str = g.read()
+	config = json.loads(config_str)
+
+	filename = '1-million-color-palettes-thanks-for-sharing-the-love.html'
+	extractor = DataExtract(config, filename)
+	extractor.parse_doc()

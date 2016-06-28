@@ -1,0 +1,12 @@
+from vimeo import VimeoClient
+
+vimeo = VimeoClient("fd43cedfe52f09848142cbd3501ea0a5")
+
+a = vimeo.channels()
+
+count = 0
+for i in a.items():
+	count = count + 1
+	print count
+	print i
+	print

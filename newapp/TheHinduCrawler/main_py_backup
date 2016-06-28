@@ -1,0 +1,446 @@
+
+import sys
+sys.path.insert(0, 'libs')
+import webapp2
+import requests
+from bs4 import BeautifulSoup
+import jinja2
+import string
+# jinja_environment = jinja2.Environment(autoescape=True,
+    # loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__), 'templates')))
+
+class MainHandler(webapp2.RequestHandler):
+	def get(self):
+
+		# url="http://www.thehindu.com/todays-paper/"
+		# source_code=requests.get(url)
+		# html=source_code.text
+		# soup = BeautifulSoup(html,'html.parser')
+		# jinja_environment=jinja2.Environment(autoescape=True, loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__),'templates')))
+   
+		links1="""
+		<style>
+		.myButton {
+			moz-box-shadow: 0px 1px 0px 0px #1c1b18;	webkit-box-shadow: 0px 1px 0px 0px #1c1b18;	box-shadow: 0px 1px 0px 0px #1c1b18;	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #ccc2a6));	background:-moz-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-webkit-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-o-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-ms-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#ccc2a6',GradientType=0);	background-color:#eae0c2;	moz-border-radius:15px;	webkit-border-radius:15px;	border-radius:15px;	border:2px solid #333029;	display:inline-block;	cursor:pointer;	color:#505739;	font-family:arial;	font-size:14px;	font-weight:bold;	padding:12px 16px;text-decoration:none;text-shadow:0px 1px 0px #ffffff;
+		}
+		.myButton:hover {
+			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ccc2a6), color-stop(1, #eae0c2));
+			background:-moz-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-webkit-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-o-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-ms-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc2a6', endColorstr='#eae0c2',GradientType=0);
+			background-color:#ccc2a6;
+		}
+		.myButton:active {
+			position:relative;
+			top:1px;
+		}
+		</style>
+		<body bgcolor='	#A3A6A6'>
+		<div align='center'><button style="width:500px" class="myButton"><h3>Today's Headlines</h3><h5>articles and summaries</h5></button><br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=home'>Front Page</a> <br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=national'>National</a> <br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=international'>International</a> <br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=opinion'>Opinion</a><br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=business'>Business</a><br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=sports'>Sports</a><br><br>
+		</div>
+		</body>
+		"""
+		
+
+
+		# links="""
+		# <style>
+		# .myButton {
+		# 	moz-box-shadow: 0px 1px 0px 0px #1c1b18;	webkit-box-shadow: 0px 1px 0px 0px #1c1b18;	box-shadow: 0px 1px 0px 0px #1c1b18;	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #ccc2a6));	background:-moz-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-webkit-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-o-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-ms-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#ccc2a6',GradientType=0);	background-color:#eae0c2;	moz-border-radius:15px;	webkit-border-radius:15px;	border-radius:15px;	border:2px solid #333029;	display:inline-block;	cursor:pointer;	color:#505739;	font-family:arial;	font-size:14px;	font-weight:bold;	padding:12px 16px;text-decoration:none;text-shadow:0px 1px 0px #ffffff;
+		# }
+		# .myButton:hover {
+		# 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ccc2a6), color-stop(1, #eae0c2));
+		# 	background:-moz-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+		# 	background:-webkit-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+		# 	background:-o-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+		# 	background:-ms-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+		# 	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+		# 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc2a6', endColorstr='#eae0c2',GradientType=0);
+		# 	background-color:#ccc2a6;
+		# }
+		# .myButton:active {
+		# 	position:relative;
+		# 	top:1px;
+		# }
+		# </style>
+		# <div align='center'><button style="width:500px" class="myButton"><h3>Today's Headlines in India</h3><h5>articles and summaries</h5></button><br><br>"""
+		# for link in soup.findAll('div',{'class':'tpaper'}):
+		# 	article_title=link.find('a').text.encode("utf-8")
+		# 	article_link=link.find('a').get("href").encode("utf-8")
+		# 	btn="""<button style="width:500px" class="myButton">"""+article_title+"""</button>
+		# 	<a style="width:300px" href='"""+article_link+"""' class="myButton" target="_blank">View Full Article from Source</a>
+		# 	<a style="width:300px" class="myButton" href='/summary?a="""+article_link+"""&title="""+article_title+"""'>View Summary</a>
+		# 	<br><br>
+		# 	"""
+		# 	links=links+btn
+	
+		# links=links+"</div>"
+		self.response.write(links1)
+
+class Headlines(webapp2.RequestHandler):
+	def get(self):
+		req=self.request.get('req')
+		
+		if req=='home':
+			url="http://www.thehindu.com/todays-paper/"
+		if req=='national':
+			url="http://www.thehindu.com/todays-paper/tp-national/"
+		if req=='international':
+			url="http://www.thehindu.com/todays-paper/tp-international/"
+		if req=='opinion':
+			url="http://www.thehindu.com/todays-paper/tp-opinion/"
+		if req=='business':
+			url="http://www.thehindu.com/todays-paper/tp-business/"
+		if req=='sports':
+			url="http://www.thehindu.com/todays-paper/tp-sports/"
+	
+		source_code=requests.get(url)
+		html=source_code.text
+		soup = BeautifulSoup(html,'html.parser')
+		links="""
+		<style>
+		.myButton {
+			moz-box-shadow: 0px 1px 0px 0px #1c1b18;	webkit-box-shadow: 0px 1px 0px 0px #1c1b18;	box-shadow: 0px 1px 0px 0px #1c1b18;	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #ccc2a6));	background:-moz-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-webkit-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-o-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-ms-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#ccc2a6',GradientType=0);	background-color:#eae0c2;	moz-border-radius:15px;	webkit-border-radius:15px;	border-radius:15px;	border:2px solid #333029;	display:inline-block;	cursor:pointer;	color:#505739;	font-family:arial;	font-size:14px;	font-weight:bold;	padding:12px 16px;text-decoration:none;text-shadow:0px 1px 0px #ffffff;
+		}
+		.myButton:hover {
+			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ccc2a6), color-stop(1, #eae0c2));
+			background:-moz-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-webkit-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-o-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-ms-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc2a6', endColorstr='#eae0c2',GradientType=0);
+			background-color:#ccc2a6;
+		}
+		.myButton:active {
+			position:relative;
+			top:1px;
+		}
+		</style>
+		<body bgcolor='	#A3A6A6'>
+		<div align='center'><a style="width:500px" class="myButton" href='/'><h3>Today's Headlines</h3><h5>articles and summaries</h5></a><br><br>
+		<a style="width:150px" class="myButton" href='/headlines?req=home'>Front Page</a>
+		<a style="width:150px" class="myButton" href='/headlines?req=national'>National</a>
+		<a style="width:150px" class="myButton" href='/headlines?req=international'>International</a>
+		<a style="width:150px" class="myButton" href='/headlines?req=opinion'>Opinion</a>
+		<a style="width:150px" class="myButton" href='/headlines?req=business'>Business</a>
+		<a style="width:150px" class="myButton" href='/headlines?req=sports'>Sports</a><br><br>
+		"""
+		for link in soup.findAll('div',{'class':'tpaper'}):
+			article_title=link.find('a').text.encode("utf-8")
+			article_link=link.find('a').get("href").encode("utf-8")
+			btn="""<a style="width:500px" class="myButton" href='/article?a="""+article_link+"""&title="""+article_title+"""' >"""+article_title+"""</a>
+			<a style="width:300px" href='"""+article_link+"""' class="myButton" target="_blank">View Full Article from Source</a>
+			<a style="width:300px" class="myButton" href='/summary?a="""+article_link+"""&title="""+article_title+"""'>View Summary</a>
+			<br><br>
+			"""
+			links=links+btn
+	
+		links=links+"</div></body>"
+		self.response.write(links)
+
+class Articles_Text(webapp2.RequestHandler):
+	def get(self):
+		url=self.request.get('a')
+		title=self.request.get('title')
+		# url="http://www.thehindu.com/todays-paper/handle-trivandrum/article6495436.ece"
+		source_code=requests.get(url)
+		html=source_code.text
+		soup = BeautifulSoup(html,'html.parser')
+		art=soup.find('div',{'class':'article-body'})
+		article_text=""
+		article_head=soup.find('h1',{'class':'detail-title'}).text.encode("utf-8")
+		if art!=None:
+			for pp in art.findAll('p',{'class':'body'}):
+				article_text=article_text+(pp.text).encode("utf-8")
+		else:
+			art=soup.find('div',{'class':'article-text'})
+			for pp in art.findAll('p',{'class':'body'}):
+				article_text=article_text+(pp.text).encode("utf-8")
+		# print article_head
+		# print article_text
+
+		if article_text.strip()=="":
+			article_text="No Body To Display"
+
+
+		links="""
+		<style>
+		.myButton {
+			moz-box-shadow: 0px 1px 0px 0px #1c1b18;	webkit-box-shadow: 0px 1px 0px 0px #1c1b18;	box-shadow: 0px 1px 0px 0px #1c1b18;	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #ccc2a6));	background:-moz-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-webkit-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-o-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-ms-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#ccc2a6',GradientType=0);	background-color:#eae0c2;	moz-border-radius:15px;	webkit-border-radius:15px;	border-radius:15px;	border:2px solid #333029;	display:inline-block;	cursor:pointer;	color:#505739;	font-family:arial;	font-size:14px;	font-weight:bold;	padding:12px 16px;text-decoration:none;text-shadow:0px 1px 0px #ffffff;
+		}
+		.myButton:hover {
+			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ccc2a6), color-stop(1, #eae0c2));
+			background:-moz-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-webkit-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-o-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-ms-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc2a6', endColorstr='#eae0c2',GradientType=0);
+			background-color:#ccc2a6;
+		}
+		.myButton:active {
+			position:relative;
+			top:1px;
+		}
+		</style>
+		<body bgcolor='	#A3A6A6'>
+		<div align='center'><button style="width:1000px" class="myButton"><h2>"""+article_head+"""</h2><h4>"""+article_text+"""</h4></button><br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=home'>Go Back To Headlines</a>
+		</div></body>
+		"""
+		# links=links+"</div>"
+		self.response.write(links)
+
+class Summary(webapp2.RequestHandler):
+	def median(self,score):
+		array=[]
+		for s in score:
+			array.append(s)
+		for c in range(len(array)):
+			for d in range(len(array)-c-1):
+				if array[d] > array[d+1]:
+					swap       = array[d];
+					array[d]   = array[d+1];
+					array[d+1] = swap;
+		med=array[int(len(array)/2)]
+		high=array[len(array)-1]
+		return [med,high]
+	def get(self):
+		prep=["a","about",  "above",   "across",  "afore",  "after",   "along",  "alongside",   "among",  "amongst",  "an",  "anenst",  "apropos",  "apud",  "around",  "as",  "aside",  "astride",  "at",   "atop",   "before",  "behind",  "below",  "beneath",  "beside",  "besides",  "between",  "beyond",  "but",  "by",  "circa",  "concerning",  "despite",  "down",  "during",  "for",   "from",  "given",  "in",  "including",  "inside",  "into",  "lest",  "like", "if", "is",  "mid",  "midst",  "minus",  "modulo",  "near",  "next",  "notwithstanding",  "of",  "off",  "on",  "onto",  "opposite",  "out",  "outside",  "over",  "pace",  "past",  "per",  "plus",  "pro",   "regarding",  "round",  "sans",  "save",  "since",  "than",  "through",  "throughout",  "till",  "times",  "to",   "under", "unlike",  "until",  "unto",  "up",  "upon",  "vice",  "with", "within", "without", "am","is","i","m","are","the","that","this","there","here","their","were","those"]
+
+
+
+		trans=["only","fact","addition","coupled","mention","important","token","equally","identically","uniquely","moreover","together","likewise","comparatively","correspondingly","similarly","furthermore","additionally","summarize","summation","concluding","conclusion","henceforthe","therefore","resulting","result","knowingly"]
+
+		url=self.request.get('a')
+		title=self.request.get('title')
+		# url="http://www.thehindu.com/todays-paper/handle-trivandrum/article6495436.ece"
+		source_code=requests.get(url)
+		html=source_code.text
+		soup = BeautifulSoup(html,'html.parser')
+		art=soup.find('div',{'class':'article-body'})
+		article_text=""
+		article_head=soup.find('h1',{'class':'detail-title'}).text.encode("utf-8")
+		if art!=None:
+			for pp in art.findAll('p',{'class':'body'}):
+				article_text=article_text+(pp.text).encode("utf-8")
+		else:
+			art=soup.find('div',{'class':'article-text'})
+			for pp in art.findAll('p',{'class':'body'}):
+				article_text=article_text+(pp.text).encode("utf-8")
+		# print article_head
+		# print article_text
+
+		if article_text.strip()=="":
+			article_text="No Body To Display"
+			summary_text="No Body To Display"
+	
+		if article_text!="No Body To Display":
+			title=[]
+			title_text=article_head.replace("-"," ")
+			title_temp=title_text.split()
+
+			for tt in title_temp:
+				if tt not in prep:
+					title.append(string.lower(tt))
+
+			sentences=article_text.split(".")
+			art_size=len(sentences)
+			score=[]
+			for i in range(art_size):
+				score.append(0)
+
+			if art_size>=12:
+				score[0]=score[1]=score[2]=score[3]=score[art_size-2]=score[art_size-3]=score[art_size-4]=50
+			else:
+				score[0]=score[1]=score[art_size-2]=50
+			score[art_size-1]=70
+			i=0
+			for sent in sentences:
+				temp_words=sent.split()
+				words=[]
+				prop_score=0
+				for tt in temp_words:
+					if tt[:1] in list(map(chr, range(65, 90))):
+						prop_score=prop_score+30
+					if tt not in prep:
+						words.append(string.lower(tt)) 
+				conc_score=0
+				tit_score=0
+				wd_score=len(words)*5
+				for wd in words:
+					if wd in trans:
+						conc_score=conc_score+70
+					if wd in title:
+						tit_score=150
+				score[i]=score[i]+prop_score+conc_score+tit_score+wd_score
+				i=i+1
+			array=[]
+			for s in score:
+				array.append(s)
+			for c in range(len(array)):
+				for d in range(len(array)-c-1):
+					if array[d] > array[d+1]:
+						swap       = array[d];
+						array[d]   = array[d+1];
+						array[d+1] = swap;
+
+			med=array[int(len(array)/2)]
+			i=0
+			summary=[]
+			summary_text=""
+			for s in score:
+				if s>=med:
+					summary.append(sentences[i])
+					summary_text=summary_text+sentences[i]
+				i=i+1
+			array1=[]
+			array2=[]
+			array3=[]
+
+			if len(score)%3==0:
+				div1=div2=div3=len(score)/3
+			else:
+				div1=div3=int(len(score))/3
+				div2=div1+len(score)%3
+			d=0
+			for s in score:
+				if d<div1:
+					array1.append(s)
+				if div1==div2:
+					if d>=div1 and d<2*div1:
+						array2.append(s)
+					if d>=2*div1:
+						array3.append(s)	
+				if div1 != div2:
+					if d>=div1 and d<(div1+div2):
+						array2.append(s)
+					if d>=(div1+div2):
+						array3.append(s)
+				d=d+1
+			# print array2
+			# exit()
+			x=Summary()	
+			s1=x.median(array1)
+			s2=x.median(array2)
+			s3=x.median(array3)
+			m1=s1[0]
+			m2=s2[0]
+			m3=s3[0]
+			h1=s1[1]
+			h2=s2[1]
+			h3=s3[1]
+			summary=[]
+			summary_text=""
+			i=0
+			if len(score)>7:
+				count=0
+				for a in array1:
+					if count>1:
+						i=i+1
+						continue
+					if a>=m1:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+
+						count=count+1
+						i=i+1
+				count=0
+				for a in array2:
+					if count>1:
+						i=i+1
+						continue
+					if a>=m2:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+
+						count=count+1
+						i=i+1
+				count=0
+				for a in array3:
+					if count>1:
+						i=i+1
+						continue
+					if a>=m3:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+
+						count=count+1
+						i=i+1
+			else:
+				c=0
+				for a in array1:
+					if a>=h1 and c==0:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+
+						i=i+1
+						c=1
+					else:
+						i=i+1
+						pass
+				c=0
+				for a in array2:
+					if a>=h2 and c==0:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+						i=i+1
+						c=1
+					else:
+						i=i+1
+						pass
+				c=0
+				for a in array3:
+					if a>=h3 and c==0:
+						summary.append(sentences[i])
+						summary_text=summary_text+sentences[i]+". "
+						i=i+1
+						c=1
+					else:
+						i=i+1
+						pass
+
+		links="""
+		<style>
+		.myButton {
+			moz-box-shadow: 0px 1px 0px 0px #1c1b18;	webkit-box-shadow: 0px 1px 0px 0px #1c1b18;	box-shadow: 0px 1px 0px 0px #1c1b18;	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eae0c2), color-stop(1, #ccc2a6));	background:-moz-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-webkit-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-o-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:-ms-linear-gradient(top, #eae0c2 5%, #ccc2a6 100%);	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eae0c2', endColorstr='#ccc2a6',GradientType=0);	background-color:#eae0c2;	moz-border-radius:15px;	webkit-border-radius:15px;	border-radius:15px;	border:2px solid #333029;	display:inline-block;	cursor:pointer;	color:#505739;	font-family:arial;	font-size:14px;	font-weight:bold;	padding:12px 16px;text-decoration:none;text-shadow:0px 1px 0px #ffffff;
+		}
+		.myButton:hover {
+			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ccc2a6), color-stop(1, #eae0c2));
+			background:-moz-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-webkit-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-o-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:-ms-linear-gradient(top, #ccc2a6 5%, #eae0c2 100%);
+			background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ccc2a6', endColorstr='#eae0c2',GradientType=0);
+			background-color:#ccc2a6;
+		}
+		.myButton:active {
+			position:relative;
+			top:1px;
+		}
+		</style>
+		<body bgcolor='	#A3A6A6'>
+		<div align='center'><button style="width:1000px" class="myButton"><h2>"""+article_head+"""</h2><h4>"""+summary_text+"""</h4></button><br><br>
+		<a style="width:300px" class="myButton" href='/headlines?req=home'>Go Back To Headlines</a>
+		</div></body>
+		"""
+		# links=links+"</div>"
+		self.response.write(links)
+	
+app = webapp2.WSGIApplication([
+	('/', MainHandler),
+	('/headlines',Headlines),
+	('/article',Articles_Text),
+	('/summary', Summary)
+], debug=True)
