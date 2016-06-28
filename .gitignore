@@ -1,3 +1,5 @@
+*.gz
+*.pyc
 *.csv
 *.xls
 *.html
